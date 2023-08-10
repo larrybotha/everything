@@ -11,8 +11,12 @@
             "id": "a1816e1c2ea283e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "calendar/2023-08-07.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "calendar/2023-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "calendar/2023-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "calendar/2023-08-07.md"
+              }
             }
           }
         ]
@@ -138,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d6b0c5c1241bd69",
+  "active": "a1816e1c2ea283e4",
   "lastOpenFiles": [
+    "calendar/Untitled.md",
+    "calendar/2023-08-07.md",
+    "calendar",
+    "_support/attachments/daily-note.template.md",
+    "_support/templates",
     "_support/attachments",
     "_support",
     "Untitled.md",

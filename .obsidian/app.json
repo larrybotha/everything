@@ -3,5 +3,6 @@
   "vimMode": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "inbox",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_support/attachments"
 }
