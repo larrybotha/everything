@@ -1,4 +1,4 @@
-Language: #rust 
+Language: [[+ rust]]
 
 ```rust
 struct IntVec(Vec<i32>);
@@ -25,7 +25,7 @@ let int_vec = IntVec([1,2,3]);
 	let c = Centimetres(5);
 	let m = Metres(5);
 	
-	// invalid without writing implementations between types
+	// invalid without writing implementations addition between types
 	let total = c + m;
 	```
 	

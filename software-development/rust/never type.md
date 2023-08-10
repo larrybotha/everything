@@ -1,4 +1,4 @@
-Language: #rust 
+Language: [[+ rust]]
 
 ```rust
 // the function "foo" returns never
