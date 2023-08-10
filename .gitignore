@@ -1,6 +1,8 @@
 # exclude workspaces - i.e. currently viewed files
 .obsidian/workspace-mobile.json
 .obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/plugins/dataview
 
 # Add below lines to exclude OS settings and caches
 .trash/
