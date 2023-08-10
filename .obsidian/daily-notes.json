@@ -1,5 +1,5 @@
 {
   "autorun": true,
-  "template": "_support/attachments/daily-note.template",
+  "template": "_support/templates/daily-note.template",
   "folder": "calendar"
 }
