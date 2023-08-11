@@ -1,6 +1,6 @@
 ---
 tags:
-  - #source/book 
+  - source/book 
 ---
 Author: [[Rob Fitzpatrick]]
 

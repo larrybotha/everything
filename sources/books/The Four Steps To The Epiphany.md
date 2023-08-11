@@ -1,7 +1,7 @@
 
 ---
 tags:
-  - #source/book 
+  - source/book 
 ---
 
 Author: [[Steve Blank]]

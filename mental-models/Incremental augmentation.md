@@ -19,7 +19,7 @@ Incremental augmentation encourages:
 - incremental augmentation may be insufficient when entering a new market, or changing an existing one - something entirely new may need to be created
 
 ## Analogies
-- modding cars - start with a stock car, incrementally upgrading parts until you've created the best car
+- modding cars - start with a stock car, incrementally upgrading parts until you've created the best car - an entirely new machine
 
 ## Relations 
 
