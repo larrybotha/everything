@@ -7,10 +7,11 @@ GitLab's approach to rapidly releasing features to users by deploying the smalle
 - encourages solving problems with a *good enough* approach, i.e.  [[Pareto Principle|80/20 Rule]] 
 - forces team members to find the simplest solution, which is often the best solution
 - allows for obtaining feedback from users to drive subsequent iterations
+- mitigates feature bloat through user research to validate market need
 
 ## Relations
 
-- [[Incremental augmentation]] - a synonym for MVC
+- [[Incremental augmentation]] - the incremental improvement of an offer, as opposed to deploying large iterations
 - [[Feedback]]
 - [[Pareto Principle]] - focus on *good enough* for 80% of users
 

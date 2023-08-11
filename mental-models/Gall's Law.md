@@ -6,8 +6,7 @@
 - a working complex system is derived from expanding on a working simpler system
 
 ## Relations
-
-- [[Incremental augmentation]] - small changes to a working system allow one to respond to change more fluidly - think MVC ala GitLab
+- [[Incremental augmentation]] - small changes to a working system allow one to respond to change more fluidly - think [[Minimum viable change (MVC)]] ala GitLab
 - [[Critical assumptions]]
 - [[Minimum viable offer]] 
 - [[Iteration Cycles]]
