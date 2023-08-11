@@ -1,10 +1,20 @@
-> A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: a complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a simple system.
+![[A complex system that works...|A complex system that works...]]
 
 ---
-## Examples
+## Notes 
+- building a complex system from the outset has a higher cost and likelihood of failure than starting with a simpler system
+- a working complex system is derived from expanding on a working simpler system
 
-- Software that is complex and fragile is an indication that the underlying approaches are likely poorly thought-out or planned. This is in contrast to composable software - small, well-defined logical components that can be combined in complex ways to solve larger problems
+## Relations
 
-## Links and References
+- [[Incremental augmentation]] - small changes to a working system allow one to respond to change more fluidly - think MVC ala GitLab
+- [[Critical assumptions]]
+- [[Minimum viable offer]] 
+- [[Iteration Cycles]]
+- [[Prototyping]]
+- [[Selection tests]]
+- [[Uncertainty]]
+
+## Links and References 
 
 https://personalmba.com/galls-law/
