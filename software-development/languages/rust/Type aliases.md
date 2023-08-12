@@ -1,4 +1,4 @@
-Language: [[+ rust]]
+parent: [[+ rust]]
 
 ```rust
 type Metres = i32;

@@ -1,4 +1,4 @@
-Language: [[+ rust]]
+parent: [[+ rust]]
 
 ```rust
 // the function "foo" returns never

@@ -1,4 +1,4 @@
-Language: [[+ rust]]
+parent: [[+ rust]]
 
 ```rust
 struct IntVec(Vec<i32>);
