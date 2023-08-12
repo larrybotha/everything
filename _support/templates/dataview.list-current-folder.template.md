@@ -1,4 +1,3 @@
-Notes on the Rust language
 ```dataview
 LIST 
 FROM [[]]
