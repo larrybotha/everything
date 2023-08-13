@@ -11,8 +11,11 @@ let x: Option<i32> = Some(5);
 
 // manually unwrap the value
 x
-	.map(|n| wrap(n)) // here we return Option<Option<i32>>
-	.unwrap_or(None)  // unwrap the value, so that we're back to Option<i32>
+	// here we return Option<Option<i32>>
+	.map(|n| wrap(n)) 
+	// unwrap the value, so that we're back to Option<i32>
+	.unwrap_or(None)  
 
-x.and_then(|n| wrap(n)) // no need to unwrap
+// .and_then is syntactic sugar for the above
+x.and_then(|n| wrap(n)) 
 ```
