@@ -14,8 +14,8 @@ x
 	// here we return Option<Option<i32>>
 	.map(|n| wrap(n)) 
 	// unwrap the value, so that we're back to Option<i32>
-	.unwrap_or(None)  
+	.unwrap_or(None);
 
 // .and_then is syntactic sugar for the above
-x.and_then(|n| wrap(n)) 
+x.and_then(|n| wrap(n));
 ```
