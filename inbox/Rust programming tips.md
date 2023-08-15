@@ -1,0 +1,1 @@
+https://www.reddit.com/r/rust/comments/12b7p2p/the_rust_programming_language_absolutely/jevs1h7
