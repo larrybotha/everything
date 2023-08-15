@@ -1,10 +1,17 @@
+## Morning
+### I'm grateful for...
+- 
 
+## Evening Summary
 
-## I'm grateful for...
+### Things that went well
+- 
 
-## Things that went well
+### Things I could have done better
+- 
 
-## Things I could have done better
+### Tomorrow's tasks
+- 
 
 ## Updates 
 #### Created today
