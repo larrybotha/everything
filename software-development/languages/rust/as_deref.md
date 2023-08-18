@@ -20,4 +20,4 @@ assert_eq!(y.as_deref(), Some("foo"));
 - converts `Option<T>` to `Option<&T::Target>` where `::Target`
   represents dereferencing of a contained value via `Deref`,
   such as when the `Option` contains a pointer type such as
-  `[[stdrcrc]]` or `[[stdboxedbox]]`
+  [[std..rc..Rc]] or [[std..boxed..Box]]

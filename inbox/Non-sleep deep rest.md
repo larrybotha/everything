@@ -4,4 +4,4 @@
 ![[Using the body to calm the mind...]]
 
 ## Links and resources
-- [[Master Your Sleep & Be More Alert When Awake]]
+- [[Huberman Lab Episode 2 - Master Your Sleep & Be More Alert When Awake]]

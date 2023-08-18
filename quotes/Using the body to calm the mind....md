@@ -2,4 +2,4 @@
 
 *[[Andrew Huberman]]*
 
-Source: [[Master Your Sleep & Be More Alert When Awake]], or the next episode
+Source: [[Huberman Lab Episode 2 - Master Your Sleep & Be More Alert When Awake]], or the next episode
