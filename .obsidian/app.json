@@ -26,6 +26,8 @@
     "editor:undo",
     "editor:redo",
     "editor:toggle-keyboard",
+    "bookmarks:bookmark-current-heading",
+    "command-palette:open",
     "editor:configure-toolbar"
   ]
 }

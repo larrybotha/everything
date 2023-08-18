@@ -34,7 +34,7 @@ Operazuaytur to Cuenca, shuttle: $12p/p
 
 #### Transport
 
-Operazuaytur to historical centre, taxi: $1.75
+Operazuaytur to historical centre, taxi: $1.75. Taxis seem to run their meters starting at +-57c
 
 #### Restaurants
 
