@@ -12,22 +12,23 @@ impl fmt::Display for IntVec {
 let int_vec = IntVec([1,2,3]);
 ```
 
-- useful for implementing traits on types that are not defined in the crate 
+- useful for implementing traits on types that are not defined in the crate
 - without implementing `Deref` the newtype doesn't have access to any of the methods in the wrapped type without destructuring it
 - useful for differentiating between discrete values of the same type:
 
-	```rust
-	struct Centimetres(u32);
-	struct Metres(u32);
-	
-	// Implement addition within structures...
-	
-	let c = Centimetres(5);
-	let m = Metres(5);
-	
-	// invalid without writing implementations addition between types
-	let total = c + m;
-	```
-	
-	in contrast to how [[Type aliases]] work
+  ```rust
+  struct Centimetres(u32);
+  struct Metres(u32);
+
+  // Implement addition within structures...
+
+  let c = Centimetres(5);
+  let m = Metres(5);
+
+  // invalid without writing implementations addition between types
+  let total = c + m;
+  ```
+
+  in contrast to how [[Type aliases]] work
+
 - useful for hiding implementation details of types

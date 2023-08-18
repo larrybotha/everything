@@ -1,6 +1,7 @@
 Notes on the Rust language
+
 ```dataview
-LIST 
+LIST
 FROM [[]]
 WHERE regextest("^\+", file.name) = false
 ```
