@@ -16,7 +16,7 @@ struct Foo {
 impl Foo {
   fn update_value(&mut self, x: i32) -> i32 {
     // set and return the value without moving self.value
-    old_value = mem::replace(&mut self.value, x);
+    let old_value = mem::replace(&mut self.value, x);
 
     old_value
   }
@@ -35,6 +35,6 @@ impl Foo {
 
 - `std::mem::replace` allows for replacing a value in memory
   in-place without affecting ownership
-- this is useful in scenarios where you have a refernece to a
+- this is useful in scenarios where you have a reference to a
   value, but you want take ownership of the new value while
   replacing it with another value
