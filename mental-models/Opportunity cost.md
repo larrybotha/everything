@@ -6,7 +6,7 @@ The value given up when making a decision
 - if employees are paid $30p/hr at your company, but $50p/hr at another for the same work, why would they stay?
 - what would make a customer want to spend $200 for a service when they already get the same service elsewhere for $20?
 - every decision has an opportunity cost
-- paying attention to opportunity cost make allows one to make better decisions
+- paying attention to opportunity cost allows one to make better decisions
 
 ## Relations
 - [[Absence Blindness]] - people have a hard time paying attention to what's not present - what are you giving up in order to pursue by following through with a decision

@@ -1,8 +1,10 @@
-Humans have a hard time realising what isn't there
+Humans have a hard time realising what isn't there, or
+
+We value things we can see more than things we cannot
 
 ## Takeaways
 - good managers get things done and under budget, which may go unnoticed
-- poor managers may be constantly fighting fires, perhaps of their own creation, and may be rewarded for it because their effort us noticed
+- poor managers may be constantly fighting fires, perhaps of their own creation, and may be rewarded for it because their effort is noticed
 - people who excel at some activity make it look easy, but it's not obvious how much work and effort has gone into becoming skilled
 - selling the prevention or absence of something is an uphill battle
 	- e.g. climate disaster 
