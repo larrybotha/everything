@@ -44,5 +44,5 @@ assert_eq!(result, Ok(42));
 
 - [[std..boxed..Box]] - contrasts with Box
 - [[std..rc..RefCell]] - required for mutating the contents of `Rc`
-- [[try_unwrap]] - returns a `Result` for attempting to remove the value from
+- [[std..rc..Rc..try_unwrap]] - returns a `Result` for attempting to remove the value from
   the `Rc` - is only `Ok` if `Rc::strong_count` is 1

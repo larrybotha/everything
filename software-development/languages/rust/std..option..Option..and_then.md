@@ -1,8 +1,5 @@
 parent: [[+ rust]]
 
-- a method in the standard library available on `Option` and `Result`
-- works similarly to `flatmap` in other languages
-
 ```rust
 fn wrap<T>(value: i32) -> Option<i32> {
 	Some(value)
@@ -21,3 +18,6 @@ x
 // .and_then, which is syntactic sugar for the above
 x.and_then(|n| wrap(n));
 ```
+
+- a method in the standard library available on `Option` and `Result`
+- works similarly to `flatmap` in other languages
