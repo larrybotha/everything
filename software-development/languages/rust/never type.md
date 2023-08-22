@@ -38,3 +38,17 @@ fn foo() -> ! {
 	```
 
 	The [[match]] statement requires that every arm returns the same type, but we have `i32` and `!` - in this special case Rust infers the return type to be `i32` because... `never` is _never_ returned!
+- the definition for [[std..option..Option..unwrap]] uses `never` via `panic!`:
+
+	```rust
+	impl<T> Option<T> {
+		fn unwrap(self) -> T {
+			match self {
+				Some(x) => x,
+				None => panic!("called `Option::unwrap()` on a `None` value")
+			}
+		}
+	}
+	```
+
+	The return type is `T` because either we get the unwrapped value, or the application crashes
