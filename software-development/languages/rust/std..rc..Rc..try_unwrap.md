@@ -23,6 +23,6 @@ assert_eq!(result, Ok(42);
 - `Rc::try_unwrap` will return a `Result` of the wrapped value:
   - if there is only 1 reference, the result will be `Ok(x)`,
   - else the result will be `Err(x)`
-- this is useful in situations where you want to take ownership of drop
+- this is useful in situations where you want to take ownership of or drop
   the contained value
 - `std::sync::Arc` implements the same method with the same semantics
