@@ -14,6 +14,7 @@ fn generic<T: Sized>(x: T) {
 }
 ```
 
+- if the compiler is complaining about `Sized` types, you likely need to wrap the value in a smart pointer
 - `Sized` is a trait in Rust that denotes types where the size of values are known at compile time
 - the `Sized` trait is automatically implemented for every type where the size of the type is known
 - *dynamically sized types* are also known as DSTs or unsized types
