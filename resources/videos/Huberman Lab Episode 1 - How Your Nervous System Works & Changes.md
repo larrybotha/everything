@@ -6,8 +6,7 @@ Author: [[Andrew Huberman]]
 ### What is the Nervous System
 
 - all pain, even things such as stomach pain, stem from the nervous system
-- the nervous system is essential when wanting to understanding or change
-  experience
+- the nervous system is essential when understanding or changing experience
 - the body's actions and thoughts can be viewed as a flow of electrical activity
   between neurons
 
@@ -59,7 +58,7 @@ Author: [[Andrew Huberman]]
 
 - the nervous system has a [[Bottom Up vs Top Down]] dual nature:
   - reflexive system - unconscious actions, such as walking, that are
-    controlled by the nervious system processing sensory information,
+    controlled by the nervous system processing sensory information,
     i.e. bottom-up
   - reactive system - deliberate actions, such as catching a ball, that are
     directed by our thoughts and perceptions, i.e. top-down
