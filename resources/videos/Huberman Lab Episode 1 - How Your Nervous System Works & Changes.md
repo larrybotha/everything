@@ -59,14 +59,15 @@ Author: [[Andrew Huberman]]
 
 - the nervous system has a [[Bottom Up vs Top Down]] dual nature:
   - reflexive system - unconscious actions, such as walking, that are
-    controlled by the nervious system processing sensory information
-  - reactive system - deliberate actions, such as catching a ball, that we
-    result from our thoughts and perceptions
+    controlled by the nervious system processing sensory information,
+    i.e. bottom-up
+  - reactive system - deliberate actions, such as catching a ball, that are
+    directed by our thoughts and perceptions, i.e. top-down
 
 ### Focusing the Mind
 
 - reflexive actions consume less energy than reactive actions
-	- e.g. taking a stroll vs filling out a questionnaire
+  - e.g. taking a stroll vs filling out a questionnaire
 
 ### Emotions + The Chemicals of Emotions
 
