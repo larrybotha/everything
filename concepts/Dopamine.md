@@ -2,6 +2,6 @@ A [[neuromodulators|neuromodulator]] associated with reward, but more
 specifically associated with motivation toward things that are outside of us
 that we want to pursue
 
-## Relations
+## Links and resources
 
-- see [[Huberman Lab Episode 1 - How Your Nervous System Works & Changes]]
+- [[Huberman Lab Episode 1 - How Your Nervous System Works & Changes]]

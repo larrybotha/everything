@@ -74,7 +74,7 @@ Author: [[Andrew Huberman]]
 - feelings and emotions are products of the nervous system
 - they are the result of [[neuromodulators|neuromodulator]] being released
   from neurons, such as [[Serotonin]] and [[Dopamine]], which determine
-  which neurons will be active active or inactive, resulting in an emotional
+  which neurons will be active or inactive, resulting in an emotional
   state
 
 ### Antidepressants
