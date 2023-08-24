@@ -19,7 +19,7 @@ The assumption that it’s possible to compare your skills, priorities, goals, a
 - [[Status Seeking]] - the behaviour that ensures we spend our time tracking what others are doing, which in turn relates to [[Opportunity cost]]
 - [[Overhead]] - what is the ongoing cost of maintaining someone else's success?
 - [[Tradeoff]] - what does one have to give up in order to achieve their goals?
-- [[Hedonic Treadmill]]
+- [[Hedonic adaptation]]
 - [[Energy cycles]]
 
 ## Links and resources
