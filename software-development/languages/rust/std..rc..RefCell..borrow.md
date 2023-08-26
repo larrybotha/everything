@@ -9,16 +9,17 @@ let cell = RefCell::new(x);
 {
 	let z = cell.borrow();
 
-	assert_eq!(*z, String::from("foo"));
+	assert_eq!(
+	  *z, // derec the Ref
+	  String::from("foo")
+	);
 }
 ```
 
-- `RefCell::borrow` is akin to `&` during compile-time
-- `RefCell::borrow` returns a `Ref<'b, T>` - the runtime equivalent of a borrowed
+- `RefCell::borrow` is akin to `&` at compile-time
+- `RefCell::borrow` returns a `Ref<'b, T>` - the compile time equivalent of a borrowed
   value
-- `Ref` behaves similarly to `&`
-- the lifetime of the value inside `Ref` is tied to the lifetime of `Ref` -
-  _not_ `RefCell`. Attempting to reference the value of a `RefCell` outside of
+- the lifetime of the value inside `Ref` is tied to the lifetime of `Ref` - ​not [[std..rc..RefCell|RefCell]]. Attempting to reference the value of a `RefCell` outside of
   its current scope will fail, because the value inside the `RefCell` after
   borrowing is tied to the `Ref`, _not_ the `RefCell`:
 

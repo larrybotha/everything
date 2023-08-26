@@ -1,3 +1,8 @@
+---
+aliases:
+	- RefCell
+---
+
 parent: [[+ rust]]
 
 ```rust

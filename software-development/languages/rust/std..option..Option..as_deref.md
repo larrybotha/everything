@@ -4,9 +4,9 @@ parent: [[+ rust]]
 let x = Some(Box::new(5));
 
 assert_eq!(x.as_deref(), Some(&5));
-//        [    1    ]   [    2    ]
+//         [    1    ]   [   2   ]
 // 1 - Some(&i32) - we have dereferenced from Box<i32> to &i32
-// 2 - also Some(&str)
+// 2 - also Some(&i32)
 
 let y: Option<String> = Some("foo".to_owned());
 
