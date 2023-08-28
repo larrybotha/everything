@@ -1,3 +1,8 @@
+---
+aliases:
+	- vim
+---
+
 ```dataview
 LIST 
 FROM [[]]
