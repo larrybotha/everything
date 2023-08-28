@@ -11,7 +11,15 @@ facts or characteristics that must be true in the real world for your offering t
 
 ![[All I want to know is where...]]
 
-## Relations
+![[What would have to be true]]
+
+![[It is better to be roughly right than...]]
+
+## Related
+
+- [[Relative Importance Testing]]
+- [[Shadow Testing]]
+- [[Minimum viable offer]]
 
 ## Links and resources
 

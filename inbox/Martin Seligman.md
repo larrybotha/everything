@@ -1,1 +1,0 @@
-American psychologist, educator, and author of self-help books
