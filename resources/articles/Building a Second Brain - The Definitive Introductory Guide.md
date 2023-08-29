@@ -1,8 +1,11 @@
 
-https://fortelabs.co/blog/basboverview
+Link: https://fortelabs.co/blog/basboverview
+Author: [[Tiago Forte]]
 
 ## Takeaways
+
 ### Use the CODE acronym to build a second brain
+
 - Capture
 - Organize
 - Distill
@@ -29,7 +32,7 @@ Related: [[Gall's Law]]
 #### Distill
 - distill your notes into actionable, bite-sized summaries
 - design notes with your future self in mind
-- use [[Progressive Summarisation]] to summarise at different levels of detail
+- use [[Progressive Summarization - A Practical Technique for Designing Discoverable Notes]] to summarise at different levels of detail
 - you often have no idea which sources will end up being valuable until much later - *add value to a note every time you touch it*
 
 #### Express your thoughts in the real world 
@@ -38,4 +41,4 @@ Related: [[Gall's Law]]
 
 ## Links and resources
 
-https://fortelabs.com/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-3459b257d3eb/
+- [[Progressive Summarization - A Practical Technique for Designing Discoverable Notes]]
