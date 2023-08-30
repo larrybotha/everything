@@ -7,7 +7,12 @@ aliases:
 parent:: [[+ vim]]
 %%
 
-The default register, populated by all of the following:
+```vim
+" from insert mode, paste the item in the unnamed register
+:insert <C-r>"
+```
+
+The default register, `:reg "`, populated by all of the following:
 
 - `x`
 - `s`
