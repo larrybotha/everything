@@ -10,6 +10,10 @@ Conducting hypothetical situations, and then mentally simulating how to respond 
 
 ![[A prudent person foresees danger and...]]
 
+![[We tend to seek easy, single-factor explanations of success...]]
+
+![[All I want to know is where...]]
+
 ## Relations
 - [[Resilience]] - considering and planning for multiple outcomes makes one more adaptable
 - [[Mental simulation]]

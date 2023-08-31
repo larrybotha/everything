@@ -15,6 +15,8 @@ facts or characteristics that must be true in the real world for your offering t
 
 ![[It is better to be roughly right than...]]
 
+![[We tend to seek easy, single-factor explanations of success...]]
+
 ## Related
 
 - [[Relative Importance Testing]]
