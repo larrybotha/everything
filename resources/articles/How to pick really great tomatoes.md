@@ -1,6 +1,6 @@
 ---
 tags:
-	- resource/article
+  - resource/article
 ---
 
 Link: https://www.bonappetit.com/story/how-to-pick-tomatoes
@@ -11,4 +11,3 @@ Link: https://www.bonappetit.com/story/how-to-pick-tomatoes
 - large tomatoes should feel heavy for their size, and should be firm
 - skin colour should be uniform
 - if you can't smell anything, it's probably unripe
-

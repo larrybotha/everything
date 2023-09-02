@@ -1,6 +1,6 @@
 ---
 tags:
-	- resource/article
+  - resource/article
 ---
 
 Link: https://fortelabs.com/blog/progressive-summarization-iii-guidelines-and-principles/

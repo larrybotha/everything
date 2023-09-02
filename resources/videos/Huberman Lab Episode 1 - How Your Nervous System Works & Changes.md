@@ -1,3 +1,8 @@
+---
+tags:
+  - resource/video
+---
+
 Link: https://www.youtube.com/watch?v=H-XfCl-HpRM
 Author: [[Andrew Huberman]]
 

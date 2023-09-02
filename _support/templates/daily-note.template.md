@@ -1,24 +1,36 @@
+---
+tags:
+  - calendar/daily-note
+---
+
 ## Morning Summary
 
 ### I'm grateful for...
-- 
+
+-
 
 ### Today's efforts
-- 
+
+-
 
 ## Evening Summary
 
 ### Things that went well
-- 
+
+-
 
 ### Things I could have done better
-- 
+
+-
 
 ### Tomorrow's efforts
-- 
 
-## Updates 
+-
+
+## Updates
+
 #### Created today
+
 ```dataview
 LIST rows.file.link
 FROM ""
@@ -27,6 +39,7 @@ GROUP BY file.folder
 ```
 
 #### Updated today
+
 ```dataview
 LIST rows.file.link
 FROM ""
