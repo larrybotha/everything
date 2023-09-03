@@ -2,7 +2,8 @@
 id: "Rust programming tips"
 aliases:
 	- "The Rust programming language absolutely positively sucks"
-tags: []
+tags: 
+  - resource/discussion 
 ---
 
 Link: https://www.reddit.com/r/rust/comments/12b7p2p/the_rust_programming_language_absolutely/jevs1h7

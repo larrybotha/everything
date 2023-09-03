@@ -22,7 +22,7 @@ impl DoubleEndedIterator for MyStruct {
 }
 
 fn main() {
-    let xs = MyStruct {};
+    let mut xs = MyStruct {};
 
     for x in xs.iter().rev() {
         // ...
@@ -31,5 +31,6 @@ fn main() {
 ```
 
 - allows for iterating in reverse on a type
-- requires that the type have a finite number of elements, i.e. not an
+- requires that the type have a finite number of elements, e.g. not an
   open-ended range
+- structures that implement `DoubleEndedIterator` are [[deque|deques]]
