@@ -1,3 +1,8 @@
+---
+tags:
+  - resource/video
+---
+
 Link: https://www.youtube.com/watch?v=nm1TxQj9IsQ
 Author: [[Andrew Huberman]]
 

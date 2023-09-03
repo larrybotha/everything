@@ -1,6 +1,6 @@
 ---
 tags:
-	- resource/article
+  - resource/article
 ---
 
 Link: https://fortelabs.com/blog/progressive-summarization-iv-compressing-all-types-of-media/

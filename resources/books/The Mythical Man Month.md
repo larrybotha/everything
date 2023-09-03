@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source/book"
+  - resource/book
 ---
 
 Author: [[Fred Brooks]]

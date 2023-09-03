@@ -1,6 +1,6 @@
 ---
 id: "Rust programming tips"
-aliases: 
+aliases:
 	- "The Rust programming language absolutely positively sucks"
 tags: []
 ---
@@ -8,6 +8,7 @@ tags: []
 Link: https://www.reddit.com/r/rust/comments/12b7p2p/the_rust_programming_language_absolutely/jevs1h7
 
 ## Takeaways
+
 - write Rust in a dumb way before attempting to optimise, if you even need to
 - don't write multi-threaded code until you've got a single-threaded PoC working. If you need multi-threading afterwards, use `tokio` or `rayon`
 - start by cloning everything first, and only then attempt to get lifetimes to work

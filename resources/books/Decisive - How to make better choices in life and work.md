@@ -1,6 +1,6 @@
 ---
 tags:
-  - source/book 
+  - resource/book
 ---
 
 Authors: [[Chip Heath]], [[Dan Heath]]
