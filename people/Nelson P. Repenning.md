@@ -1,0 +1,1 @@
+Professor of Management Science and Organization Studies at the MIT Sloan School of Management
