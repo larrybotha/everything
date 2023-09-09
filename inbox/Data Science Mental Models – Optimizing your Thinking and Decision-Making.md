@@ -1,0 +1,1 @@
+Link: https://algotrading101.com/learn/data-science-mental-models/
