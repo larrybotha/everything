@@ -32,6 +32,6 @@ _[https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf](https://ww
 - [[Practice made perfect - the 10 keys to optimise improvement]]
 - [[Extensive reading]]
 - [[What 80 Percent Comprehension Feels Like]]
-- [[concepts/Zone of proximal development]]
+- [[Zone of proximal development]]
 - [[Cognitive Load Theory and its Applications for Learning]]
 - [[deliberate practice]]
