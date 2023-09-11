@@ -162,7 +162,7 @@ If you want to try Athletic Greens you can go to athleticgreens.com/huberman,
 3:16
 and put in the code word Huberman at checkout. If you do that they'll send you a year's supply of vitamin D3 and K2.
 3:24
-There's a lot in the news lately about the importance of vitamin D3. We can all get vitamin D3 from sunlight
+There's a lot in the news lately about the importance of vitamin D3. ==We can all get vitamin D3 from sunlight==
 3:29
 but many of us aren't getting enough sunlight. Vitamin D3 has been shown to be relevant
 3:34
@@ -268,7 +268,7 @@ The example of perceiving red or perceiving green is a particularly good example
 makes it seem as if these out these things that are happening outside us are actually happening inside us.
 Deja Vu
 8:55
-But the language of the nervous system is just electricity. It's just like a Morse code of some sort
+But ==the language of the nervous system is just electricity==. It's just like a Morse code of some sort
 9:02
 or the syllables and words and consonants and vowels of language. It just depends on how they're assembled, what order.
 9:09
@@ -282,7 +282,7 @@ and with a particular intensity, that's a given song. We can make that analogous
 9:32
 It's not really that the key, you know, A sharp or E flat is the song.
 9:39
-It's just one component of the song. So when you hear that, you know, for instance, there's a brain area called the hippocampus,
+It's just one component of the song. So when you hear that, you know, for instance, there's a brain area called ==the hippocampus,
 9:46
 which there is, that's involved in memory. Well, it's involved in memory, but it's not that memories are stored there as,
 9:53
@@ -294,9 +294,9 @@ and like something that you've experienced previously is merely that the neurons
 10:13
 that were active in one circumstance are now becoming active in the same circumstance again.
 10:18
-And so it's really just like hearing the same song maybe not played on a piano but next time on a classical guitar,
+And so it's really just like heawring the same song maybe not played on a piano but next time on a classical guitar,
 10:25
-there's something similar about that song even though it's being played on two different instruments. So I think it's important
+there's something similar about that song even though it's being played on two different instruments==. So I think it's important
 10:31
 that people understand the parts of their nervous system, and that it includes so much more than just the brain
 10:38
@@ -345,11 +345,11 @@ that they couldn't recognize faces. And they all had these bullet holes that wen
 13:00
 about how particular brain regions like the hippocampus work. In fact, some of the more amazing examples of this,
 13:08
-where people would come back and they, for instance, would speak in complete gibberish whereas previously they could speak normally.
+where ==people would come back and they, for instance, would speak in complete gibberish whereas previously they could speak normally.
 13:15
 And even though they were speaking in complete gibberish they could understand language perfectly. That's how we know that speech and language
 13:21
-are actually controlled by separate portions of the nervous system. And there are many examples like that.
+are actually controlled by separate portions of the nervous system==. And there are many examples like that.
 13:27
 People that couldn't recognize the faces of famous people or, and that actually brings us
 Jennifer Aniston Neurons
@@ -364,11 +364,11 @@ electrically active only when the person viewed the picture of Jennifer Aniston,
 13:57
 So literally a neuron that represented Jennifer Aniston, so-called Jennifer Aniston cells, neuroscientists know about the Jennifer Aniston cells.
 14:03
-If you can recognize Jennifer Aniston's face you have Jennifer Aniston neurons, and presumably also have neurons
+==If you can recognize Jennifer Aniston's face you have Jennifer Aniston neurons, and presumably also have neurons
 14:10
 that can recognize the faces of other famous and non-famous people. So that indicates
 14:16
-that our brain is really a map of our experience. We come into the world and our brain has a kind of bias
+that our brain is really a map of our experience.== We come into the world and our brain has a kind of bias
 14:23
 towards learning particular kinds of things. It's ready to receive information and learn that information,
 14:28
@@ -381,7 +381,7 @@ The first one is sensation. So this is important to understand for any and all o
 14:48
 that want to change your nervous system or to apply tools to make your nervous system work better.
 14:53
-Sensation is a non-negotiable element of your nervous system. You have neurons in your eye that perceive
+==Sensation is a non-negotiable element of your nervous system. You have neurons in your eye that perceive
 14:59
 certain colors of light and certain directions of movement. You have neurons in your skin that perceive
 15:05
@@ -389,7 +389,7 @@ particular kinds of touch, like light touch or firm touch or painful touch.
 15:10
 You have neurons in your ears that perceive certain sounds. Your entire experience of life is filtered by these,
 15:20
-what we call sensory receptors if you want to know what the name is. So this always raises an interesting question.
+what we call sensory receptors== if you want to know what the name is. So this always raises an interesting question.
 15:26
 People ask, well, is there much more out there? Is there a lot more happening in the world that I'm not experiencing
 15:33
@@ -405,7 +405,7 @@ They don't actually see their shape. They sense their heat shape and their heat 
 16:01
 Humans can't do that unless of course they put on infrared goggles or something that would allow them to detect those heat emissions.
 16:08
-There are turtles and certain species of birds that migrate long distances that can detect magnetic fields
+==There are turtles and certain species of birds that migrate long distances that can detect magnetic fields
 Magnetic Sensing & Mating
 16:15
 because they have neurons, again, it's the nervous system that allows them to do this.
@@ -424,7 +424,7 @@ swim off and go do the exact same thing. They don't migrate that distance by vis
 16:57
 They do it by sensing magnetic fields. And many other species do these incredible things.
 17:04
-We don't, humans are not magnetic sensing organisms. We can't do that because we don't have receptors that sense magnetic fields.
+We don't, humans are not magnetic sensing organisms. We can't do that because we don't have receptors that sense magnetic fields.==
 17:11
 There's some data that maybe some humans can sense magnetic fields but you should be very skeptical of anyone
 17:17
@@ -433,9 +433,9 @@ that's convinced that they can do that with any degree of robustness or accuracy
 aren't necessarily aware that they can. Maybe a topic for a future podcast. So we have sensation, then we have perception.
 Perceptions & The Spotlight of Attention
 17:32
-Perception is our ability to take what we're sensing and focus on it and make sense of it,
+==Perception is our ability to take what we're sensing and focus on it and make sense of it,
 17:39
-to explore it, to remember it. So really perceptions are just whichever sensations we happen to be paying attention to at any moment.
+to explore it, to remember it. So really perceptions are just whichever sensations we happen to be paying attention to at any moment.==
 17:46
 And you can do this right now. You can experience perception and the difference between perception and sensation
 17:51
@@ -447,14 +447,14 @@ if your feet are up maybe it's air. The moment you place your, what we call the 
 18:10
 or the spotlight of perception on your feet. You are now perceiving what was happening there,
 18:15
-what was being sensed there. The sensation was happening all along however. So while sensation is not negotiable
+what was being sensed there. The sensation was happening all along however. So ==while sensation is not negotiable
 18:24
-you can't change your receptors unless you adopt some new technology, perception is under the control of your attention.
+you can't change your receptors unless you adopt some new technology, perception is under the control of your attention.==
 Multi-Tasking Is Real
 18:32
 And the way to think about attention is it's like a spotlight, except it's not one spotlight.
 18:38
-You actually have two attentional spotlights. Anyone that tells you you can't multitask, tell them they're wrong.
+==You actually have two attentional spotlights. Anyone that tells you you can't multitask, tell them they're wrong.
 18:44
 And if they disagree with you tell them to contact me because in old world primates of which humans are,
 18:52
@@ -470,7 +470,7 @@ that is, your perception, to one particular location. You can dilate your attent
 19:23
 or you can make it more concentrated. This is very important to understand if you're going to think about tools
 19:29
-to improve your nervous system, whether or not that tool is in the form of a chemical
+to improve your nervous system==, whether or not that tool is in the form of a chemical
 19:35
 that you decide to take, maybe a supplement to increase some chemical in your brain if that's your choice,
 19:40
