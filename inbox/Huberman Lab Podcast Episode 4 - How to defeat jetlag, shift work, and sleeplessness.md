@@ -398,7 +398,7 @@ I know that understanding mechanism affords you more flexibility.
 20:41
 Why understand mechanism as just opposed to me just writing up a PDF and giving you a list of things to do? Well, what happens when you can't do those things
 20:48
-in exactly the way they're written down. When you understand mechanism, you understand how to control the machine
+in exactly the way they're written down. **==When you understand mechanism, you understand how to control the machine==**
 20:55
 that is your biological system, your nervous system. So a little bit of understanding about mechanism goes a really long way.
 21:02

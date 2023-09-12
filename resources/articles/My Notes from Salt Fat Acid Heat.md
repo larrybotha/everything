@@ -7,7 +7,7 @@ Link: https://alannairving.medium.com/my-notes-from-salt-fat-acid-heat-54d56898a
 
 Summary of the book "Salt, Fat, Acid, Heat" which teaches the underlying principles of cooking
 
-![[If you understand the mechanism...]]
+![[When you understand mechanism...]]
 
 ## Takeaways
 

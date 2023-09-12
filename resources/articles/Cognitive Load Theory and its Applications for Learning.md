@@ -42,7 +42,7 @@ Author: [[Scott Young]]
     - trial and error is inefficient
     - worked examples, clear instructions, and fundamental knowledge allows for more effective practice
 
-![[If you understand the mechanism...]]
+![[When you understand mechanism...]]
 
 ![[A complex system that works...]]
 
@@ -91,7 +91,7 @@ Author: [[Scott Young]]
     - self-explanation, such as with [[The Feynman Technique]] helps
     - missing fundamental knowledge early affects the ability to acquire subsequent knowledge later
   - build procedural and fundamental knowledge
-    - difficult subjects require that one understands the fundamentals - [[If you understand the mechanism...]]
+    - difficult subjects require that one understands the fundamentals - [[When you understand mechanism...]]
     - CLT is most useful in subjects where there are many components that need to work together in order for a problem to be understood
 
 ## Related
