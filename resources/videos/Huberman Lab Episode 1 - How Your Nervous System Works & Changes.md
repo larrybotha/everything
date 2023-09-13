@@ -268,33 +268,33 @@ The example of perceiving red or perceiving green is a particularly good example
 makes it seem as if these out these things that are happening outside us are actually happening inside us.
 Deja Vu
 8:55
-But **the language of the nervous system is just electricity**. It's just like a Morse code of some sort
+But **the ==language of the nervous system is just electricity==**. It's just like a Morse code of some sort
 9:02
 or the syllables and words and consonants and vowels of language. It just depends on how they're assembled, what order.
 9:09
-And so that brings us to the issue of how the nervous system works. The way to think about how the nervous system works
+And so that brings us to the issue of how the nervous system works. **The way to think about ==how the nervous system works==
 9:15
-is that our experiences, our memories, everything is sort of like the keys on a piano
+is that our experiences, our memories, everything is sort of ==like the keys on a piano
 9:21
-being played in a particular order, right? If I play the keys on a piano in a particular order
+being played in a particular order==, right? If I play the keys on a piano in a particular order
 9:26
-and with a particular intensity, that's a given song. We can make that analogous to a given experience.
+and with a particular intensity, ==that's a given song. We can make that analogous to a given experience==.**
 9:32
 It's not really that the key, you know, A sharp or E flat is the song.
 9:39
-It's just one component of the song. So when you hear that, you know, for instance, there's a brain area called **the hippocampus,
+It's just one component of the song. So when you hear that, you know, for instance, there's a brain area called **the ==hippocampus==,
 9:46
-which there is, that's involved in memory. Well, it's involved in memory, but it's not that memories are stored there as,
+which there is, that's ==involved in memory==. Well, it's involved in memory, but it's not that ==memories are== stored there as,
 9:53
-you know, sentences. They're stored there as patterns of electricity in neurons that when repeated, give you the sense
+you know, sentences. They're ==stored there as patterns of electricity in neurons that when repeated, give you the sense
 10:00
-that you are experiencing the thing again. In fact, deja vu, the sense that what you're experiencing is so familiar
+that you are experiencing the thing again==. In fact, ==deja vu==, the sense that what you're experiencing is so familiar
 10:08
 and like something that you've experienced previously is merely that the neurons
 10:13
 that were active in one circumstance are now becoming active in the same circumstance again.
 10:18
-And so it's really just like heawring the same song maybe not played on a piano but next time on a classical guitar,
+And so it's really just ==like hearing the same song maybe not played on a piano but next time on a classical guitar==,
 10:25
 there's something similar about that song even though it's being played on two different instruments**. So I think it's important
 10:31
@@ -347,9 +347,9 @@ about how particular brain regions like the hippocampus work. In fact, some of t
 13:08
 where **people would come back and they, for instance, would speak in complete gibberish whereas previously they could speak normally.
 13:15
-And even though they were speaking in complete gibberish they could understand language perfectly. That's how we know that speech and language
+And even though they were speaking in complete gibberish they could understand language perfectly. That's how we know that ==speech and language
 13:21
-are actually controlled by separate portions of the nervous system**. And there are many examples like that.
+are actually controlled by separate portions of the nervous system==**. And there are many examples like that.
 13:27
 People that couldn't recognize the faces of famous people or, and that actually brings us
 Jennifer Aniston Neurons
@@ -368,7 +368,7 @@ So literally a neuron that represented Jennifer Aniston, so-called Jennifer Anis
 14:10
 that can recognize the faces of other famous and non-famous people. So that indicates
 14:16
-that our brain is really a map of our experience.** We come into the world and our brain has a kind of bias
+that our ==brain is really a map of our experience==.** We come into the world and our brain has a kind of bias
 14:23
 towards learning particular kinds of things. It's ready to receive information and learn that information,
 14:28
@@ -381,7 +381,7 @@ The first one is sensation. So this is important to understand for any and all o
 14:48
 that want to change your nervous system or to apply tools to make your nervous system work better.
 14:53
-**Sensation is a non-negotiable element of your nervous system. You have neurons in your eye that perceive
+**==Sensation is a non-negotiable element of your nervous system==. You have neurons in your eye that perceive
 14:59
 certain colors of light and certain directions of movement. You have neurons in your skin that perceive
 15:05
@@ -389,7 +389,7 @@ particular kinds of touch, like light touch or firm touch or painful touch.
 15:10
 You have neurons in your ears that perceive certain sounds. Your entire experience of life is filtered by these,
 15:20
-what we call sensory receptors** if you want to know what the name is. So this always raises an interesting question.
+what we call ==sensory receptors==** if you want to know what the name is. So this always raises an interesting question.
 15:26
 People ask, well, is there much more out there? Is there a lot more happening in the world that I'm not experiencing
 15:33
@@ -435,7 +435,7 @@ Perceptions & The Spotlight of Attention
 17:32
 **Perception is our ability to take what we're sensing and focus on it and make sense of it,
 17:39
-to explore it, to remember it. So really perceptions are just whichever sensations we happen to be paying attention to at any moment.**
+to explore it, to remember it. So really ==perceptions are just whichever sensations we happen to be paying attention to at any moment==.**
 17:46
 And you can do this right now. You can experience perception and the difference between perception and sensation
 17:51
@@ -447,9 +447,9 @@ if your feet are up maybe it's air. The moment you place your, what we call the 
 18:10
 or the spotlight of perception on your feet. You are now perceiving what was happening there,
 18:15
-what was being sensed there. The sensation was happening all along however. So **while sensation is not negotiable
+what was being sensed there. The sensation was happening all along however. So **while ==sensation is not negotiable==
 18:24
-you can't change your receptors unless you adopt some new technology, perception is under the control of your attention.**
+you can't change your receptors unless you adopt some new technology, ==perception is under the control of your attention.==**
 Multi-Tasking Is Real
 18:32
 And the way to think about attention is it's like a spotlight, except it's not one spotlight.
@@ -458,15 +458,15 @@ And the way to think about attention is it's like a spotlight, except it's not o
 18:44
 And if they disagree with you tell them to contact me because in old world primates of which humans are,
 18:52
-we are able to do what's called covert attention. We can place a spotlight of attention on something,
+we are able to do what's called ==covert attention==. We can place a spotlight of attention on something,
 18:58
 for instance, something we're reading or looking at or someone that we're listening to. And we can place a second spotlight of attention
 19:05
 on something we're eating and how it tastes or our child running around in the room or my dog.
 19:10
-You can split your attention into two locations but of course you can also bring your attention,
+==You can split your attention into two locations== but of course ==you can also bring your attention,
 19:15
-that is, your perception, to one particular location. You can dilate your attention kind of like making a spotlight more diffuse
+that is, your perception, to one particular location==. You can dilate your attention kind of like making a spotlight more diffuse
 19:23
 or you can make it more concentrated. This is very important to understand if you're going to think about tools
 19:29
@@ -478,9 +478,9 @@ or a brain machine device or you're going to try and learn something better by e
 19:49
 for some period of time each day. Attention is something that is absolutely under your control,
 19:55
-in particular when you're rested. And we'll get back to this. But when you are rested, and we'll define rest very clearly,
+in particular when you're rested. And we'll get back to this. But **==when you are rested==, and we'll define rest very clearly,
 20:04
-you are able to direct your attention in very deliberate ways. And that's because we have something in our nervous system
+==you are able to direct your attention in very deliberate ways==**. And that's because we have something in our nervous system
 Bottom-Up vs. Top-Down Control of Behavior
 20:12
 which is sort of like a two way street. And that two way street is a communication between the aspects of our nervous system that are reflexive
@@ -489,19 +489,19 @@ and the aspects of our nervous system that are deliberate. So we all know what i
 20:26
 You go through life, you're walking. If you already know how to walk you don't think about your walking. You just walk.
 20:31
-And that's because the nervous system wants to pass off as much as it can to reflexive action.
+And that's because **==the nervous system wants to pass off as much as it can to reflexive action==.
 20:37
-That's called bottom up processing. It really just means that information is flowing in through your senses,
+That's called ==bottom up processing==. It really just means that information is flowing in through your senses,
 20:43
-regardless of what you're perceiving, that information is flowing up and it's directing your activity.
+regardless of what you're perceiving, that ==information is== flowing up and it's ==directing your activity==.**
 20:49
 But at any moment, for instance, let's say a car screeches in front of you around the corner,
 20:54
 and you suddenly pause. You are now moving into deliberate action. You would start looking around in a very deliberate way.
 21:01
-The nervous system can be reflexive in its action or it can be deliberate. If reflexive action tends to be what we call bottom up,
+The nervous system can be reflexive in its action or it can be deliberate. **If ==reflexive action tends to be what we call bottom up==,
 21:09
-deliberate action and deliberate perceptions and deliberate thoughts are top down.
+==deliberate action and deliberate perceptions and deliberate thoughts are top down==**.
 Focusing the Mind
 21:15
 They require some effort and some focus. But that's the point, you can decide to focus your attention and energy
@@ -510,9 +510,9 @@ on anything you want. You can decide to focus your behavior in any way you want.
 21:29
 like it requires some effort and some strain. Whereas when you're in reflexive mode, just walking and talking and eating and doing your thing
 21:35
-it's going to feel very easy. And that's because your nervous system basically wired up to be able to do most things easily without much metabolic demand,
+it's going to feel very easy. And **that's because your ==nervous system basically wired up to be able to do most things easily without much metabolic demand==,
 21:43
-without consuming much energy. But the moment you try and do something very specific, you're going to feel a sort of mental friction.
+without consuming much energy. But the ==moment you try and do something very specific, you're going to feel a sort of mental friction==.**
 21:50
 It's going to be challenging. So we've got sensations, perceptions, and then we've got things
 Emotions + The Chemicals of Emotions
@@ -525,19 +525,19 @@ Scientists argue like crazy, neuroscientists and psychologists and philosophers 
 22:18
 Certainly emotions and feelings are the product of the nervous system. They involve the activity of neurons.
 22:25
-But as I mentioned earlier, neurons are electrically active but they also release chemicals. And there's a certain category of chemicals
+But as I mentioned earlier, neurons are electrically active but they also release chemicals. And **there's a certain category of chemicals
 22:33
 that has a very profound influence on our emotional states.
 22:39
-They're called neuromodulators. And those neuromodulators have names that probably you've heard of before.
+They're called neuromodulators**. And those neuromodulators have names that probably you've heard of before.
 22:44
 Things like dopamine and serotonin and acetylcholine, epinephrine.
 22:49
-Neuromodulators are really interesting because they bias which neurons are likely to be active
+**==Neuromodulators== are really interesting because they ==bias which neurons are likely to be active==
 22:55
-and which ones are likely to be inactive. A simple way to think about neuromodulators is they are sort of like playlists
+==and which ones are likely to be inactive==. A simple way to think about neuromodulators is they ==are sort of like playlists==
 23:02
-that you would have on any kind of device where you're going to play particular categories of music.
+that you would have on any kind of device ==where you're going to play particular categories of music==.**
 23:08
 So for instance, dopamine, which is often discussed as the molecule of reward or joy, it is involved in reward.
 23:16
@@ -545,13 +545,13 @@ And it does tend to create a sort of upbeat mood when released in appropriate am
 23:23
 But the reason it does that is because it makes certain neurons and neural circuits as we call them
 23:30
-more active and others less active. Okay. So serotonin, for instance,
+more active and others less active. Okay. So **==serotonin==, for instance,
 23:35
-is a molecule that when released tends to make us feel really good with what we have, our sort of internal landscape
+==is a molecule that when released tends to make us feel really good with what we have, our sort of internal landscape
 23:41
-and the resources that we have, whereas dopamine more than being a molecule of reward is really more a molecule of motivation
+and the resources that we have==**, whereas **==dopamine== more than being a molecule of reward ==is really more a molecule of motivation
 23:49
-toward things that are outside us and that we want to pursue. And we can look at healthy conditions
+toward things that are outside us and that we want to pursue==. And we can look at healthy conditions
 23:56
 or situations like being in pursuit of a goal where every time we accomplish something en route to that goal, a little bit of dopamine is released
 24:03
@@ -561,7 +561,7 @@ of something like mania, where somebody is so relentlessly in pursuit
 24:14
 of external things like money and relationships that they're sort of in this delusional state of thinking
 24:20
-that they have the resources that they need in order to pursue all these things when in fact they don't. So these neuromodulators can exist
+that they have the resources that they need in order to pursue all these things when in fact they don't**. So these neuromodulators can exist
 24:27
 in normal levels, low levels, high levels. And that actually gives us a window into a very important aspect of neuroscience history
 Antidepressants
@@ -580,15 +580,15 @@ especially in the 1950s and '60s, they would reduce serotonin but they would als
 25:08
 or they would increase serotonin, but they would also increase some other neuromodulator chemical. And that's because all these chemical systems in the body,
 25:17
-but the neuromodulators in particular, have a lot of receptors. Now, these are different than the receptors
+but the **neuromodulators in particular, have a lot of receptors. Now, these are different than the receptors
 25:22
-we were talking about earlier. The receptors I'm talking about now are sort of like parking spots where dopamine is released.
+we were talking about earlier. The receptors I'm talking about now are sort of like parking spots where ==dopamine== is released.
 25:28
-And if it attaches to a receptor, say on the heart, it might make the heart beat faster
+And if it ==attaches to a receptor, say on the heart, it might make the heart beat faster
 25:35
 because there's a certain kind of receptor on the heart. Whereas if dopamine is released and goes and attaches to muscle
 25:42
-it might have a completely different effect on the muscle. And in fact, it does. So different receptors on different organs of the body
+it might have a completely different effect on the muscle==**. And in fact, it does. So different receptors on different organs of the body
 25:48
 are the ways that these neuromodulators can have all these different effects on different aspects of our biology.
 25:55
@@ -626,29 +626,29 @@ And that's because they are somewhat reflexive. We don't really set out with a d
 27:33
 or a deliberate thought to be sad. We tend to experience them in kind of a passive reflexive way.
 27:38
-And that brings us to the next thing, which are thoughts. Thoughts are really interesting because in many ways they're like perceptions
+And that brings us to the next thing, which are thoughts. **==Thoughts== are really interesting because ==in many ways they're like perceptions==
 Thoughts & Thought Control
 27:45
-except that they draw on not just what's happening in the present but also things we remember from the past
+==except that they draw on not just what's happening in the present but also things we remember from the past
 27:52
-and things that we anticipate about the future. The other thing about thoughts that's really interesting is that thoughts can be both reflexive,
+and things that we anticipate about the future==. The other thing about thoughts that's really interesting is that ==thoughts can be both reflexive==,
 28:00
-they can just be occurring all the time sort of like pop-up windows on a poorly filtered web browser, or they can be deliberate.
+they can just be occurring all the time sort of like pop-up windows on a poorly filtered web browser, ==or they can be deliberate==.**
 28:09
-We can decide to have a thought. In fact, right now you could decide to have a thought just like you would decide to write something out on a piece of paper.
+**==We can decide to have a thought==. In fact, right now you could decide to have a thought just like you would decide to write something out on a piece of paper.
 28:15
-You could decide that you're listening to a podcast, that you are in a particular location. You're not just paying attention to what's happening,
+You could decide that you're listening to a podcast, that you are in a particular location. ==You're not just paying attention to what's happening,
 28:21
-you're directing your thought process. And a lot of people don't understand or at least appreciate that the thought patterns
+you're directing your thought process==**. And **a lot of people don't understand or at least appreciate that the ==thought patterns
 28:27
-and the neural circuits that underlie thoughts can actually be controlled in this deliberate way.
+and the neural circuits that underlie thoughts can actually be controlled in this deliberate way==.**
 28:33
-And then finally there are actions. Actions or behaviors are perhaps the most important aspect
+And then finally there are actions. **Actions or behaviors are perhaps the most important aspect
 Actions
 28:40
 of our nervous system. Because first of all, our behaviors are actually the only thing
 28:46
-that are going to create any fossil record of our existence. You know, after we die, the nervous system deteriorates,
+that are going to create any fossil record of our existence**. You know, after we die, the nervous system deteriorates,
 28:53
 our skeleton will remain. But it's, you know, in the moment of experiencing something very joyful
 28:59
@@ -662,11 +662,11 @@ none of that is actually carried forward except the ones that we take
 29:24
 and we convert into actions such as writing, actions such as words,
 29:30
-actions such as engineering new things. And so the fossil record of our species and each one of us
+actions such as engineering new things. And so **the fossil record of our species and each one of us
 29:37
-is really through action. And that, in part, is why so much of our nervous system
+is really through action. And that, in part, is why ==so much of our nervous system
 29:43
-is devoted to converting sensation, perceptions, feelings, and thoughts into actions.
+is devoted to converting sensation, perceptions, feelings, and thoughts into actions==.**
 29:49
 In fact, the great neuroscientist or physiologist Sherrington won a Nobel prize
 29:56
@@ -708,29 +708,29 @@ in a deliberate way because it gives rise to a very important feature of the ner
 31:50
 which is your ability to change your nervous system. And what I'd like to center on for a second is this notion of what does it mean
 31:58
-for the nervous system to do something deliberately? Well, when you do something deliberately,
+for the nervous system to do something deliberately? Well, **==when you do something deliberately,
 32:03
 you pay attention, you are bringing your perception to an analysis of three things,
 32:09
 duration, how long something is is going to take or should be done, path, what you should be doing,
 32:16
-and outcome, if you do something for a given length of time, what's going to happen. Now when you're walking down the street or you're eating
+and outcome, if you do something for a given length of time, what's going to happen==**. Now when you're walking down the street or you're eating
 32:22
-or you're just talking reflexively, you're not doing this what I call DPO, duration, path, outcome,
+or you're just talking reflexively, you're not doing this what **I call ==DPO, duration, path, outcome==**,
 32:27
-type of deliberate function in your brain and nervous system. But the moment you decide to learn something
+type of deliberate function in your brain and nervous system. But **the moment you decide to learn something
 32:34
 or to resist speaking or to speak up when you would rather be quiet,
 32:39
 anytime you're deliberately kind of forcing yourself over a threshold, you're engaging these brain circuits
 32:46
-and these nervous system circuits that suddenly make it feel as if something is challenging.
+and these nervous system circuits that suddenly make it feel as if something is challenging.**
 32:52
-Something has changed. Well, what's changed? What's changed is that when you engage in this duration, path, and outcome
+Something has changed. Well, what's changed? What's changed is that **when you engage in this duration, path, and outcome
 32:58
 type of thinking or behavior or way of being you start to recruit these neuromodulators
 33:06
-that are released from particular areas of your brain, and also it turns out from your body. and they start cuing to your nervous system.
+that are released from particular areas of your brain, and also it turns out from your body. and they start cuing to your nervous system.**
 33:12
 Something's different. Something's different now about what I'm doing. Something's different about what I'm feeling.
 33:17
@@ -759,9 +759,9 @@ and will just reach out and grab it. Whereas an adult probably would ask if they
 34:25
 People that have damage to the certain areas of the frontal lobes don't have this kind of restriction.
 34:31
-They'll just blurt things out. They'll just say things. We all know people like this. Impulsivity is a lack of top down control,
+They'll just blurt things out. They'll just say things. We all know people like this. **==Impulsivity is a lack of top down control,
 34:39
-a lack of top-down processing. The other thing that will turn off the forebrain and make it harder to top-down processing
+a lack of top-down processing==**. The other thing that will turn off the forebrain and make it harder to top-down processing
 34:45
 is a couple of drinks containing alcohol. The removal of inhibition is actually
 34:51
@@ -771,38 +771,38 @@ And so when you look at people that have damage to their frontal lobes or you lo
 35:04
 everything's a stimulus. Everything is a potential interaction for them. And they have a very hard time restricting their behavior and their speech.
 35:11
-So a lot of the motor system is designed to just work in a reflexive way.
+So **a lot of the motor system is designed to just work in a reflexive way.
 35:16
-And then when we decide we want to learn something or do something or not do something, we have to engage in this top-down restriction.
+And then ==when we decide we want to learn something or do something or not do something, we have to engage in this top-down restriction==.
 35:23
-And it feels like agitation because it's accompanied by the release of a neuromodulator called norepinephrine,
+And ==it feels like agitation because it's accompanied by the release of a neuromodulator called norepinephrine,
 35:30
-which in the body we call adrenaline. And it actually makes us feel agitated. So for those of you that are trying to learn something new
+which in the body we call adrenaline. And it actually makes us feel agitated==. So for those of you that are trying to learn something new
 35:36
 or to learn to suppress your responses or be more deliberate and careful in your responses,
 35:42
 that is going to feel challenging for a particular reason. It's going to feel challenging
 35:47
-because the chemicals in your body that are released in association with that effort are designed to make you feel kind of agitated.
+because ==the chemicals in your body that are released in association with that effort are designed to make you feel kind of agitated==.**
 35:55
 That low-level tremor that sometimes people feel when they're really, really angry is actually a chemically induced low-level tremor.
 36:02
-And it's the, what I call limbic friction. There's an area of your brain that's involved in our more primitive reflexive responses
+And it's the, what I call **limbic friction. There's an area of your brain that's involved in our more primitive reflexive responses
 36:08
 called the limbic system. And the frontal cortex is in a friction, it's in a tug of war with that system all the time.
 36:16
-Unless of course you have damage to the frontal lobe or you've had too much to drink or something. In which case you tend to just say and do whatever.
+Unless of course you have damage to the frontal lobe or you've had too much to drink or something. In which case you tend to just say and do whatever.**
 36:22
-And so this is really important to understand because if you want to understand neuroplasticity,
+And so this is really important to understand because **if you want to understand ==neuroplasticity==,
 Neuroplasticity: The Holy Grail of Neuroscience
 36:28
 you want to understand how to shape your behavior, how to shape your thinking, how to change how you're able to perform in any context,
 36:36
-the most important thing to understand is that it requires top-down processing.
+the most important thing to understand is that it ==requires top-down processing==.
 36:41
-It requires this feeling of agitation. In fact, I would say the agitation and strain
+It requires this feeling of agitation. In fact, I would say the ==agitation and strain
 36:47
-is the entry point to neuroplasticity. So let's take a look at what neuroplasticity is.
+is the entry point to neuroplasticity==**. So let's take a look at what neuroplasticity is.
 36:52
 Let's explore it, not as the way it's normally talked about in modern culture, neuroplasticity, plasticity is great.
 36:59
@@ -824,29 +824,29 @@ the brain is incredibly plastic. Kids are learning all sorts of things but they 
 37:51
 They don't have to work too hard or focus too hard, although focus helps, to learn new things,
 37:57
-acquire new languages, acquire new skills. But if you're an adult and you want to change your neural circuitry at the level
+acquire new languages, acquire new skills. But **if you're an adult and you want to ==change your neural circuitry== at the level
 38:03
-of emotions or behavior or thoughts or anything really, you absolutely need to ask two important questions.
+of emotions or behavior or thoughts or anything really, you absolutely need to ask ==two important questions==.
 38:11
-One, what particular aspect of my nervous system am I trying to change?
+One, ==what particular aspect of my nervous system am I trying to change?
 38:18
-Meaning, am I trying to change my emotions or my perceptions, my sensations? And which ones are available for me to change?
+Meaning, am I trying to change my emotions or my perceptions, my sensations? And which ones are available for me to change?==
 38:24
-And then the second question is how are you going to go about that? What is the structure
+And then the second question is ==how are you going to go about that? What is the structure
 38:29
-of a regimen to engage neuroplasticity? And it turns out that the answer to that second question
+of a regimen to engage neuroplasticity?== And it turns out that the answer to that second question
 38:36
-is governed by how awake or how sleepy we are. So let's talk about that next.
+is ==governed by how awake or how sleepy we are==**. So let's talk about that next.
 38:41
-Neuroplasticity is the ability for these connections in the brain and body to change in response to experience.
+**==Neuroplasticity is the ability for these connections in the brain and body to change in response to experience.==**
 38:48
 And what's so incredible about the human nervous system in particular is that we can direct our own neural changes.
 38:54
-We can decide that we want to change our brain. In other words, our brain can change itself
+We can decide that we want to change our brain. In other words, **==our brain can change itself
 38:59
-and our nervous system can change itself. And the same can't be said for other organs of the body. Even though our other organs of the body
+and our nervous system can change itself==. And the same can't be said for other organs of the body. Even though our other organs of the body
 39:06
-have some ability to change, they can't direct it. They can't think and decide,
+have some ability to change, they can't direct it**. They can't think and decide,
 39:11
 you know your gut doesn't say, oh, you know, I want to be able to digest spicy foods better so I'm going to rearrange the connections
 39:17
@@ -895,67 +895,67 @@ And for any of you that are interested in changing your nervous system so that s
 41:29
 from being very hard or seem almost impossible and out of reach to being very reflexive,
 41:34
-this is especially important to pay attention to. Plasticity in the adult human nervous system is gated,
+this is especially important to pay attention to. **==Plasticity in the adult human nervous system== is gated,
 41:43
-meaning it is controlled by neuromodulators. These things that we talked about earlier,
+meaning it ==is controlled by neuromodulators==. These things that we talked about earlier,
 41:49
-dopamine, serotonin, and one in particular called acetylcholine,
+==dopamine, serotonin, and one in particular called acetylcholine,
 41:55
-are what open up plasticity. They literally unveil plasticity and allow brief periods of time
+are what open up plasticity==. ==They== literally unveil plasticity and allow ==brief periods of time==
 42:01
-in which whatever information, whatever thing we're sensing or perceiving or thinking,
+==in which whatever information==, whatever thing we're sensing or perceiving or thinking,
 42:07
-whatever emotions we feel can literally be mapped in the brain such that later it will become much easier
+whatever emotions we feel ==can literally be mapped in the brain such that later it will become much easier
 42:14
-for us to experience and feel that thing. Now, this has a dark side and a positive side.
+for us to experience and feel that thing==**. Now, this has a dark side and a positive side.
 42:19
 The dark side is it's actually very easy to get neuroplasticity as an adult through traumatic or terrible or challenging experiences.
 42:28
 But the important question is to say, why is that? And the reason that's the case is because
 42:34
-when something very bad happens, there's the release of two sets of neuromodulators in the brain,
+**==when something very bad happens, there's the release of two sets of neuromodulators in the brain,
 42:41
 epinephrine which tends to make us feel alert and agitated, which is associated with most bad circumstances.
 42:48
-And acetylcholine, which tends to create a even more intense and focused perceptual spotlight.
+And acetylcholine, which tends to create a even more intense and focused perceptual spotlight.==
 42:55
-Remember earlier we were talking about perception and how it's kind of like a spotlight. Acetylcholine makes that light particularly bright
+Remember earlier we were talking about perception and how it's kind of like a spotlight. ==Acetylcholine makes that light particularly bright
 43:01
-and particularly restricted to one region of our experience. And it does that by making certain neurons
+and particularly restricted to one region of our experience==. And it does that by making certain neurons
 43:08
-in our brain and body active much more than all the rest.
+in our brain and body active much more than all the rest.**
 43:14
-So acetylcholine is sorta like a highlighter marker upon which neuroplasticity then comes in later and says,
+So **==acetylcholine is sorta like a highlighter marker upon which neuroplasticity then comes in later and says,
 43:22
-wait, which neurons were active in this particularly alerting phase of whatever, you know,
+wait, which neurons were active in this particularly alerting phase== of whatever, you know,
 43:28
-day or night, whenever this thing happened. So the way it works is this, you can think of epinephrine as creating this alertness
+day or night, whenever this thing happened.** So the way it works is this, **==you can think of epinephrine as creating this alertness
 43:35
-and this kind of unbelievable level of increased attention compared to what you were experiencing before.
+and this kind of unbelievable level of increased attention== compared to what you were experiencing before.
 43:40
-And you can think of acetylcholine as being the molecule that highlights whatever happens
+And you can think of ==acetylcholine as being the molecule that highlights whatever happens
 43:47
-during that period of heightened alertness. So just to be clear, it's epinephrine creates the alertness,
+during that period of heightened alertness==.** So just to be clear, it's epinephrine creates the alertness,
 43:54
 that's coming from a subset of neurons in the brain stem if you're interested, and acetylcholine coming from an area of the forebrain
 44:01
 is tagging or marking the neurons that are particularly active during this heightened level of alertness.
 44:08
-Now that marks the cells, the neurons and the synapses for strengthening,
+Now **==that marks the cells, the neurons and the synapses for strengthening,
 44:14
-for becoming more likely to be active in the future even without us thinking about it.
+for becoming more likely to be active in the future even without us thinking about it.==**
 44:21
 Okay? So in bad circumstances this all happens without us having to do much.
 44:27
 When we want something to happen, however, we want to learn a language, we want to learn a new skill,
 44:33
-we want to become more motivated, what do we know for certain? We know that that process of getting neuroplasticity
+we want to become more motivated, what do we know for certain? **We know that that ==process of getting neuroplasticity==
 44:40
-so that we have more focus, more motivation, absolutely requires the release of epinephrine.
+so that we have more focus, more motivation, ==absolutely requires the release of epinephrine==.**
 44:46
-We have to have alertness in order to have focus and we have to have focus
+**==We have to have alertness in order to have focus and we have to have focus
 44:51
-in order to direct those plastic changes to particular parts of our nervous system.
+in order to direct those plastic changes to particular parts of our nervous system==.**
 44:57
 Now, this has immense implications in thinking about the various tools,
 45:03
@@ -963,17 +963,17 @@ whether or not those are chemical tools or machine tools or just self-induced re
 45:08
 of how long or how intensely you're going to focus in order to get neuroplasticity.
 45:15
-But there's another side to it. The dirty secret of neuroplasticity is that no neuroplasticity occurs
+But there's another side to it. The dirty secret of neuroplasticity is that **==no neuroplasticity occurs
 45:22
 during the thing you're trying to learn, during the terrible event, during the great event.
 45:28
 During the thing that you're really trying to shape and learn, nothing is actually changing between the neurons
 45:35
-that is going to last. All the neuroplasticity, the strengthening of the synapses,
+that is going to last. All the neuroplasticity, the strengthening of the synapses,==
 45:41
 the addition, in some cases, of new nerve cells or at least connections between nerve cells,
 45:47
-all of that occurs at a very different phase of life which is when we are in sleep and non-sleep deep rest.
+all of that ==occurs== at a very different phase of life which is ==when we are in sleep and non-sleep deep rest==.**
 45:54
 And so neuroplasticity, which is the kind of Holy Grail of human experience of, you know, this is the New Year
 46:00
@@ -981,30 +981,30 @@ and everyone's thinking New Year's resolutions. And right now, perhaps everythin
 46:06
 but what happens in March or April or May? Well, that all depends on how much attention
 46:11
-and focus one can continually bring to whatever it is they're trying to learn, so much so that agitation and a feeling of strain
+and focus one can continually bring to whatever it is they're trying to learn, so much so that **==agitation and a feeling of strain
 46:19
-are actually required for this process of neuro-plasticity to get triggered.
+are actually required for this process of neuro-plasticity to get triggered==.**
 46:24
-But the actual rewiring occurs during periods of sleep and non-sleep deep rest.
+But **the actual ==rewiring occurs during periods of sleep and non-sleep deep rest==.**
 46:30
 There's a study published last year that's particularly relevant here that I want to share, it was not done by my laboratory,
 46:37
 that showed that 20 minutes of deep rest, this is not deep sleep,
 Accelerating Learning in Sleep
 46:42
-but essentially doing something very hard and very intense and then taking 20 minutes immediately afterwards
+but essentially **==doing something very hard and very intense and then taking 20 minutes immediately afterwards
 46:50
 to deliberately turn off the deliberate focused thinking and engagement
 46:55
-actually accelerated neuroplasticity. There's another study that's just incredible. And we're going to go into this
+actually accelerated neuroplasticity==**. There's another study that's just incredible. And we're going to go into this
 47:01
-in a future episode of the podcast not too long from now, that showed that if people are learning a particular skill,
+in a future episode of the podcast not too long from now, that showed that **==if people are learning a particular skill,==
 47:10
-it could be a language skill or a motor skill, and they hear a tone just playing in the background,
+it could be a language skill or a motor skill, ==and they hear a tone just playing in the background,
 47:16
-and the tone is playing periodically in the background, like just a bell. In deep sleep, if that bell is played
+and the tone is playing periodically in the background==, like just a bell. ==In deep sleep, if that bell is played
 47:24
-learning is much faster for the thing that they were learning while they were awake. It somehow cues the nervous system in sleep,
+learning is much faster for the thing that they were learning while they were awake==**. It somehow cues the nervous system in sleep,
 47:32
 doesn't even have to be in dreaming, that something that happened in the waking phase
 47:38
@@ -1012,15 +1012,15 @@ was especially important. So much so that that bell is sort of a Pavlovian cue,
 47:43
 it's sort of a reminder to the sleeping brain, oh, you need to remember what it is that you were learning at that particular time of day.
 47:49
-And the learning rates and the rates of retention, meaning how much people can remember from the thing they learned,
+And **the ==learning rates and the rates of retention, meaning how much people can remember from the thing they learned,
 47:55
-are significantly higher under those conditions. So I'm going to talk about how to apply all this knowledge
+are significantly higher under those conditions==**. So I'm going to talk about how to apply all this knowledge
 48:01
 a little bit more in this podcast episode but also in future episodes. But it really speaks to the really key importance
 48:09
 of sleep and focus, these two opposite ends of our attentional state.
 48:15
-When we're in sleep these DPOs, duration, path, and outcome analysis are impossible. We just can't do that.
+**When we're in sleep these DPOs, duration, path, and outcome analysis are impossible. We just can't do that.
 48:21
 We are only in relation to what's happening inside of us. So sleep is key.
 48:27
@@ -1032,7 +1032,7 @@ where our attention is kind of drifting all over. It turns out that's very impor
 48:45
 between the nerve cells that will allow what we were trying to learn to go from being deliberate and hard and stressful and a strain
 48:55
-to easy and reflexive. This also points to how different people,
+to easy and reflexive**. This also points to how different people,
 49:01
 including many modern clinicians, are thinking about how to prevent bad circumstances, traumas,
 49:06
@@ -1052,34 +1052,34 @@ or some person or some event. Learning to fear certain things, less to eliminate
 49:51
 to erase a trauma. The memories themselves don't get erased. I'm sorry to say
 49:56
-that the memories don't themselves get erased, but the emotional load of memories can be reduced. And there are a number of different ways
+that the **memories don't themselves get erased, but the emotional load of memories can be reduced**. And there are a number of different ways
 50:01
 that that can happen but they all require this thing that we're calling neuroplasticity.
 50:07
-We're going to have a large number of discussions about neuroplasticity in depth, but the most important thing to understand
+We're going to have a large number of discussions about **neuroplasticity in depth, but the most important thing to understand
 50:14
-is that it is indeed a two phase process. What governs the transition between alert and focused
+is that it is indeed a two phase process.** **What governs the transition between alert and focused
 The Pillar of Plasticity
 50:21
 and these deep rest and deep sleep states is a system in our brain and body,
 50:27
-a certain aspect of the nervous system called the autonomic nervous system. And it is immensely important to understand
+a certain aspect of the nervous system called the autonomic nervous system**. And it is immensely important to understand
 50:33
 how this autonomic nervous system works. It has names like the sympathetic nervous system and parasympathetic nervous system
 50:39
-which frankly are complicated names because they're a little bit misleading. Sympathetic is the one that's associated
+which frankly are complicated names because they're a little bit misleading. **Sympathetic is the one that's associated
 50:45
 with more alertness. Parasympathetic is the one that's associated with more calmness. And it gets really misleading
 50:51
 because the sympathetic nervous system sounds like sympathy. And then people think it's related to calm. I'm going to call it the alertness system
 50:57
-and the calmness system, because even though sympathetic and parasympathetic
+and the calmness system**, because even though sympathetic and parasympathetic
 51:02
 are sometimes used, people really get confused. So the way to think about the autonomic nervous system
 51:08
-and the reason it's important for every aspect of your life, but in particular for neuroplasticity
+and **the reason it's important for every aspect of your life, but in particular for neuroplasticity
 51:13
-and engaging in these focus states and in these de-focused states is that it works sort of like a seesaw.
+and engaging in these focus states and in these de-focused states is that it works sort of like a seesaw.**
 51:19
 Every 24 hours, we're all familiar with the fact that when we wake up in the morning we might be a little bit groggy
 51:25
@@ -1101,17 +1101,17 @@ we're tired and we have no ability to focus. We have no ability to engage in dur
 52:15
 And it's interesting that both phases are important for shaping our nervous system in the ways that we want.
 52:22
-So if we want to engage neuroplasticity and we want to get the most out of our nervous system we each have to master
+So **if we want to engage neuroplasticity and we want to get the most out of our nervous system we each have to master
 52:28
-both the transition between wakefulness and sleep and the transition between sleep and wakefulness.
+both the transition between wakefulness and sleep and the transition between sleep and wakefulness.**
 52:35
-Now so much has been made of the importance of sleep. And it is critically important for wound healing, for learning as I just mentioned,
+Now so much has been made of **the importance of sleep. And it is critically important for wound healing, for learning as I just mentioned,
 52:42
 for consolidating learning, for all aspects of our immune system.
 52:47
 It is the one period of time in which we're not doing these duration, path, and outcome types of analyses. And it is critically important
 52:52
-to all aspects of our health, including our longevity. Much less has been made, however,
+to all aspects of our health, including our longevity**. Much less has been made, however,
 52:59
 of how to get better at sleeping, how to get better at the process that involves falling asleep, staying asleep,
 53:06
@@ -1145,13 +1145,13 @@ The other thing that is really important to understand is that we have not explo
 54:32
 the rhythms that occur in our waking states. So much has been focused on the value of sleep
 54:38
-and the importance of sleep, which is great. But I don't think that most people are paying attention to what's happening in their waking states
+and the importance of sleep, which is great. But **I don't think that most people are paying attention to what's happening in their waking states
 54:44
 and when their brain is optimized for focus, when their brain is optimized for these DPOs, these duration, path, outcome
 54:51
 types of engagements for learning and for changing and when are their brain is probably better suited
 54:57
-for more reflexive thinking and behaviors. And it turns out that there's a vast amount of scientific data
+for more reflexive thinking and behaviors.** And it turns out that there's a vast amount of scientific data
 Leveraging Ultradian Cycles & Self Experimentation
 55:04
 which points to the existence of what are called ultradian rhythms. You may have heard of circadian rhythms.
@@ -1164,13 +1164,13 @@ The most important ultradian rhythm for sake of this discussion is the 90 minute
 55:34
 And in sleep, we are, our sleep is broken up into 90 minute segments.
 55:39
-Early in the night we have more phase one and phase two lighter sleep. And then we go into our deeper phase three and phase four sleep.
+**Early in the night we have more phase one and phase two lighter sleep. And then we go into our deeper phase three and phase four sleep.
 55:45
 And then we return to phase one, two, three, four. So all night, you're going through these ultradian rhythms of stage one, two, three, four,
 55:52
-one, two, three, four, it's repeating. Most people perhaps know that. Maybe they don't.
+one, two, three, four, it's repeating**. Most people perhaps know that. Maybe they don't.
 55:57
-But you wake up in the morning, these ultradian rhythms continue. And it turns out that we are optimized
+But **you wake up in the morning, these ultradian rhythms continue. And it turns out that we are optimized
 56:04
 for focus and attention within these 90 minute cycles so that at the beginning of one of these 90 minute cycles
 56:10
@@ -1182,11 +1182,11 @@ to whatever it is you're trying to do. But as you drop deeper into that 90 minut
 56:32
 and to direct neuroplasticity and to learn is actually much greater. And then you eventually pop out of that
 56:39
-at the end of the 90 minute cycle. So these cycles are occurring in sleep and these cycles are occurring in wakefulness.
+at the end of the 90 minute cycle. So these cycles are occurring in sleep and these cycles are occurring in wakefulness.**
 56:45
 And all of those are governed by this seesaw of alertness to calmness that we call the autonomic nervous system.
 56:51
-So if you want to master and control your nervous system, regardless of what tool you reach to,
+So **if you want to master and control your nervous system, regardless of what tool you reach to,
 56:57
 whether or not it's a pharmacologic tool or whether or not it's a behavioral tool or whether or not it's a brain machine interface tool,
 57:04
@@ -1194,15 +1194,15 @@ it's vitally important to understand that your entire existence is occurring
 57:09
 in these 90 minute cycles, whether or not you're asleep or awake. And so you really need to learn how to wedge into
 57:16
-those 90 minute cycles. And for instance, it would be completely crazy and counterproductive
+those 90 minute cycles**. And for instance, it would be completely crazy and counterproductive
 57:21
 to try and just learn information while in deep sleep by listening to that information because you're not able to access it.
 57:28
 It would be perfectly good, however, to engage in a focused bout of learning each day.
 57:34
-And now we know how long that focused bout of learning should be, it should be at least one 90 minute cycle.
+And **now we know how long that focused bout of learning should be, it should be at least one 90 minute cycle.
 57:39
-And the expectation should be that the early phase of that cycle is going to be challenging. It's going to hurt.
+And the expectation should be that the early phase of that cycle is going to be challenging. It's going to hurt.**
 57:45
 It's not going to feel natural. It's not going to feel like flow. But that you can learn and the circuits of your brain that are involved
 57:51
@@ -1222,13 +1222,13 @@ related to perception that we will talk about. You can ask yourself
 58:36
 when are you most focused? When are you least anxious? When do you feel most motivated? When do you feel least motivated?
 58:42
-By understanding how the different aspects of your perception, sensation, feeling, thought, and actions,
+**By understanding how the different aspects of your perception, sensation, feeling, thought, and actions,
 58:48
 tend to want to be engaged or not want to be engaged. You develop a very good window
 58:54
 into what's going to be required to shift your ability to focus or shift your ability to engage in creative type thinking
 59:03
-at different times of day, should you choose. And so that's where we're heading, going forward. It all starts with mastering this seesaw
+at different times of day,** should you choose. And so that's where we're heading, going forward. It all starts with mastering this seesaw
 59:10
 that is the autonomic nervous system, that at a course level is a transition between wakefulness and sleep, but at a finer level,
 59:18
