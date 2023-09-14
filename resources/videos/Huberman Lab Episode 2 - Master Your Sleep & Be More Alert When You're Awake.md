@@ -105,23 +105,23 @@ What Is Sleep Really For?
 3:33
 So let's talk about sleep, sleep is this incredible period of our lives where we are not conscious.
 3:40
-We might dream, we might twitch, we might even wake up, but in sleep, we are only in relation
+We might dream, we might twitch, we might even wake up, but **in sleep, we are only in relation
 3:47
 to things that are happening within our brain and body. Outside sensory experience, in most cases,
 3:52
-can't really impact us, and yet, sleep is this tremendously important period of life
+can't really impact us**, and yet, sleep is this tremendously important period of **life
 3:58
 because it resets our ability to be focused, alert, and emotionally stable
 4:04
 in the wakeful period, so we can't really talk about wakefulness, focus,
 4:09
-motivation, mood, wellbeing without thinking about sleep, and that's why we're devoting this entire month
+motivation, mood, wellbeing without thinking about sleep**, and that's why we're devoting this entire month
 4:16
 to the discussion about sleep. Now, we also can't talk about sleep and think about sleep without thinking about wakefulness
 4:22
-because it turns out that the period that we call sleep and the period we call wakefulness
+because it turns out that **the period that we call sleep and the period we call wakefulness
 4:27
-are tethered to one another. What we do in the waking state determines when we fall asleep,
+are tethered to one another**. What we do in the waking state determines when we fall asleep,
 4:34
 how quickly we fall asleep, whether or not we stay asleep, and how we feel when we wake up the next day,
 4:40
@@ -153,20 +153,20 @@ in peer-reviewed studies, mostly from the last 10 years, although some even more
 6:01
 and we're gonna start by discussing what is sleep and what governs the timing of the onset of sleep,
 6:08
-in other words, what makes you get sleepy at a particular time of day. So what determines how well we sleep
+in other words, what makes you get sleepy at a particular time of day. **So what determines how well we sleep
 Sleep Hunger
 6:15
-and the quality of our wakeful state? Turns out that's governed by two forces,
+and the quality of our wakeful state? Turns out that's governed by two forces,**
 6:20
-the first force is a chemical force, it's called adenosine. Adenosine is a molecule in our nervous system and body
+**the first force is a chemical force, it's called adenosine. Adenosine is a molecule in our nervous system and body
 6:28
 that builds up the longer we are awake, so if you've just slept for 8, or 9,
 6:34
 or 10 really deep, restful hours, adenosine is gonna be very low in your brain and body.
 6:40
-If, however, you've been awake for 10, 15, or more hours, adenosine levels are going to be much higher.
+If, however, you've been awake for 10, 15, or more hours, adenosine levels are going to be much higher.**
 6:47
-Adenosine creates a sort of sleep drive or a sleep hunger, and actually, hunger is the appropriate word here
+**Adenosine creates a sort of sleep drive or a sleep hunger, and actually, hunger is the appropriate word here
 6:55
 because for most of what we're gonna discuss today, we can think of it in an analogous way to nutrition.
 7:01
@@ -178,11 +178,11 @@ it's governed by a number of different factors, how often you eat, how much you 
 7:20
 and what works best for you. In the same way, your sleep and your wakefulness
 7:26
-are the product of kind of the average of a number of different behaviors, how long you've been awake is a key one
+are the product of kind of the average of a number of different behaviors**, how long you've been awake is a key one
 7:32
-because of this molecule, adenosine. So the reason you get sleepy when you've been up for a while
+because of this molecule, adenosine. So **the reason you get sleepy when you've been up for a while
 7:37
-is because adenosine is creeping up steadily the longer you've been awake, and a good way to remember this and think about adenosine
+is because adenosine is creeping up steadily the longer you've been awake**, and a good way to remember this and think about adenosine
 7:45
 is to think about caffeine. Caffeine, for most people, except a very small percentage of people,
 7:52
@@ -190,7 +190,7 @@ wakes them up, it makes them feel more alert, in fact, some people are so sensit
 7:57
 that they feel jittery if they drink it even in small amounts, other people can drink large amounts of caffeine
 8:03
-and not feel jittery at all. Caffeine acts as an adenosine antagonist,
+and not feel jittery at all. **Caffeine acts as an adenosine antagonist,
 8:11
 what that means is that when you ingest caffeine, whether or not it's coffee or soda or tea,
 8:16
@@ -206,7 +206,7 @@ So the reason caffeine wakes you up is because it blocks the sleepiness receptor
 8:48
 it blocks the sleepy signal, and this is why when that caffeine wears off, adenosine will bind to that receptor,
 8:54
-sometimes with even greater, what we call affinity, and you feel the crash, you feel especially tired.
+sometimes with even greater, what we call affinity, and you feel the crash, you feel especially tired.**
 Caffeine: Devil & Angel
 9:01
 Now, I'm not here to demonize caffeine, I love caffeine, and I drink it in the morning and I drink it in the afternoon,
@@ -231,13 +231,13 @@ you need to figure out what's right for you. Caffeine has a lot of health benefi
 10:04
 it also, for some people, can be problematic for health, it can raise blood pressure, et cetera,
 10:09
-caffeine increases this molecule that's a neuromodulator that we call dopamine, we discussed this in episode one,
+**caffeine increases this molecule that's a neuromodulator that we call dopamine, we discussed this in episode one,
 10:16
-which tends to make us feel good, motivated, and give us energy because, as you may have learned in episode one,
+which tends to make us feel good**, motivated, and give us energy because, as you may have learned in episode one,
 10:23
-dopamine is related to another neuromodulator called epinephrine, which gives us energy,
+**dopamine is related to another neuromodulator called epinephrine, which gives us energy,
 10:28
-in fact, epinephrine is made from dopamine. So let's just take a step back and think about what we're talking about
+in fact, epinephrine is made from dopamine**. So let's just take a step back and think about what we're talking about
 10:33
 when we're talking about sleepiness, sleepiness is driven by increases in adenosine
 10:38
@@ -261,11 +261,11 @@ of science and science-related tools, this is one of those cases where I can't g
 11:32
 except to say you need to experiment with caffeine in a way that's safe for you and explore that and figure out what works for you,
 11:39
-and then stick with that. Okay, so adenosine is driving this sleep hunger,
+and then stick with that. Okay, so **adenosine is driving this sleep hunger,
 11:44
 when adenosine is low, it's like we're well-fed, we're not very hungry, and when adenosine is high,
 11:50
-it's like we're fasted for a long time and we tend to be very hungry, so that when adenosine is high, we really wanna fall asleep.
+it's like we're fasted for a long time and we tend to be very hungry, so that when adenosine is high, we really wanna fall asleep.**
 11:57
 If you want, I'm not suggesting you do this experiment, but you can do it, you can stay up for four more hours
 12:03
@@ -278,7 +278,7 @@ Timing Your Sleep Properly
 12:21
 in your energy and alertness again, even though adenosine has been building up for the entire night.
 12:28
-Now, why is that? The reason that is is because there's a second force which is governing when you sleep and when you're awake,
+Now, why is that? The reason that is is because **there's a second force which is governing when you sleep and when you're awake,
 12:35
 and that force is a so-called circadian force, circadian means about a day or about 24 hours,
 12:44
@@ -286,7 +286,7 @@ and inside all of us is a clock that exists in your brain and my brain,
 12:49
 and the brain of every animal that we're aware of, that determines when we want to be sleepy
 12:55
-and when we want to be awake. Just think about it, we don't go through the day wanting to fall asleep every 30 minutes
+and when we want to be awake**. Just think about it, we don't go through the day wanting to fall asleep every 30 minutes
 13:01
 and then feeling like we're wide awake, our sleep and our period of sleepiness tends to be condensed into one block,
 13:09
@@ -296,13 +296,13 @@ and we're going to discuss how you can diagnose your absolute sleep need as well
 13:23
 That block of sleep and when it falls within each 24-hour cycle
 13:28
-is governed by a number of different things, but the most powerful thing that's governing when you want to be asleep
+is governed by a number of different things, but **the most powerful thing that's governing when you want to be asleep
 13:35
 and when you want to be awake is light, and in particular, it's governed by sunlight,
 13:41
 and I can't emphasize enough how important and how actionable this relationship is
 13:46
-between light and when you want to sleep. It's quite simple on the face of it
+between light and when you want to sleep**. It's quite simple on the face of it
 13:53
 and it's quite simple to resolve, but people tend to make a big mess of this whole circadian literature, frankly,
 13:59
@@ -317,39 +317,39 @@ maybe not right at sunrise, but within an hour or two or maybe three of sunrise.
 14:25
 and there are people traveling and experiencing jet lag where this is not going to be the case, we are gonna deal with jet lag and shift work
 14:33
-at the end of this podcast, but for most people, we tend to wake up about the time that the sun is rising or so,
+at the end of this podcast, but for most people, **we tend to wake up about the time that the sun is rising or so,
 14:40
-and as we do that, adenosine levels tend to be low if we've been asleep
+and as we do that, adenosine levels tend to be low if we've been asleep**
 14:45
 for reasons that you now understand, and our system generates an internal signal
 14:52
 that is in the form of a hormone. Now, I've talked a lot about neuromodulators and neurotransmitters,
 14:57
-I haven't talked a lot about hormones yet on this podcast. The definition of a hormone is it's a substance,
+I haven't talked a lot about hormones yet on this podcast. **The definition of a hormone is it's a substance,
 15:04
 a chemical that's released from one organ in your body that goes and acts on other organs elsewhere in your body,
 15:11
-including your nervous system. When you wake up in the morning, you wake up because a particular hormone called cortisol
+including your nervous system**. **When you wake up in the morning, you wake up because a particular hormone called cortisol
 15:19
-is released from your adrenal glands, your adrenal glands sit right above your kidneys, and there's a little pulse of cortisol.
+is released from your adrenal glands, your adrenal glands sit right above your kidneys, and there's a little pulse of cortisol.**
 15:26
 There's also a pulse of some, and when I say a pulse, I just mean the release of a little bit,
 15:31
-there's also a pulse of epinephrine, which is adrenaline, from your adrenals and also in your brain,
+**there's also a pulse of epinephrine, which is adrenaline, from your adrenals and also in your brain,
 15:38
 and you feel awake. Now, that pulse of cortisol and adrenaline and epinephrine
 15:43
 might come from your alarm clock, it might come from you naturally waking up, but it tends to alert your whole system in your body
 15:51
-that it's time to increase your heart rate, it's time to start tensing your muscles, it's time to start moving about.
+that it's time to increase your heart rate, it's time to start tensing your muscles, it's time to start moving about.**
 15:57
-It's very important that that cortisol pulse come early in the day,
+**It's very important that that cortisol pulse come early in the day,
 16:02
 or at least, early in your period of wakefulness, I say that because some people are waking up at 8:00 p.m.
 16:07
 and are sleeping all day, but it's very important that that pulse of cortisol occur early in the day and that it happens all at once,
 16:16
-it sort of sets a rising tide of cortisol in your system. Now, many of you have probably heard about cortisol
+it sort of sets a rising tide of cortisol in your system**. Now, many of you have probably heard about cortisol
 16:22
 in relation to stress, and indeed, as we go through our day and our life, different stressors, different events happen in our life
 16:30
@@ -367,29 +367,29 @@ that happens early in the day, and I say healthy because it wakes you up, it mak
 17:08
 and to go about your day for work, for exercise, for school, for social relations, et cetera.
 17:14
-So when you wake up in the morning is when that cortisol pulse takes off,
+So **when you wake up in the morning is when that cortisol pulse takes off,
 17:19
 and something else important happens, a timer is set in your body and in your nervous system
 17:25
 that dictates when a different hormone called melatonin, which makes you sleepy,
 17:31
-will be secreted from a particular brain region, so let's talk about that. When you wake up in the morning
+will be secreted from a particular brain region**, so let's talk about that. When you wake up in the morning
 17:37
 and you experience that rise in cortisol, there's a timer that starts going,
 17:43
-and these are cellular timers and they're dictated by the relation between different organs in your body,
+and **these are cellular timers and they're dictated by the relation between different organs in your body,
 17:48
 that says to your brain and body that in about 12 to 14 hours,
 17:54
-a different hormone, this hormone we're calling melatonin, will be released from your pineal gland.
+a different hormone, this hormone we're calling melatonin, will be released from your pineal gland.**
 18:00
-So there's two mechanisms here, a wakefulness signal and a sleepiness signal, and the wakefulness signal triggers the onset of the timer
+**So there's two mechanisms here, a wakefulness signal and a sleepiness signal, and the wakefulness signal triggers the onset of the timer
 18:08
-for the sleepiness signal. Now, that sleepiness signal that we call melatonin that's released from the pineal
+for the sleepiness signal**. Now, that sleepiness signal that we call melatonin that's released from the pineal
 18:14
 comes only from the pineal. Unless you're taking exogenous melatonin, you're supplementing with melatonin,
 18:21
-the only source of melatonin in your body is going to be this pineal gland, so let's talk about the pineal gland for a second.
+**the only source of melatonin in your body is going to be this pineal gland**, so let's talk about the pineal gland for a second.
 18:28
 The pineal gland is a gland that sits kind of in the little structure near,
 18:34
@@ -404,9 +404,9 @@ there's one on either side of the brain, so-called bihemispheric, but the pineal
 18:57
 I don't know anything about souls, really, certainly not the science of souls, but I think it's very unlikely
 19:03
-that the pineal is the seat of the soul, but it is a very interesting organ because it's the only organ in our body
+that **the pineal is the seat of the soul, but it is a very interesting organ because it's the only organ in our body
 19:10
-that releases melatonin, and that melatonin makes us sleepy and lets us fall asleep.
+that releases melatonin, and that melatonin makes us sleepy and lets us fall asleep**.
 19:18
 Now, I'm guessing that many of you are probably asking, "Should I take melatonin?"
 19:23
@@ -446,9 +446,9 @@ for that reason, but if you've already gone through puberty, it could also have 
 21:05
 on other hormone systems in your body, so that's why I personally don't like to use melatonin to fall asleep.
 21:12
-There's another reason, which is that melatonin will help you fall asleep but it won't help you stay asleep, and many people who take melatonin
+There's another reason, which is that **melatonin will help you fall asleep but it won't help you stay asleep, and many people who take melatonin
 21:18
-find that they wake up three to five hours later unable to fall back asleep. Part of the reason for that might be
+find that they wake up three to five hours later unable to fall back asleep**. Part of the reason for that might be
 21:25
 that melatonin purchased at, you can buy it over the counter in most areas of the world even though it's a hormone,
 21:31
@@ -476,7 +476,7 @@ but for many people, they find that it does help them, and so if you do find it 
 22:43
 in light of the other practices that you're doing and talk to your healthcare professional.
 22:49
-Okay, so the rhythm of cortisol and melatonin is what we call endogenous,
+Okay, so **the rhythm of cortisol and melatonin is what we call endogenous,
 22:55
 it's happening in us all the time without any external input, in fact, if we were in complete darkness,
 23:01
@@ -484,7 +484,7 @@ living in a cave with no artificial lights whatsoever, or we were in complete br
 23:07
 where we never experienced any darkness, these rhythms of cortisol and melatonin would continue,
 23:14
-you would have a bump in cortisol, or a pulse in cortisol, that would drop off with time, and then melatonin would come up about 12 to 14 hours later,
+you would have a bump in cortisol, or a pulse in cortisol, that would drop off with time, and then melatonin would come up about 12 to 14 hours later**,
 23:23
 but these endogenous systems of our body, which are both hormonal and neural,
 23:30
@@ -511,19 +511,19 @@ Strange Vision Is Good Vision
 24:35
 actually, two pieces because most of you have two retinas, that resides outside the skull, per se.
 24:41
-When light comes into the eye, there's a particular group of retinal ganglion cells, or type of retinal ganglion cells,
+**When light comes into the eye, there's a particular group of retinal ganglion cells, or type of retinal ganglion cells,
 24:48
 that perceives a particular type of light and communicates that to this clock
 24:54
-that resides right above the roof of your mouth called the suprachiasmatic nucleus, okay?
+that resides right above the roof of your mouth called the suprachiasmatic nucleus,** okay?
 24:59
-So I know this can get a little complicated, but these retinal ganglion cells, when you open your eyes, light comes in,
+So I know this can get a little complicated, but these retinal ganglion cells, **when you open your eyes, light comes in,
 25:05
 and an electrical signal is sent to this central clock we call the suprachiasmatic nucleus,
 25:11
-and the suprachiasmatic nucleus has connections with essentially every cell and organ of your body.
+and the suprachiasmatic nucleus has connections with essentially every cell and organ of your body.**
 25:18
-Now, it's vitally important that we get light communicated to this central clock
+Now, **it's vitally important that we get light communicated to this central clock
 25:23
 in order to time the cortisol and melatonin properly, and when I say properly, I can say that with confidence
 25:30
@@ -531,7 +531,7 @@ because we know based on a lot of evidence that if you don't get your cortisol a
 25:38
 there are tremendously broad and bad effects
 25:43
-on cardiovascular health, dementia, metabolic effects, learning, depression, dementia,
+on cardiovascular health, dementia, metabolic effects, learning, depression, dementia**,
 25:49
 in fact, there're so many negative effects associated with getting this wrong that I don't wanna get into it in too much detail,
 25:55
@@ -549,31 +549,31 @@ now, if we're in a dark room, there isn't enough light to trigger the correct ti
 26:32
 of this cortisol-melatonin thing, these rhythms. You might say, "Well, why won't any light do it?"
 26:39
-Well, it turns out that these neurons in our eye that set the circadian clock and then allow our circadian clock to set all the clocks
+Well, it turns out that **these neurons in our eye that set the circadian clock and then allow our circadian clock to set all the clocks
 26:47
 of all the cells and organs and tissues of our body responds best to a particular quality of light
 26:54
 and amount of light, and those are the qualities of light and amount of light
 27:00
-that come from sunlight, so these neurons, what they're really looking for,
+that come from sunlight**, so these neurons, what they're really looking for,
 27:07
 although they don't have a mind of their own, is the sun at what we call low solar angle,
 27:12
-the eye and the nervous system don't know anything about sunrises or sunsets, it only knows the quality of light
+**the eye and the nervous system don't know anything about sunrises or sunsets, it only knows the quality of light
 27:18
 that comes in when the sun is low in the sky, the system evolved so that when the sun is low in the sky,
 27:24
-there's a particular contrast between yellows and blues that triggers the activation of these cells,
+there's a particular contrast between yellows and blues that triggers the activation of these cells**,
 27:31
 so if you wake up and you look at your phone or your computer, or you flip on a bunch of artificial lights,
 27:37
 will these cells be activated? And the answer is, sort of, they'll be activated but not in the optimal way.
 27:44
-What you want to do is get sunlight in your eyes as close to waking as possible. Now, I wanna be really clear about this
+What you want to do is **get sunlight in your eyes as close to waking as possible**. Now, I wanna be really clear about this
 27:50
 because I've talked about it on other podcasts when I was a guest and I talked about it on my Instagram feed,
 27:55
-and there seemed to be the same questions coming up again and again, these neurons don't know sunlight, per se,
+and there seemed to be the same questions coming up again and again, **these neurons don't know sunlight, per se,
 28:02
 they don't know sunrise or sunset, for that matter, they don't know artificial light from sunlight,
 28:08
@@ -589,19 +589,19 @@ you don't need the sunlight beaming you directly in the eyes, there's a lot of p
 28:39
 that's scattered from sunlight at this time, but the key is to get that light energy,
 28:45
-from sunlight, ideally, into your eyes. Now, I know many of you are already asking, "Well, I live in Scandinavia,"
+from sunlight, ideally, into your eyes**. Now, I know many of you are already asking, "Well, I live in Scandinavia,"
 28:51
 or, "I can't get sunlight, "there's buildings around me," et cetera, we will get to all of that, but it's critically important
 28:58
 that you get outside to get this light. I had a discussion with a colleague of mine, Dr. Jamie Zeitzer, who's in the Department of Psychiatry
 29:05
-and Behavioral Sciences at Stanford, a world expert in this, and he tells me that it's 50 times less effective
+and Behavioral Sciences at Stanford, a world expert in this, and he tells me that **it's 50 times less effective
 29:16
 to view this sunlight through a window, through a car windshield,
 29:21
-or through the side window of a car than it is to just get outside with no sunglasses and view light early in the day.
+or through the side window of a car than it is to just get outside with no sunglasses and view light early in the day.**
 29:28
-Now, if you can't see the sunrise, like I said, you can see this within an hour or two of sunrise, but it has to be low solar angle,
+Now, if you can't see the sunrise, like I said, you can see this within an hour or two of sunrise, but **it has to be low solar angle,
 29:35
 once the sun is overhead, the quality of light shifts so that you miss this opportunity
 29:40
@@ -615,13 +615,13 @@ is one of the consequences, and maybe one of the causes, of a lot of anxiety dis
 30:07
 so it's kind of a chicken-egg thing, we don't know whether or not it's correlated with, it's the cause, or the effect,
 30:12
-but it's a signature of depression and anxiety disorder. Bringing that cortisol pulse earlier in your wakeful period,
+but it's a signature of depression and anxiety disorder**. **Bringing that cortisol pulse earlier in your wakeful period,
 30:19
 earlier in your day, has positive benefits ranging from blood pressure to mental health, et cetera,
 30:26
 not gonna list them all off because there's just so many of them, but many, many positive things happen when you are getting the cortisol early in the day
 30:34
-far away from your melatonin pulse. Okay, so how long should you be outside?
+far away from your melatonin pulse**. Okay, so how long should you be outside?
 30:40
 Well, this is gonna vary tremendously because some people live in environments where it's very bright, so let's say it's Colorado in the middle of winter,
 30:48

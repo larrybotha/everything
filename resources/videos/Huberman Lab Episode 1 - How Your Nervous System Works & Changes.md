@@ -1020,19 +1020,19 @@ a little bit more in this podcast episode but also in future episodes. But it re
 48:09
 of sleep and focus, these two opposite ends of our attentional state.
 48:15
-**When we're in sleep these DPOs, duration, path, and outcome analysis are impossible. We just can't do that.
+**==When we're in sleep these DPOs, duration, path, and outcome analysis are impossible. We just can't do that.==
 48:21
-We are only in relation to what's happening inside of us. So sleep is key.
+We are only in relation to what's happening inside of us. ==So sleep is key==.
 48:27
-Also key are periods of non-sleep deep rest where we're turning off our analysis of duration, path, and outcome,
+==Also key are periods of non-sleep deep rest where we're turning off our analysis of duration, path, and outcome,
 48:34
-in particular for the thing that we were just trying to learn. And we're in this kind of liminal state
+in particular for the thing that we were just trying to learn==. And ==we're in this kind of liminal state
 48:40
 where our attention is kind of drifting all over. It turns out that's very important for the consolidation, for the changes
 48:45
 between the nerve cells that will allow what we were trying to learn to go from being deliberate and hard and stressful and a strain
 48:55
-to easy and reflexive**. This also points to how different people,
+to easy and reflexive==**. This also points to how different people,
 49:01
 including many modern clinicians, are thinking about how to prevent bad circumstances, traumas,
 49:06
@@ -1052,13 +1052,13 @@ or some person or some event. Learning to fear certain things, less to eliminate
 49:51
 to erase a trauma. The memories themselves don't get erased. I'm sorry to say
 49:56
-that the **memories don't themselves get erased, but the emotional load of memories can be reduced**. And there are a number of different ways
+that the **==memories don't themselves get erased, but the emotional load of memories can be reduced==**. And there are a number of different ways
 50:01
 that that can happen but they all require this thing that we're calling neuroplasticity.
 50:07
-We're going to have a large number of discussions about **neuroplasticity in depth, but the most important thing to understand
+We're going to have a large number of discussions about **==neuroplasticity== in depth, but the most important thing to understand
 50:14
-is that it is indeed a two phase process.** **What governs the transition between alert and focused
+is that it ==is indeed a two phase process==.** **What governs the transition between alert and focused
 The Pillar of Plasticity
 50:21
 and these deep rest and deep sleep states is a system in our brain and body,
@@ -1067,19 +1067,19 @@ a certain aspect of the nervous system called the autonomic nervous system**. An
 50:33
 how this autonomic nervous system works. It has names like the sympathetic nervous system and parasympathetic nervous system
 50:39
-which frankly are complicated names because they're a little bit misleading. **Sympathetic is the one that's associated
+which frankly are complicated names because they're a little bit misleading. **==Sympathetic is the one that's associated
 50:45
-with more alertness. Parasympathetic is the one that's associated with more calmness. And it gets really misleading
+with more alertness==. ==Parasympathetic is the one that's associated with more calmness==. And it gets really misleading
 50:51
 because the sympathetic nervous system sounds like sympathy. And then people think it's related to calm. I'm going to call it the alertness system
 50:57
 and the calmness system**, because even though sympathetic and parasympathetic
 51:02
-are sometimes used, people really get confused. So the way to think about the autonomic nervous system
+are sometimes used, people really get confused. So **the way to think about ==the autonomic nervous system==
 51:08
-and **the reason it's important for every aspect of your life, but in particular for neuroplasticity
+and the reason it's important for every aspect of your life, but ==in particular for neuroplasticity
 51:13
-and engaging in these focus states and in these de-focused states is that it works sort of like a seesaw.**
+and engaging in these focus states and in these de-focused states== is that it ==works sort of like a seesaw==.**
 51:19
 Every 24 hours, we're all familiar with the fact that when we wake up in the morning we might be a little bit groggy
 51:25
@@ -1105,11 +1105,11 @@ So **if we want to engage neuroplasticity and we want to get the most out of our
 52:28
 both the transition between wakefulness and sleep and the transition between sleep and wakefulness.**
 52:35
-Now so much has been made of **the importance of sleep. And it is critically important for wound healing, for learning as I just mentioned,
+Now so much has been made of **the importance of ==sleep==. And it ==is critically important for wound healing, for learning== as I just mentioned,
 52:42
-for consolidating learning, for all aspects of our immune system.
+==for consolidating learning==, ==for all aspects of our immune system==.
 52:47
-It is the one period of time in which we're not doing these duration, path, and outcome types of analyses. And it is critically important
+==It is the one period of time in which we're not doing these duration, path, and outcome types of analyses==. And it is critically important
 52:52
 to all aspects of our health, including our longevity**. Much less has been made, however,
 52:59
@@ -1166,43 +1166,43 @@ And in sleep, we are, our sleep is broken up into 90 minute segments.
 55:39
 **Early in the night we have more phase one and phase two lighter sleep. And then we go into our deeper phase three and phase four sleep.
 55:45
-And then we return to phase one, two, three, four. So all night, you're going through these ultradian rhythms of stage one, two, three, four,
+And then we return to phase one, two, three, four. So ==all night, you're going through these ultradian rhythms of stage one, two, three, four,
 55:52
-one, two, three, four, it's repeating**. Most people perhaps know that. Maybe they don't.
+one, two, three, four, it's repeating**==. Most people perhaps know that. Maybe they don't.
 55:57
-But **you wake up in the morning, these ultradian rhythms continue. And it turns out that we are optimized
+But **==you wake up in the morning, these ultradian rhythms continue. And it turns out that we are optimized
 56:04
-for focus and attention within these 90 minute cycles so that at the beginning of one of these 90 minute cycles
+for focus and attention within these 90 minute cycles so that at the beginning of one of these 90 minute cycles==
 56:10
-maybe you sit down to learn something new or to engage in some new challenging behavior, for the first five or 10 minutes of one of those cycles
+maybe you sit down to learn something new or to engage in some new challenging behavior, ==for the first five or 10 minutes of one of those cycles
 56:18
 it's well-known that the brain and the neural circuits and the neuromodulators are not going to be optimally tuned
 56:24
 to whatever it is you're trying to do. But as you drop deeper into that 90 minute cycle your ability to focus and to engage in this DPO process
 56:32
-and to direct neuroplasticity and to learn is actually much greater. And then you eventually pop out of that
+and to direct neuroplasticity and to learn is actually much greater==. And then you eventually pop out of that
 56:39
 at the end of the 90 minute cycle. So these cycles are occurring in sleep and these cycles are occurring in wakefulness.**
 56:45
 And all of those are governed by this seesaw of alertness to calmness that we call the autonomic nervous system.
 56:51
-So **if you want to master and control your nervous system, regardless of what tool you reach to,
+So **==if you want to master and control your nervous system==, regardless of what tool you reach to,
 56:57
 whether or not it's a pharmacologic tool or whether or not it's a behavioral tool or whether or not it's a brain machine interface tool,
 57:04
-it's vitally important to understand that your entire existence is occurring
+==it's vitally important to understand that your entire existence is occurring
 57:09
 in these 90 minute cycles, whether or not you're asleep or awake. And so you really need to learn how to wedge into
 57:16
-those 90 minute cycles**. And for instance, it would be completely crazy and counterproductive
+those 90 minute cycles==**. And for instance, it would be completely crazy and counterproductive
 57:21
 to try and just learn information while in deep sleep by listening to that information because you're not able to access it.
 57:28
 It would be perfectly good, however, to engage in a focused bout of learning each day.
 57:34
-And **now we know how long that focused bout of learning should be, it should be at least one 90 minute cycle.
+And **now we know how long that ==focused bout of learning should be==, it should be ==at least one 90 minute cycle==.
 57:39
-And the expectation should be that the early phase of that cycle is going to be challenging. It's going to hurt.**
+And the expectation should be that ==the early phase of that cycle is going to be challenging. It's going to hurt==.**
 57:45
 It's not going to feel natural. It's not going to feel like flow. But that you can learn and the circuits of your brain that are involved
 57:51
