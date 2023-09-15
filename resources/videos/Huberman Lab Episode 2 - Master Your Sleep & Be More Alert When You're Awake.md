@@ -641,9 +641,9 @@ sunlight simulators in the form of particular lights that were designed to simul
 31:30
 however, and I'm not out to attack the companies that produce those, there's another solution to that,
 31:37
-you can simply go outside for longer, even if there's a lot of dense cloud cover, you're probably getting anywhere from 10,000 to 50,000 lux,
+you can simply **go outside for longer, even if there's a lot of dense cloud cover, you're probably getting anywhere from 10,000 to 50,000 lux,
 31:47
-L-U-X, which is just a measure of light energy, and that should be sufficient to set the circadian clock.
+L-U-X, which is just a measure of light energy, and that should be sufficient to set the circadian clock.**
 31:55
 You could say, "Well, the lights in my house or my phone "are really, really bright, right? "Everyone's telling us to stay off our phones at night
 32:01
@@ -664,7 +664,7 @@ Blue Light Is Great!
 32:51
 during the day, we can talk about blue light and blue blockers,
 32:57
-but you really want a lot of blue and yellow light arriving on the retina early in the day. Let me be clear about something,
+but **you really want a lot of blue and yellow light arriving on the retina early in the day**. Let me be clear about something,
 33:03
 you never ever want to look at any light, sunlight or artificial light, that is painful to look at.
 33:10
@@ -686,23 +686,23 @@ are going to be ideal for setting this mechanism. A lot of people will say, "Oh,
 34:01
 No, that's the exact wrong thing, if you're going to use blue blockers, we can talk about that,
 34:06
-that should be reserved for late in the evening because light suppresses melatonin.
+that should be reserved for late in the evening because **light suppresses melatonin**.
 34:13
 I've been asked many times before about this pineal gland and there are a lot of ancient practices
 34:19
 that map to some of the things that I'm saying, and people will always say, "Oh, I heard that sunlight "is great for the pineal."
 34:24
-Well, perhaps, but we have to careful about that phrase, sunlight inhibits the pineal,
+Well, perhaps, but we have to careful about that phrase, **sunlight inhibits the pineal,
 34:31
-it prevents it from releasing melatonin, darkness allows the pineal to release melatonin,
+it prevents it from releasing melatonin, darkness allows the pineal to release melatonin,**
 34:38
-so the pineal is not the gland or the organ of sunlight, it is the gland of darkness,
+so the **pineal is not the gland or the organ of sunlight, it is the gland of darkness,
 34:43
-in fact, melatonin can be thought of as a sleepiness signal that's correlated with darkness,
+in fact, melatonin can be thought of as a sleepiness signal that's correlated with darkness,**
 34:48
-so get up each morning, try and get outside, I know that can be challenging for people, but anywhere from 2 to 10 minutes of sunlight exposure
+so **get up each morning, try and get outside, I know that can be challenging for people, but anywhere from 2 to 10 minutes of sunlight exposure
 34:58
-is going to work well for most people, and you wanna do this on a regular basis and you don't have to do it exactly at sunrise,
+is going to work well for most people, and you wanna do this on a regular basis** and you don't have to do it exactly at sunrise,
 35:03
 I realize I'm repeating myself, but somehow, despite barking at people about this for a couple years now,
 35:10
@@ -738,9 +738,9 @@ that make you awake at certain periods of the day and sleepy at other times are 
 36:47
 when you view the brightest light. Now, that can immediately tell us
 36:52
-that what most people are doing is terrible, they're waking up and they're looking at their phone, which isn't triggering activation of these cells in the eye
+that **what most people are doing is terrible, they're waking up and they're looking at their phone, which isn't triggering activation of these cells in the eye
 36:59
-and the central circadian clock, then a few hours later, they might get in their car with sunglasses and drive.
+and the central circadian clock**, then a few hours later, they might get in their car with sunglasses and drive.
 The Real Problem With Smartphones
 37:04
 Now, a note about sunglasses and prescription lenses, absolutely never, ever, ever compromise safety
@@ -793,7 +793,7 @@ that are supposed to exist on a regular 24-hour cycle. Some of you, many of you,
 but other things can help establish this rhythm of cortisol followed by melatonin 12 to 16 hours later as well.
 Using Exercise & Food To Set Your Clock
 39:52
-The other things besides light are timing of food intake, timing of exercise,
+The **other things besides light are timing of food intake, timing of exercise,
 39:58
 as well as various drugs or chemicals that one might ingest, not illegal drugs,
 40:04
@@ -803,7 +803,7 @@ is that light is the main way that this central clock,
 40:15
 the suprachiasmatic nucleus, was supposed to be set, and we know that because it's the only direct input
 40:22
-to the clock. These neurons in the eye that are also part of the brain that we call melanopsin ganglion cells
+to the clock**. These neurons in the eye that are also part of the brain that we call melanopsin ganglion cells
 40:27
 that, not so incidentally, were discovered by my friend and colleague David Berson at Brown University,
 40:33
@@ -815,17 +815,17 @@ you know, these are cells that aren't important for sight like pattern vision, b
 40:51
 David's really credited with making that discovery. Those cells are the main way
 40:58
-and the only direct way to set the clock, in fact, it's fair to say that light viewed by these melanopsin cells,
+and the only direct way to set the clock, in fact, **it's fair to say that light viewed by these melanopsin cells,
 41:06
 in particular, sunlight, is 1,000 to 10,000 times more effective
 41:12
-than, say, getting up in darkness and just exercising. That doesn't mean that you shouldn't exercise early in the day in darkness
+than, say, getting up in darkness and just exercising**. That doesn't mean that you shouldn't exercise early in the day in darkness
 41:18
 if that's what you like to do, it will have somewhat an effect on raising your wakefulness early in the day
 41:25
 and setting these rhythms, and this is because of some other pathways, for the aficionados out there
 41:30
-who wanna know more neuroscience, here's how it goes, you've got this clock above the roof of your mouth
+who wanna know more neuroscience, here's how it goes, **you've got this clock above the roof of your mouth
 41:35
 that churns out this 24-hour rhythm and it's communicated to all the other organs and tissues of your body,
 41:41
@@ -833,7 +833,7 @@ but there's another structure, it has a cool name, it's called the intergenicula
 41:48
 and it's involved in regulating the clock output through what's called non-photic, non-light-type influences
 41:55
-like exercise and feeding, et cetera. So if you are not feeling awake during the day
+like exercise and feeding**, et cetera. So if you are not feeling awake during the day
 The Power of Sunset
 42:02
 and you're having trouble sleeping, get the sunlight exposure that we just talked about, but in addition to that,
@@ -852,23 +852,23 @@ The main thing is that bright light early in the day, the other thing is sunset,
 42:44
 when the sun is also at low solar angle, low, close to the horizon,
 42:50
-by viewing sunlight at that time of day in the evening, or afternoon, depending on what time of year it is
+by **viewing sunlight at that time of day in the evening, or afternoon, depending on what time of year it is
 42:55
 and where you are in the world, these melanopsin cells, these neurons in your eye, signal the central circadian clock
 43:01
-that it's the end of the day, and there's a really nice study that was published last year, and I will put links to these references on a website
+that it's the end of the day**, and there's a really nice study that was published last year, and I will put links to these references on a website
 43:09
 not too long from now, there was a really nice study that showed
 43:14
 that viewing sunlight around the time of the sunset, doesn't have to be just crossing the horizon,
 43:21
-but circa sunset, within an hour or so of sunset,
+but **circa sunset, within an hour or so of sunset,
 43:26
 prevents some of the bad effects of light in preventing melatonin release later that same night,
 43:33
 so let me repeat this, viewing light early in the day is key, viewing light later in the day when the sun is setting, or around that time,
 43:41
-can help protect these mechanisms, your brain and body, against the negative effects of light later in the day,
+can help protect these mechanisms, your brain and body, against the negative effects of light later in the day**,
 43:48
 so let me talk about you would do that, you'd go view the sunset or you would go outside in the late afternoon or evening,
 43:55
@@ -898,17 +898,17 @@ or through some other orifice in your body, you inhale air and it's then distrib
 45:10
 to the cells in your blood stream, and then it's distributed to all the organs of your body.
 45:15
-Every cell and organ in your body needs light information, and the way to get that light information
+**Every cell and organ in your body needs light information, and the way to get that light information
 45:21
 to all those cells, because you have a thick skull and the inside of you is dark inside your skin,
 45:29
 there's no sunlight getting in there, is by viewing sunlight with your eyes at the two times of day that I'm referring to, okay?
 45:35
-That's the only route. There was a study published in "Science," an excellent journal,
+That's the only route**. There was **a study published in "Science," an excellent journal,
 45:40
 well over 10 years ago, that showed that light shone on the back of the knee
 45:46
-could set these circadian rhythms, that study was retracted, and unfortunately, most people don't know
+could set these circadian rhythms, that study was retracted**, and unfortunately, most people don't know
 45:52
 that it was retracted, there were some experimental flaws, that people were actually viewing light through their eyes.
 45:57
@@ -916,11 +916,11 @@ That study was repeated, turns out, there is no extraocular photo reception in h
 46:03
 Whatever somebody tells you that light to the skin or light to the wherever is beneficial for your health,
 46:09
-we can talk about that, but there's no way that light information is setting your clocks,
+we can talk about that, but **there's no way that light information is setting your clocks,
 46:14
 you need these cells in your eyes to perceive or to see light
 46:19
-at the particular times of day that I'm referring to. Some animals, like snakes and other reptiles,
+at the particular times of day that I'm referring to**. Some animals, like snakes and other reptiles,
 46:25
 actually have a hole in the top of their skull to get light information directly to their pineal
 46:31
@@ -953,16 +953,16 @@ that normally we wouldn't. Now, earlier I said that you need a lot of light, in 
 47:54
 to set these clock mechanisms, that's true, but there's a kind of diabolical feature to the way all of this works,
 48:00
-which is the longer you've been awake, the more sensitive your retina and these cells are to light,
+which is **the longer you've been awake, the more sensitive your retina and these cells are to light,
 48:08
 so that if you've been awake for 10, 12, 14 hours, it becomes very easy for even a small amount of light
 48:14
 coming from a screen or from an overhead light to trigger the activation of the clock
 Bad Light
 48:21
-and make you feel like you wanna stay up later, make it harder to fall asleep, and disrupt your sleep pattern, okay?
+and make you feel like you wanna stay up later, make it harder to fall asleep, and disrupt your sleep pattern**, okay?
 48:27
-So the simple way to think about this is you want as much light as is safely possible early in the day, morning and throughout the day,
+So the simple way to think about this is **you want as much light as is safely possible early in the day, morning and throughout the day,
 48:34
 including blue light, so take those blue blockers off during the day unless you have a real issue with screen light sensitivity,
 48:40
@@ -970,13 +970,13 @@ and you want as little light coming into your eyes, artificial or sunlight,
 48:45
 after, say, 8:00 p.m., and certainly, you do not want to get bright light exposure to your eyes
 48:50
-between 11:00 p.m. and 4:00 a.m., and here's why, David Berson, who I mentioned before,
+between 11:00 p.m. and 4:00 a.m.**, and here's why, David Berson, who I mentioned before,
 48:56
 and another and friend and colleague, Samer Hattar, who's director of the chronobiology unit at the National Institutes of Mental Health
 49:02
 published a paper in "Cell," which is a journal, another excellent journal, very high stringency,
 49:07
-showing that light that arrives to the eyes
+showing that **light that arrives to the eyes
 49:13
 between 11:00 p.m. and 4:00 a.m., approximately, suppresses the release of dopamine,
 49:20
@@ -984,15 +984,15 @@ this neuromodulator that makes us feel good, and it's sort of an endogenous anti
 49:25
 and can inhibit learning and create all sorts of other detrimental effects, it does this through a mechanism,
 49:32
-for those of you that wanna know the neural pathways, that involves light to the eyes that's then signaled to a structure called the habenula,
+for those of you that wanna know the neural pathways, that involves light to the eyes that's then signaled to a structure called the habenula**,
 49:38
 the habenula looks like two little bat ears sitting right in the middle of a structure in your brain called the thalamus, don't worry about these names
 49:44
-if you're not interested in this stuff, if you are, these are just avenues to explore, when that habenula gets activated
+if you're not interested in this stuff, if you are, these are just avenues to explore, **when that habenula gets activated
 49:50
 it's actually called the disappointment nucleus because it actually makes us feel less happy
 49:57
-and more disappointed, and can lead to certain forms of depression in the wakeful state.
+and more disappointed, and can lead to certain forms of depression in the wakeful state**.
 50:02
 Now, if you wake up in the middle of the night and you need to use the bathroom or you're on an all-night flight and you're, you know, need to read or whatever it is, fine,
 50:11
@@ -1006,15 +1006,15 @@ late in the day. Now, I'm not here to dictate what you should or shouldn't do, b
 50:35
 those of you that have anxiety, learning problems, issues focusing, the questions I usually get are, "How can I focus better?"
 50:41
-Well, we will get to that, but one of the best ways you can support your mechanisms for good mood, mental health,
+Well, we will get to that, but **one of the best ways you can support your mechanisms for good mood, mental health,
 50:47
 learning, focus, metabolism, et cetera, is to take control of this light exposure behavior at night
 50:55
-and not get much or any bright light exposure in the middle of the night. Red light won't trigger this pathway,
+and not get much or any bright light exposure in the middle of the night**. Red light won't trigger this pathway,
 51:02
 but very few people have the kind of infrared lights that are set up, or floor lights, and that brings me to an important point,
 51:09
-which is about the location of light, this hasn't been discussed much out there, I don't think, these cells in our eye,
+which is about the location of light, this hasn't been discussed much out there, I don't think, **these cells in our eye,
 Light Location
 51:15
 these neurons that signal the central clock, reside mostly, not exclusively, but mostly,
@@ -1033,21 +1033,21 @@ which is overhead, of course, so if you want to avoid
 52:01
 improper activation of these neurons, it's better to place lights that you use in the evening
 52:08
-low in your physical environment, so on desktops or even the floor, if you wanna go that way,
+low in your physical environment**, so on desktops or even the floor, if you wanna go that way,
 52:15
 as opposed to overhead lights, so overhead florescent lights would be the worst,
 52:20
 that would be the worst case scenario, lights that are overhead that are a little bit softer, of the sort or yellow or reddish tints,
 52:28
-would be slightly better, but dim lights that are set low in the room are going to be best because they aren't going to activate these neurons
+would be slightly better, but **dim lights that are set low in the room are going to be best because they aren't going to activate these neurons
 52:36
-and therefore shift your circadian clock, so that's a goal. Some people, like Samer Hattar that I mentioned earlier,
+and therefore shift your circadian clock**, so that's a goal. Some people, like Samer Hattar that I mentioned earlier,
 52:43
-he turns his home basically into a cave in the evenings. Candlelight actually does not
+he turns his home basically into a cave in the evenings. **Candlelight actually does not
 52:49
 trigger activation of these cells, so candlelight and fireplaces and campfires are fine,
 52:56
-dim lights, very dim lights are fine, and lights low in the physical environment, of course, the problem with candlelight and fireplaces
+dim lights, very dim lights are fine, and lights low in the physical environment**, of course, the problem with candlelight and fireplaces
 Fire / Candlelight
 53:02
 is the fire hazard, but you're smart people, you know what to do about that. Don't burn down whatever structure you're in,
@@ -1058,9 +1058,9 @@ What if you wake up in the middle of the night and you find yourself watching TV
 53:23
 Well, in that case, you might wanna wear blue blockers, and you certainly would wanna dim the screen, but ideally, you're not doing that,
 53:29
-it's remarkable the positive effects of getting that bit of sunlight early in the day, maybe even also around sunset,
+**it's remarkable the positive effects of getting that bit of sunlight early in the day, maybe even also around sunset,
 53:36
-and avoiding bright lights, and especially overhead bright lights, between about 11:00 p.m. and 4:00 a.m..
+and avoiding bright lights, and especially overhead bright lights, between about 11:00 p.m. and 4:00 a.m..**
 53:42
 Now, I'm not talking about shift work, I'm realizing that we're probably gonna have to have an entire discussion
 53:47
@@ -1095,20 +1095,20 @@ to not be eating around the clock, and whether or not that's 4 hours or 8 hours 
 55:18
 is a much lengthier discussion than we have time for now, I would refer you to Satchin Panda's book,
 55:23
-"The Circadian Code," which talks all about that, he's an expert, a former colleague of mine from the Salk Institute in San Diego,
+"[[The Circadian Code]]", which talks all about that, he's an expert, a former colleague of mine from the Salk Institute in San Diego,
 55:29
 you can explore intermittent and circadian fasting, so to speak, through Satchin's literature,
 55:35
 we'll talk about that, we might even get Satchin in here if we're lucky at some point in the future, but you can actually use light to wake up earlier.
 How To Wake Up Earlier
 55:43
-Jamie Zeitzer and colleagues did a beautiful study showing that, if you turn on the lights before waking up,
+Jamie Zeitzer and colleagues did a beautiful study showing that, **if you turn on the lights before waking up,
 55:51
 so around 45 minutes to an hour before waking up, even if your eyelids are closed, provided you're not under the covers,
 55:59
 after doing that for a few days, that increases your total sleep time and shifts forward the time at which you feel sleepy,
 56:07
-it makes you want to go to bed earlier each night. Now, in a kind of diabolical way,
+it makes you want to go to bed earlier each night**. Now, in a kind of diabolical way,
 56:13
 they did this with teenagers who are notorious for wanting to wake up late and stay up late, and what they found was
 56:18
