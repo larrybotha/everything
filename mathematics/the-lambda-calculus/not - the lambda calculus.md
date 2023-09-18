@@ -16,8 +16,11 @@ def not = λx.((x false) true)
 |T|F|
 |F|T|
 
-- `not` is unary, and resolves to either [[booleans - the lambda calculus|true]] or [[booleans - the lambda calculus|false]]
-- [[cond - the lambda calculus|cond]] returns one of two values given a condition
+which can be modelled as
+
+`x ? false : true`
+
+`not` is unary, so our function needs to accept a single parameter.
 
 Thus, we have:
 
@@ -34,3 +37,32 @@ Thus, we have:
    )
 => ((x false) true)
 ```
+
+## assertions
+
+`not true == false`
+
+```
+   (not true)
+=> (λx.((x false) true) true)
+=> ((true false) true)
+=> ((first false) true)
+=> false
+```
+
+---
+
+`not false == true`
+
+```
+   (not false)
+=> (λx.((x false) true) false)
+=> ((false false) true)
+=> ((second false) true)
+=> true
+```
+
+## related
+
+- [[booleans - the lambda calculus]]
+- [[cond - the lambda calculus|cond]]
