@@ -35,3 +35,53 @@ Simplifying and reducing:
    (λx.λy.(((cond false) (not y)) x))
 => (λx.λy.((x false) (not y)))
 ```
+
+## assertions
+
+`true nor true == false`
+
+```
+   nor true true
+=> ((x false) (not y)) true true
+=> ((true false) (not true))
+=> first false false
+=> false
+```
+
+---
+
+`true nor false == false`
+
+```
+   nor true false
+=> ((x false) (not y)) true false
+=> ((true false) (not false))
+=> first false true
+=> false
+```
+
+---
+
+`false nor true == false`
+
+```
+   nor false true
+=> ((x false) (not y)) false true
+=> ((false false) (not true))
+=> second false false
+=> false
+```
+
+---
+
+`false nor false == true`
+
+```
+   nor false false
+=> ((x false) (not y)) false false
+=> ((false false) (not false))
+=> second false true
+=> true
+```
+
+---
