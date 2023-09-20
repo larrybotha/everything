@@ -2,6 +2,7 @@
 aliases:
   - and
 ---
+parent: [[+ The Lambda Calculus]]
 
 ```
 def and = λx.λy.((x y) false)

@@ -2,6 +2,7 @@
 aliases:
   - or
 ---
+parent: [[+ The Lambda Calculus]]
 
 ```
 def or = λx.λy.((x true) y)

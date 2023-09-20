@@ -2,6 +2,7 @@
 aliases:
   - succ
 ---
+parent: [[+ The Lambda Calculus]]
 
 ```
 def succ = λn.λs.((s false) n)

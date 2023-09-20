@@ -2,6 +2,7 @@
 aliases:
   - implies
 ---
+parent: [[+ The Lambda Calculus]]
 
 ```
 def implies = λx.λy.((x y) true)

@@ -2,6 +2,7 @@
 aliases:
   - zero
 ---
+parent: [[+ The Lambda Calculus]]
 
 ```
 def zero = id

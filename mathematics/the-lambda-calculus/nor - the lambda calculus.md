@@ -2,6 +2,7 @@
 aliases:
   - nor
 ---
+parent: [[+ The Lambda Calculus]]
 
 ```
 def nor = λx.λy.((x false) (not y))

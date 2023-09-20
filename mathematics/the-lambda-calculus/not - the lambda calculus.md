@@ -2,6 +2,7 @@
 aliases:
   - not
 ---
+parent: [[+ The Lambda Calculus]]
 
 ```
 def not = λx.((x false) true)
