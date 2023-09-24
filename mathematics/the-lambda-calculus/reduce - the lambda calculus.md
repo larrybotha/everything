@@ -95,4 +95,4 @@ This evaluates to
      cond do_z (foo_hof foo_hof x y)
 ```
 
-The definition of `foo_hof` doesn't contain any named values, so we don't strictly need to replace it with its definition
+The definition of `foo_hof` doesn't contain any named values, specifically references to itself, so we don't strictly need to replace it with its definition
