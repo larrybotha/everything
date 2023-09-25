@@ -11,7 +11,7 @@ def reduce =
 
 ## derivation
 
-We cannot define a function in terms of itself, because [[β reduction|normal order reduction]] requires that we replace names in expressions before evaluating them, resulting in non-terminating definitions
+We cannot define a function in terms of itself, because [[β reduction|normal order reduction]] requires that we replace names in expressions before evaluating them. With functions that refer to themselves this results in non-terminating definitions
 
 e.g.
 
@@ -75,9 +75,9 @@ Expanding this we get
      #                oops!
 ```
 
-With this definition of `foo_hof` the internal function call is missing an argument. 
+With this definition of `foo_hof` the internal function call is missing an argument - the function that needs to be called inside `foo_hof`. 
 
-To resolve this, the internal function must accept itself as an argument:
+To resolve this, the internal function must also accept a function as an argument:
 
 ```
 def foo_hof f x y =
@@ -95,4 +95,4 @@ This evaluates to
      cond do_z (foo_hof foo_hof x y)
 ```
 
-The definition of `foo_hof` doesn't contain any named values, specifically references to itself, so we don't strictly need to replace it with its definition
+The definition of `foo_hof` doesn't contain any named values - specifically references to itself - so we don't strictly need to replace it with its definition
