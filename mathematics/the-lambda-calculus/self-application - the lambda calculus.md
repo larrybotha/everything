@@ -21,9 +21,13 @@ def self_apply = λs.(s s)
 ```
 ## does not terminate
 
+Or, worded differently, is self-replicating
+
 ```
-   (λs.(s s) λs.(s s))
-=> (λs.(s s) λs.(s s))
+   self_apply self_apply
+=> (λs.(s s) self_apply)
+=> self_apply self_apply
+=> ...
 ```
 
 - not all expressions terminate in lambda calculus
