@@ -1,3 +1,6 @@
+---
+parent: "[[+ rust]]"
+---
 parent: [[+ rust]]
 
 - a `Mutex` acts like a lock / key, allowing one to protect data from being
