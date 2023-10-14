@@ -26,13 +26,9 @@ parent: [[+ rust]]
       ```
 
 - a `Mutex` becomes _poisoned_ when
-
   - a thread holding a lock panics, and
   - that thread doesn't release the lock
-
-  e.g. a child with the toy starts freaking out, an adult comes along to soothe
-  the child and takes them away, but the child continues to hold onto the toy, not
-  allowing the other children to play with it
+	  e.g. a child with the toy starts freaking out, an adult comes along to soothe ​the child and takes them away, but the child continues to hold onto the toy, not allowing the other children to play with it
 
 ## Links and resources
 
