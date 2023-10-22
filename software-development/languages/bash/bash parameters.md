@@ -49,6 +49,64 @@ $ echo "$#" # expands to number of positional arguments
 $ echo "$$" # expands to PIS of current shell 
 ```
 
+## expansions 
+
+- `${parameter:-word}`
+	- **use default value**
+	- if `parameter` is unset or null, use `word`, then perform substitution 
+- `${parameter:=word}`
+	- **assign default value**
+	- if `parameter` is unset or null, assign it to `word`, then perform substitution
+- `${parameter:+word}`
+	- **use alternate value**
+	- if `parameter` is unset or null, do not substitute, otherwise substitute `word`
+- `${parameter:offset:length}`
+	- **get substring or subset of array**
+	- `offset` may be negative. Parens required 
+- `${#parameter}`
+	- **get length of string or array**
+- `${parameter#pattern}`
+	- **match `pattern` from the beginning of the string, deleting the shortest match**
+	- when operating on arrays, operates on each item
+- `${parameter##pattern}`
+	- **match `pattern` from the beginning of the string, deleting the longest match**
+	- greedy equivalent of single `#`
+	- e.g. is analogous to `basename`:
+		```shell
+		x="foo/bar/baz.png"
+		echo "${x##*/}" # => bax.png
+		```
+- `${parameter%pattern}`
+	- **match `pattern` from the end of the string, deleting the shortest match**
+	- e.g. is analogous to `dirname`:
+		```shell
+		x="foo/bar/baz.png"
+		echo "${x%/*}" # => foo/bar
+		```
+- `${parameter%%pattern}`
+	- **match `pattern` from the end of the string, deleting the longest match**
+	- greedy equivalent of single `%`
+- `${parameter/pat/string}`
+	- **substitute the first instance of `pat` for `string`**
+	- works similarly to Vim's [[substitute - vim]]
+- `${parameter//pat/string}`
+	- **substitute all instance of `pat` for `string`**
+	- works similarly to Vim's [[substitute - vim]] with the global flag 
+- `${parameter/#pat/string}`
+	- **substitute the first instance of `pat` for `string` from the beginning of the string**
+	- can be used to add a suffix:
+		```shell
+		x="bar.png"
+		echo "${x/#/foo/}" # => foo/bar.png
+```
+- `${parameter/%pat/string}`
+	- **substitute the first instance of `pat` for `string` from the beginning of the string**
+	- can be used to add a suffix:
+		```shell
+		x="bar.png"
+		echo "${x/%/.bak}" # => bar.png.bak
+```
 ## Links and resources
 
-https://mywiki.wooledge.org/BashGuide/Parameters
+- https://mywiki.wooledge.org/BashGuide/Parameters
+- https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Shell-Parameter-Expansion
