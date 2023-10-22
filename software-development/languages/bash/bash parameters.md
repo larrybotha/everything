@@ -94,7 +94,7 @@ $ echo "$$" # expands to PIS of current shell
 	- works similarly to Vim's [[substitute - vim]] with the global flag 
 - `${parameter/#pat/string}`
 	- **substitute the first instance of `pat` for `string` from the beginning of the string**
-	- can be used to add a suffix:
+	- can be used to add a prefix:
 		```shell
 		x="bar.png"
 		echo "${x/#/foo/}" # => foo/bar.png
