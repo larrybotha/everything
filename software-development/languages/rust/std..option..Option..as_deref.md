@@ -21,3 +21,5 @@ assert_eq!(y.as_deref(), Some("foo"));
   represents dereferencing of a contained value via `Deref`,
   such as when the `Option` contains a pointer type such as
   [[std..rc..Rc]] or [[std..boxed..Box]]
+- has an equivalent `Option::as_deref_mut` method which dereferences the
+  internal value and returns it as mutable
