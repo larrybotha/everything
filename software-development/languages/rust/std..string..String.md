@@ -10,7 +10,8 @@ let y = String::from("bar");
 //   - the first value must be String
 //   - the second value must be &str
 let xy = x + &y;
-// 
+// syntactic sugar for
+//let xy = x.add(&y);
 ```
 
 - a growable, utf-8 encoded string
