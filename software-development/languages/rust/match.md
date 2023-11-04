@@ -17,3 +17,43 @@ parent: [[+ rust]]
   	_ => "nok"
   };
   ```
+
+- there are a few ways of preventing values in `match` statements from being
+  consumed, depending on type of value:
+
+  - destructure the reference:
+
+    ```rust
+    #[derive(Debug)]
+    struct Foo(i32);
+
+    let x = Some(Foo(42));
+
+    // match on a reference to x
+    match &x {
+      Some(f) => println!("got {:?}", f),
+      _ => println!("got nothing!"),
+    }
+
+    x; // x has not been moved
+    ```
+
+  - use the `ref` keyword to indicate in the branch that we only want a
+    reference to the contained value:
+
+    ```rust
+    #[derive(Debug)]
+    struct Foo(i32);
+
+    let x = Some(Foo(42));
+
+    match x {
+      // make the matched binding 'f' a reference
+      Some(ref f) => println!("got {:?}", f),
+      _ => println!("got nothing!"),
+    }
+
+    x; // x has not been moved
+    ```
+
+    see [[ref]]
