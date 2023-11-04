@@ -21,7 +21,7 @@ let s = String::from("hello");
       let my_str: &str = my_string.as_str();
       ```
 
-  1.  Using the `deref` coercion:
+  1.  Using `deref` coercion:
 
       ```rust
       use std::ops::Deref;

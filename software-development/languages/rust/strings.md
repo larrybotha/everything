@@ -46,12 +46,13 @@ let string_iter = "hello\nthere".lines();
 
 - `&str` is allocated on the heap, and is constant for the duration of the
   application's lifetime - these values are hard-coded into the executable
-  - slices are references to arrays. `&str` is actually `&[u8]` - a slice of an
-    array of `u8` values
+  - slices are references to arrays. `&str` is actually `&[u8]` - a slice of an array of u8 values
+  - similar to how `&[T]` is a view into `Vec[T]`, so too could a `&str` be a view into a `String`
 - `String` is dynamic, unlike `&str`, and is thus growable and mutable. `String`
   values are pushed to the stack
 - `String::as_str` and `&str::to_string` are isomorphic operations
 
 ## Links and resources
 
+- [[std..string..String]]
 - http://doc.rust-lang.org/1.73.0/book/ch04-01-what-is-ownership.html#the-stack-and-the-heap
