@@ -2,6 +2,15 @@ parent: [[+ rust]]
 
 ```rust
 let s = String::from("hello");
+
+let x = String::from("foo");
+let y = String::from("bar");
+// Concatenation of strings requires
+// is defined by String::add
+//   - the first value must be String
+//   - the second value must be &str
+let xy = x + &y;
+// 
 ```
 
 - a growable, utf-8 encoded string
