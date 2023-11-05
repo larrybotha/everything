@@ -1,3 +1,8 @@
+---
+aliases:
+	- Option::and_then
+---
+
 parent: [[+ rust]]
 
 ```rust
