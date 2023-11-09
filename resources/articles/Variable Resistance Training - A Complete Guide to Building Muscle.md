@@ -6,7 +6,7 @@ Author: [[John Jaquish]]
 Link: https://www.jaquishbiomedical.com/variable-resistance/
 
 - variable resistance
-	- muscles can exert more force in different position computer
+	- muscles exert more force in different positions
 - core principles
 	- complete fatigue
 		- create hypoxic environment
