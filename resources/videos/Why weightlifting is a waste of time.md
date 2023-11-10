@@ -1,5 +1,5 @@
 Author: [[John Jaquish]]
-Link: https://youtu.be/qv_KJGTvmg8?si=WA3g4bsLNuwwg7Ra
+Link: https://youtu.be/qv_KJGTvmg8
 
 ## takeaways
 
