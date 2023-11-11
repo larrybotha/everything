@@ -2,6 +2,16 @@ parent: [[+ rust]]
 
 ```rust
 let s = String::from("hello");
+
+let x = String::from("foo");
+let y = String::from("bar");
+// Concatenation of strings requires
+// is defined by String::add
+//   - the first value must be String
+//   - the second value must be &str
+let xy = x + &y;
+// syntactic sugar for
+//let xy = x.add(&y);
 ```
 
 - a growable, utf-8 encoded string
@@ -21,7 +31,7 @@ let s = String::from("hello");
       let my_str: &str = my_string.as_str();
       ```
 
-  1.  Using the `deref` coercion:
+  1.  Using `deref` coercion:
 
       ```rust
       use std::ops::Deref;
