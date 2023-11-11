@@ -1,24 +1,27 @@
 parent: [[+ rust]]
 
 ```rust
+//
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=62dcbbd97fa7129f9ff66ccc39e20701
+
 trait AppendLeet {
     // can be optionally overridden
-    fn shout(self) {
+    fn shout(&self) {
         println!("RAWR")
     }
 
     // must be provided
-    fn append_leet(self) -> Self;
+    fn append_leet(&self) -> Self;
 }
 
 impl AppendLeet for String {
-    fn append_leet(self) -> Self {
-        self + "Leet"
+    fn append_leet(&self) -> Self {
+        self.to_owned() + "Leet"
     }
 }
 
 impl AppendLeet for i32 {
-    fn append_leet(self) -> Self {
+    fn append_leet(&self) -> Self {
         let x = self.to_string();
         let x = x + "1337";
 
