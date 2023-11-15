@@ -19,6 +19,40 @@ parent: [[+ rust]]
 - lifetime parameters don't change lifetimes of values / references - they
   indicate to the compiler to reject any code where a value being passed into
   the function or struct does not adhere to the constraints
+- the scope of where values are defined determines their ch10-03-lifetime-syntax
+
+  e.g. the following will fail because `result`, after the `bar` scope, could be
+  holding a dangling reference:
+
+  ```rust
+  fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
+      if x.len() > y.len() {
+          x
+      } else {
+          y
+      }
+  }
+
+  fn main() {
+      let foo = String::from("pew");
+      let result;
+
+      {
+          let bar = String::from("pew pew pew");
+          result = longest(foo.as_str(), bar.as_str());
+      } // bar is dropped here
+
+      // result now holds what _may_ be a dangling reference - this violates
+      // borrowing rules, and will cause a compiler error
+
+      println!("longest: {result}");
+  }
+  ```
+
+  So... the values that are passed into `longest` must live _at least as long_
+  as the value assigned to `result` - `bar` violates this - it is dropped before
+  `result` is dropped
+
 - lifetime parameters in structs indicate to the compiler which values in the
   struct must have lifetimes _at least_ as long as the lifetime of the struct
 
