@@ -10,4 +10,4 @@ assert_eq!(y.flatten(), None);
 
 - `Option::flatten` flattens a single level of nesting in the option
 - [[std..option..Option..and_then|Option::and_then]] is the `.flatmap`
-  analogue
+  analogue for `Option`
