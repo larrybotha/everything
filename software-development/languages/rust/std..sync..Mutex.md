@@ -5,10 +5,11 @@ parent: [[+ rust]]
 
 ```rust
 use std::thread;
-use std::sync::Mutex;
+use std::sync::{Arc, Mutex};
 
 fn main() {
-  let counter = Mutex::new(0);
+  let counter = Arc::new(
+  Mutex::new(0));
   let mut handles = vec![];
 
   for _ in 0..10 {
