@@ -12,9 +12,17 @@ fn main() {
     // spawn a thread from which messages can be sent
     thread::spawn(move || {
         println!("sending message from thread...");
+        let my_string = "foobar";
 
-        // the sender is moved into this closure
-        tx.send("foobar").unwrap();
+        // the sender is moved into 
+        // this closure
+        // .send takes ownership of
+        // 'my_string' - the value
+        // may be manipulated in 
+        // another thread, so we need 
+        // ownership transferred away
+        // from this thread
+        tx.send(my_string).unwrap();
     });
 
     // receive the message
@@ -33,6 +41,7 @@ fn main() {
 - a channel is considered closed if either the sender or receiver are dropped
 - `.send` and `.recv` both return `Result` - attempting to send or receive on a
   closed channel will result in an error
+- `.send` takes ownership of the values of sends - another thread may use the value, so for safety Rust ensures that the thread where the value is sent is not allowed to access the value once it is sent
 - in [Go's documentation on concurrency](https://go.dev/doc/effective_go#concurrency)
   they recommend:
 
@@ -50,3 +59,4 @@ fn main() {
 
 - https://doc.rust-lang.org/book/ch16-02-message-passing.html
 - https://go.dev/doc/effective_go#concurrency
+- 

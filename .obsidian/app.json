@@ -29,5 +29,6 @@
     "bookmarks:bookmark-current-heading",
     "command-palette:open",
     "editor:configure-toolbar"
-  ]
+  ],
+  "promptDelete": true
 }

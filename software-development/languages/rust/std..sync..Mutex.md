@@ -3,6 +3,38 @@ parent: "[[+ rust]]"
 ---
 parent: [[+ rust]]
 
+```rust
+use std::thread;
+use std::sync::Mutex;
+
+fn main() {
+  let counter = Mutex::new(0);
+  let mut handles = vec![];
+
+  for _ in 0..10 {
+    let handle = 
+      thread::spawn(move || {
+        let mut num = counter.lock()
+                        .unwrap();
+
+        *num += 1;
+      });
+    
+    handles.push(handle);
+  }
+
+  for handle in handles {
+    handle.join().unwrap();
+  }
+
+  println!(
+    "Result: {}",
+    *counter.lock().unwrap()
+  );
+}
+```
+
+- `Mutex` stands for [[mutual exclusion]] - only a single thread may access a value at a time
 - a `Mutex` acts like a lock / key, allowing one to protect data from being
   modified while the lock is active
 
@@ -35,4 +67,4 @@ parent: [[+ rust]]
 
 ## Links and resources
 
-- [Official Rust docs for std::mpsc::Mutex](http://doc.rust-lang.org/1.72.1/std/sync/struct.Mutex.html)
+- [Official Rust docs for std::sync::Mutex](http://doc.rust-lang.org/1.72.1/std/sync/struct.Mutex.html)
