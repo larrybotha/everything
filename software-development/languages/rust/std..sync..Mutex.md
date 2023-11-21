@@ -9,13 +9,16 @@ use std::sync::{Arc, Mutex};
 
 fn main() {
   let counter = Arc::new(
-  Mutex::new(0));
+    Mutex::new(0)
+  );
   let mut handles = vec![];
 
   for _ in 0..10 {
+    let copied_counter = Arc::clone(&counter);
     let handle = 
       thread::spawn(move || {
-        let mut num = counter.lock()
+        let mut num = copied_counter
+                        .lock()
                         .unwrap();
 
         *num += 1;
@@ -36,6 +39,10 @@ fn main() {
 ```
 
 - `Mutex` stands for [[mutual exclusion]] - only a single thread may access a value at a time
+- in order for a `Mutex` to be used across threads:
+	- we need to get a reference to it
+	- this reference needs to be an `Arc`, in order for sharing to be thread-safe
+	- the `Arc` must be cloned for each thread it is moved into
 - a `Mutex` acts like a lock / key, allowing one to protect data from being
   modified while the lock is active
 
