@@ -19,3 +19,7 @@ join_handle.join().expect("Unable to join thread");
 - if its associated thread is finished doing its work, it returns immediately
 - if its associated thread `panic`s, it'll return an `Err`
 - `.join()` will take ownership of the join_handle
+
+## links and resources
+
+- https://doc.rust-lang.org/book/ch16-01-threads.html#waiting-for-all-threads-to-finish-using-join-handles
