@@ -14,7 +14,7 @@ IFS=$' \t\n'
 ```
 - setting `IFS` to an empty string results in no word splitting
 
-  e.g
+  e.g.
 
 ```shell
 $ IFS= read -r a b c <<< 'the plain gold ring'
@@ -35,7 +35,35 @@ $ echo "=$a= =$b= =$c="
 	- trimming whitespace of values in the `read` command
 	- [[word  splitting]] on unquoted expansions
 	- when performing `$*` or `${array [*]}` expansion
+- `IFS` is *only* used in word splitting of **data**, *not* lines of script. Lines of script are always split by whitespace
+
+  e.g.
+
+```shell
+IFS=:
+# execute a line of script
+rm file1 file2:file3
+
+# expands to
+# [rm]
+# [file1]
+# [file2:file3]
+
+files='file1 file2:file3'
+rm $files
+
+# expands first to
+# [rm]
+# ["$files"]
+# 
+# then IFS is applied to the data,
+# resulting in
+# [rm]
+# [file1 file2]
+# [file3]
+```
 
 ## links and resources
 
 - https://mywiki.wooledge.org/IFS
+- https://mywiki.wooledge.org/Arguments
