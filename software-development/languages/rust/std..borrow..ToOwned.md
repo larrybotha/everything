@@ -1,0 +1,6 @@
+---
+aliases:
+  - ToOwned
+---
+
+parent: [[+ rust]]

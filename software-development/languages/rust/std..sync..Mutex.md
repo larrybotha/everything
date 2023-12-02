@@ -1,48 +1,42 @@
 ---
-parent: "[[+ rust]]"
+aliases:
+  - Mutex
 ---
+
 parent: [[+ rust]]
 
 ```rust
-use std::thread;
 use std::sync::{Arc, Mutex};
+use std::thread;
 
 fn main() {
-  let counter = Arc::new(
-    Mutex::new(0)
-  );
-  let mut handles = vec![];
+    let counter = Arc::new(Mutex::new(0));
+    let mut handles = vec![];
 
-  for _ in 0..10 {
-    let copied_counter = Arc::clone(&counter);
-    let handle = 
-      thread::spawn(move || {
-        let mut num = copied_counter
-                        .lock()
-                        .unwrap();
+    for _ in 0..10 {
+        let copied_counter = Arc::clone(&counter);
+        let handle = thread::spawn(move || {
+            let mut num = copied_counter.lock().unwrap();
 
-        *num += 1;
-      });
-    
-    handles.push(handle);
-  }
+            *num += 1;
+        });
 
-  for handle in handles {
-    handle.join().unwrap();
-  }
+        handles.push(handle);
+    }
 
-  println!(
-    "Result: {}",
-    *counter.lock().unwrap()
-  );
+    for handle in handles {
+        handle.join().unwrap();
+    }
+
+    println!("Result: {}", *counter.lock().unwrap());
 }
 ```
 
 - `Mutex` stands for [[mutual exclusion]] - only a single thread may access a value at a time
 - in order for a `Mutex` to be used across threads:
-	- we need to get a reference to it
-	- this reference needs to be an `Arc`, in order for sharing to be thread-safe
-	- the `Arc` must be cloned for each thread it is moved into
+  - we need to get a reference to it
+  - this reference needs to be an `Arc`, in order for sharing to be thread-safe
+  - the `Arc` must be cloned for each thread it is moved into
 - a `Mutex` acts like a lock / key, allowing one to protect data from being
   modified while the lock is active
 
@@ -59,7 +53,7 @@ fn main() {
 
       ```rust
       {
-      // child a takes the toy
+        // child a takes the toy
       	let mut locked_toy = toy.lock().unwrap();
       	// child a makes modifications
       } // lock goes out of scope and is dropped
@@ -71,7 +65,7 @@ fn main() {
 - a `Mutex` becomes _poisoned_ when
   - a thread holding a lock panics, and
   - that thread doesn't release the lock
-	  e.g. a child with the toy starts freaking out, an adult comes along to soothe ​the child and takes them away, but the child continues to hold onto the toy, not allowing the other children to play with it
+    e.g. a child with the toy starts freaking out, an adult comes along to soothe ​the child and takes them away, but the child continues to hold onto the toy, not allowing the other children to play with it
 - `Mutex` allows for [[interior mutability]], similarly to [[std..rc..RefCell]]
 
 ## Links and resources
