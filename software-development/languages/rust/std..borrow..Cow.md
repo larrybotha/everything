@@ -44,7 +44,7 @@ fn main() {
       Borrowed(&'a B),
       // [5]
       Owned(<B as ToOwned>::Owned),
-      // [6]
+      // [6] [     7    ]    [8]
   }
 
   // 1 - Cow has a lifetime parameter - the value it accepts must be a
@@ -58,6 +58,10 @@ fn main() {
   //    with the given lifetime
   // 6 - the Owned variant is the result of calling B.into(), which will
   //    convert the value from a reference to an owned value
+  // 7 - interpret B in terms of its implementation of ToOwned...
+  // 8 - this 'Owned' represents the associated type of ToOwned. Cow::Owned
+  //    contains a value that is the ToOwned::Owned type that B.to_owned()
+  //    resolves to
   ```
 
 - Similar to [[copy-on-write]], although that behaviour is provided by
