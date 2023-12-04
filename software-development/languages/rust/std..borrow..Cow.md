@@ -64,10 +64,47 @@ fn main() {
   //    resolves to
   ```
 
-- Similar to [[copy-on-write]], although that behaviour is provided by
-  [[std..rc..Rc]] and [[std..sync..Arc]]. `Clone` allows for additional logic,
-  such as recursive cloning of nested data, whereas `Copy` is a simpler
-  process
+Creating a new `Cow` can be done with either a reference or an owned type - the
+resulting value depends on:
+
+- whether the input is a reference or not
+  e.g. `[T]` is not allowed as an argument to `Cow::from` because `[T]` does
+  not implement `std::borrow::Borrow`, but `&[T]` _does_. `Cow::from([&[T]])`
+  yields `Cow::Borrowed(&[T])`
+
+  Alternatively, `Vec<T>` _does_ implement `std::borrow::Borrow`, so
+
+- whether the input required cloning or not
+
+e.g.
+
+```rust
+use std::borrow::Cow;
+
+fn main() {
+    let xs = vec![1, 2, 3];
+    let x = Cow::from(&xs);
+
+    // x is a Cow::Borrowed - notice that Borrowed contains a reference
+    assert_eq!(x, Cow::Borrowed(&vec![1, 2, 3]));
+
+    let x = Cow::from(xs);
+
+    // x is Cow::<[i32]>::Owned, xs has been moved into the Cow
+    assert_eq!(x, Cow::<[i32]>::Owned(vec![1, 2, 3]));
+
+    let ys = [1, 2, 3];
+    let y = Cow::from(&ys[..]);
+
+    // y is Cow::Borrowed
+    assert_eq!(y, Cow::Borrowed(&[1, 2, 3]));
+}
+```
+
+- `Cow` is similar to the [[copy-on-write]] concept, although that behaviour is
+  provided by [[std..rc..Rc]] and [[std..sync..Arc]]. `Clone` allows for
+  additional logic, such as recursive cloning of nested data, whereas `Copy`
+  is a simpler process
 - the `Cow::Borrowed` type will usually be a reference to a type that is
   allocated on the stack... the reference is cheap, and _only if_ something
   needs to be done with it, such as mutation, do we then clone it
@@ -100,6 +137,7 @@ fn main() {
 ## related
 
 - [[std..rc..Rc]]
+- [[slice]]
 
 ## links and resources
 
