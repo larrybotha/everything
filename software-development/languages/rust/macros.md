@@ -39,7 +39,28 @@ parent: [[+ rust]]
       }
       ```
 
+- macros may be defined with overrides, e.g. to allow for variadic arguments:
+
+  ```rust
+  // https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=5dc32bce5fe4701f1382c5a6aaea982d
+  macro_rules! thinger {
+    () => { println!("no arguments!") };
+    ($val:expr) => { println!("got this value: {}", $val) };
+    ($val:expr, $($vals:expr ),+) => {{
+      thinger! { $val }
+      thinger! { $($vals),+ }
+    }}
+  }
+
+  fn main() {
+    thinger!();
+    thinger!(42);
+    thinger!(1, 2, 3);
+  }
+  ```
+
 ## Related
 
 - [The Little Book Of Macros](https://danielkeep.github.io/tlborm/book/index.html)
 - https://veykril.github.io/tlborm/
+- https://doc.rust-lang.org/rust-by-example/macros/variadics.html
