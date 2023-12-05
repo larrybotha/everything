@@ -14,3 +14,11 @@
     change. The `load` event is such an event, but it does not bubble... so...
     we can indicate on a parent element to listen by specifying that it should
     be attached to the `capture` propagation mode of the event
+- do a series of videos building the `DrawingCanvas` from Hugo Systems
+  - demonstrate using native DOM APIs to observe:
+    - mutations
+    - resizing
+    - captured load events
+    - request animation frame for rendering
+  - show the power of state machines
+  - show how pleasant Svelte is to work with
