@@ -4,3 +4,13 @@
     all be done with multiple functions that call `cancelAnimationFrame` - all
     updates that result in the canvas having to be re-rendererd need to be
     added to a queue, and then drawn in a single `requestAnimationFrame` call
+- describe event delegation where one listens on the `capture` propagataion mode
+  in the DOM to handle changes to child events, such as the `load` event of
+  dynamically changing images from a parent
+  - see the `Canvas` component in `DrawingCanvas` in Hugo Systems - we need to
+    know when images are loaded so that we can change the background, but we
+    don't want any convoluted passing down of function props etc. - ideally
+    we want the `Canvas` component to have some way to listen for when images
+    change. The `load` event is such an event, but it does not bubble... so...
+    we can indicate on a parent element to listen by specifying that it should
+    be attached to the `capture` propagation mode of the event
