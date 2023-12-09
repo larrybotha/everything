@@ -48,3 +48,4 @@ On a successful response to the preflight request, the original request is sent
 - https://developer.mozilla.org/en-US/docs/Glossary/CSRF
 - https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream
 - https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Using_readable_streams
+- https://stackoverflow.com/questions/43871637/no-access-control-allow-origin-header-is-present-on-the-requested-resource-whe#43881141
