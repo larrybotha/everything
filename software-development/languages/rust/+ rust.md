@@ -1,6 +1,6 @@
 ---
 aliases:
-- Rust
+    - Rust
 ---
 
 Notes on the Rust language
