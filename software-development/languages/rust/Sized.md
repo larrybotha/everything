@@ -48,3 +48,7 @@ fn generic<T: Sized>(x: T) {
 - functions with generics implicitly require those generic arguments to have
   known sizes. This can be opted out of by using `<T: ?Sized>` as a bound, which
   translates to "T may or may not be `Sized`". This syntax is unique to `Sized`
+
+## links and resources
+
+- https://doc.rust-lang.org/std/marker/trait.Sized.html
