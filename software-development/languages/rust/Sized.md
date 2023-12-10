@@ -19,8 +19,7 @@ fn generic<T: Sized>(x: T) {
   the value in a smart pointer
 - the `Sized` trait is automatically implemented for every type where the size
   of the type is known
-- _dynamically sized types_ are also known as DSTs or unsized types
-- DSTs are types whose sizes can only be known at runtime
+- [[dynamically sized types]] are also known as DSTs or unsized types
 - all values of a given type in Rust must use the same amount of memory
 
   - e.g. we always know that `i32` will occupy 32 bytes, but with `str`
@@ -48,6 +47,7 @@ fn generic<T: Sized>(x: T) {
 - functions with generics implicitly require those generic arguments to have
   known sizes. This can be opted out of by using `<T: ?Sized>` as a bound, which
   translates to "T may or may not be `Sized`". This syntax is unique to `Sized`
+- [variables](https://doc.rust-lang.org/reference/variables.html), function parameters, [const](https://doc.rust-lang.org/reference/items/constant-items.html) items, and [static](https://doc.rust-lang.org/reference/items/static-items.html) items must be `Sized`, as stated in https://doc.rust-lang.org/reference/dynamically-sized-types.html
 
 ## links and resources
 
