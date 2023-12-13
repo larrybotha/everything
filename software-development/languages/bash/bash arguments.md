@@ -11,7 +11,7 @@ Parent: + bash
 	- the file to execute, i.e. binary or script
 	- array of arguments
 	- array of env vars
-- bash uses [[word  splitting]] on commands to strip whitespace on preparation for `execve(2)`:
+- bash uses [[word  splitting]] on commands to strip whitespace in preparation for `execve(2)`:
   
 ```
     rm myfile myotherfile
@@ -24,7 +24,19 @@ Parent: + bash
 
 - [[IFS]] is used to determine which characters to use as word splitting delimiters 
 	- read the associated note on when and when not to modify `IFS` - it's usually best to avoid modifying it
-
+	- to avoid modifying `IFS`:
+		- use an array, or
+		- set `IFS` on the same line as the command, or
+		- use `IFS` in a while-read loop
+- use double quotes to prevent [[word  splitting]] and glob expansion
+- use single quotes for literal values, e.g.
+	```shell
+	echo '&' # echo literal ampersand
+	```
+- double-quoting `$@` or `$array[@]` expands to a list of words
+- double-quoting `$*` or `$array[*]` expands to a single word, joined by the first value of `IFS`
+	- this is similar to `join` in other languages
 ## links and resources
 
 - https://mywiki.wooledge.org/Arguments
+- https://mywiki.wooledge.org/Quotes
