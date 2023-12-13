@@ -1,6 +1,6 @@
 Parent: [[+ rust]]
 
-- trait objects are [[opaque data type]]s that allow for late binding of methods 
+- trait objects are [[opaque data type]]s that allow for [[late binding]] of methods 
 - trait objects are defined as the `dyn` keyword followed by a set of trait bounds:
 	- all traits except the first must be auto traits
 	- there may not be not than one lifetime

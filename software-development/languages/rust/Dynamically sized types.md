@@ -8,7 +8,7 @@ Parent: [[+ rust]]
 	- pointers to slices store the number of elements in the slice
 	- pointers to trait objects store a reference to a vtable
 - denoted by the `?Sized` trait bound in generic functions
-- `Self! ?Sized` is the default in trait definitions
+- `Self: ?Sized` is the default in trait definitions
 - structs may contain a DST as the last field, which makes the struct a DST itself
 
 ## links and resources
