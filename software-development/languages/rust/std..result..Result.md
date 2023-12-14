@@ -41,7 +41,8 @@ parent: [[+ rust]]
   }
 
   fn square_string_int_terser(x: &str) -> Result<i32, ParseIntError> {
-      x.parse::<i32>().map(|value| value * value)
+      x.parse::<i32>()
+	      .map(|value| value * value)
   }
   ```
 
@@ -49,3 +50,4 @@ parent: [[+ rust]]
 
 - [[question mark operator|?]]
 - [Other uses of `?`](https://doc.rust-lang.org/stable/rust-by-example/error/multiple_error_types/reenter_question_mark.html)
+- https://doc.rust-lang.org/std/result/
