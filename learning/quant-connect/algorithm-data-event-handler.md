@@ -7,7 +7,7 @@ parent: [[+ quant connect]]
 
 The `QcAlgorithm.Ondata` method in an algorithm, which allows for handling time
 slice events - a time slice is the _end_ time of a unit of the resolution
-subscribed to for an equity at [[QCAlgorithm.Initialize]].
+subscribed to for an equity at [[algorithm-initialization|initialization]].
 
 - buy shares of a given symbol:
 
