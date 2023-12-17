@@ -1,6 +1,6 @@
 ---
 aliases:
-	- macro
+- macro
 ---
 
 parent: [[+ rust]]
@@ -21,7 +21,7 @@ parent: [[+ rust]]
 - custom macros defined inside modules need to be explictly marked as being
   exported from the module:
 
-      ```rust
+    ```rust
       mod macros {
       		macro_rules! my_macro {
       				() => {
@@ -64,3 +64,4 @@ parent: [[+ rust]]
 - [The Little Book Of Macros](https://danielkeep.github.io/tlborm/book/index.html)
 - https://veykril.github.io/tlborm/
 - https://doc.rust-lang.org/rust-by-example/macros/variadics.html
+- Decorators using macros: https://dev.to/sbalasa/reimagining-python-decorators-with-rust-macros-a-powerhouse-combination-19aj
