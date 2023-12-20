@@ -20,3 +20,8 @@ assert_eq(y, Some("foobar"));
 - if we want to perform an operation with the value inside the option, and
   without consuming it, we can get a reference to the value instead by using
   `Option::as_ref`
+
+## related
+
+- [[std..borrow..Borrow]]
+- [[std..convert..AsRef]]
