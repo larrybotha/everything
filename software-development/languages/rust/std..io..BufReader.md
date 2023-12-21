@@ -11,6 +11,10 @@ Parent: [[+ rust]]
     * reading only once or a few times
     * reading from a source that is already in memory
 
+## related
+
+- [[std..io..BufWriter]]
+
 ## links and resources
 
 - https://doc.rust-lang.org/std/io/struct.BufReader.html
