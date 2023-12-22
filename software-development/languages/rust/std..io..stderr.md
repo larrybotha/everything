@@ -25,6 +25,8 @@ fn main() -> Result<(), io::Error> {
 
 - constructs a new handle to the current process's `stderr`
 - unlike `stdout` and `stdin`, is not buffered
+- errors should be printed via `stderr` - `eprintln!` prints to `stderr` under
+    the hood
 
 ## related
 

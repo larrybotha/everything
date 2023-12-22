@@ -26,11 +26,14 @@ fn main() -> Result<(), io::Error> {
 - construct's a new handle to `stdout` of the current process
 - each handle is a reference to a shared global buffer - access is synchronised
     implicitly via a mutex, but can be managed explicitly via `Stdout::lock`
+- writing frequently to `stdout` can be expensive - use [[std..io..BufWriter]]
+    to buffer many writes
 
 ## related
 
 - [[std..io..stdin]]
 - [[std..io..stderr]]
+- [[std..io..BufWriter]]
 
 ## links and resources
 
