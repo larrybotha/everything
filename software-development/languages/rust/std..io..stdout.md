@@ -1,17 +1,37 @@
 Parent: [[+ rust]]
 
 ```rust
-use std::io::{stdout, Error, Write};
+use std::io::{self, Write};
 
-fn main() -> Result<(), Error> {
-    let mut handle = stdout();
+fn stdout_implicit_sync() -> Result<(), io::Error> {
+    io::stdout().write_all(b"hello world\n")
+}
 
-    handle.write_all(b"hello world")
+fn stdout_explicit_sync() -> Result<(), io::Error> {
+    let stdout = io::stdout();
+    let mut handle = stdout.lock();
+
+    handle.write_all(b"hello world\n")
+}
+
+fn main() -> Result<(), io::Error> {
+    stdout_implicit_sync()?;
+
+    stdout_explicit_sync()?;
+
+    Ok(())
 }
 ```
 
 - construct's a new handle to `stdout` of the current process
+- each handle is a reference to a shared global buffer - access is synchronised
+    implicitly via a mutex, but can be managed explicitly via `Stdout::lock`
 
 ## related
 
 - [[std..io..stdin]]
+- [[std..io..stderr]]
+
+## links and resources
+
+- https://doc.rust-lang.org/1.74.1/std/io/fn.stdout.html
