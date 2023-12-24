@@ -2,17 +2,36 @@ How difficult a given problem is
 
 Includes classifications such as:
 
-- P
-- NP
+- P time
+	- problems solvable in polynomial time 
+	- easy problems
+- Exp time
+	- problems solvable in exponential time 
+	- hard problems
+- R 
+	- the set of all solvable problems
+- NP 
+	- [[nondeterministic polynomial time]]
+	- Exp problems solvable in P time given a nondeterministic algorithm 
 - NP-Complete
+	- [[decision problem]]s classifiable in NP
+	- most decision problems are NP-complete
 - NP-Hard
-- Exp
+	- problems that can be reduced to other problems in NP, but are not NP themselves
+	- combinatorial problems are usually NP-hard
 
 ## takeaways
 
 > think about complexity in terms of time as you scale the inputs that go into the algorithm that you’re using to solve the problem
 > *[[The Impostor Handbook]]*
 
+- problems can be solved deterministically or nondeterministically 
+	- deterministically: a -> b -> c ...
+	- nondeterministically a -> b, c, d, ..., or n -> ...
+		- Exp problems can be made into P problems by approaching the problem nondeterministically 
+- NP is nondeterministic polynomial time
+- problems where we are optimising for a combination of things is known as [[combinatorial optimisation]]
+	- e.g. optimising happiness for a group of people selecting which pub to go to
 ### polynomial time
 
 - also known as "P time"
