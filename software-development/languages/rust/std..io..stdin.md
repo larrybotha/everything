@@ -1,8 +1,6 @@
 Parent: [[+ rust]]
 
 ```rust
-use std::io::stdin;
-
 use std::io::{self, Write};
 
 fn stdin_implicit_sync() -> Result<(), io::Error> {
@@ -28,6 +26,7 @@ fn main() -> Result<(), io::Error> {
 ## related
 
 - [[std..io..stdout]]
+- [[std..io..stderr]]
 
 ## links and resources
 
