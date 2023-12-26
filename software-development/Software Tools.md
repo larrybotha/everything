@@ -4,5 +4,10 @@
     * polyglot search for common programming problems
 - [DB Fiddle](https://www.db-fiddle.com/f/2hU2nuUrSiujYtn9eBtuXV/0)
     * JSFiddle for databases
+
+## Rust
+
 - [trust](https://github.com/japaric/trust)
     * Travis CI template for building Rust binaries for multiple OSes
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+    * idiomatic solutions for common Rust tasks
