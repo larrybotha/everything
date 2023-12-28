@@ -16,3 +16,7 @@ A problem is considered NP if the following all hold:
 Many problems that we would like to solve efficiently with a computer, but cannot, are NP
 
 Any problem in NP can be reduced to a [[Boolean Satisfiability Problem]]. 
+
+## links and resources
+
+- https://en.wikipedia.org/wiki/NP-completeness
