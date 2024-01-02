@@ -51,7 +51,7 @@ Link: https://www.goodreads.com/book/show/41881472-the-psychology-of-money
 - a universal aspect of happiness is people wanting to control their own lives 
 - money is a mechanism that allows people to control their own lives
 
-## 8. The "man in the car+ paradox
+## 8. The "man in the car" paradox
 
 ![[No one is as impressed with your possessions...]]
 
