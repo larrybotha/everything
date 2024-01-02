@@ -93,7 +93,7 @@ Link: https://www.goodreads.com/book/show/41881472-the-psychology-of-money
 ## 14. You'll change 
 
 - long-term planning is difficult - people change, and their priorities change
-- people are poor forecasters of their futures selves
+- people are poor forecasters of their future selves
 - imagining goals is fun. Imagining goals within the context of realistic life stressors is another story
 
 ## 15. Nothing's free 
@@ -105,12 +105,13 @@ Link: https://www.goodreads.com/book/show/41881472-the-psychology-of-money
 
 ## 16. You and me
 
-- beware taking financial advice from people playing a different have to you
-- consider financial advice in the context of the other's goals
+- beware taking financial advice from people playing a different game to you
+- consider financial advice in the context of the other person's goals
 - people have different risk parameters
 	- none at all
 	- make a quick buck
-	- make market returns 
+	- make market returns
+	- retire comfortably
 	- etc.
 - copying someone with a different time horizon can be risky
 
