@@ -39,9 +39,9 @@ Link: https://www.goodreads.com/book/show/41881472-the-psychology-of-money
 
 ![[You can be wrong half the time and still...]]
 
-- events that occur in the long tail of distributions cash have outsized impact
+- events that occur in the long tail of distributions can have outsized impact
 - a small number of events can account for the majority of gains 
-- [[Nassim Taleb]] speaks a lot about the power of events that occur in the long tail of distributions - he benefited massively from 3 separate market crashes
+- [[Nassim Taleb]] speaks a lot about the power of events that occur in the long tail of distributions - he benefited massively from 3 separate market crashes. See [[Black Swan Event]]
 
 ## 7. Freedom 
 
