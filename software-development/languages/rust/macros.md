@@ -23,19 +23,19 @@ parent: [[+ rust]]
 
     ```rust
       mod macros {
-      		macro_rules! my_macro {
-      				() => {
-      						println!("Check out my macro!");
-      				};
-      		}
-      		// make this macro available outside of the module
-      		pub(crate) use my_macro;
+          macro_rules! my_macro {
+              () => {
+                  println!("Check out my macro!");
+              };
+          }
+          // make this macro available outside of the module
+          pub(crate) use my_macro;
       }
 
       fn main() {
-      		use macros::my_macro;
+          use macros::my_macro;
 
-      		my_macro!();
+          my_macro!();
       }
       ```
 
@@ -44,18 +44,18 @@ parent: [[+ rust]]
   ```rust
   // https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=5dc32bce5fe4701f1382c5a6aaea982d
   macro_rules! thinger {
-    () => { println!("no arguments!") };
-    ($val:expr) => { println!("got this value: {}", $val) };
-    ($val:expr, $($vals:expr ),+) => {{
-      thinger! { $val }
-      thinger! { $($vals),+ }
-    }}
-  }
+            () => { println!("no arguments!") };
+            ($val:expr) => { println!("got this value: {}", $val) };
+            ($val:expr, $($vals:expr ),+) => {{
+              thinger! { $val }
+              thinger! { $($vals),+ }
+            }}
+          }
 
   fn main() {
-    thinger!();
-    thinger!(42);
-    thinger!(1, 2, 3);
+      thinger!();
+      thinger!(42);
+      thinger!(1, 2, 3);
   }
   ```
 
