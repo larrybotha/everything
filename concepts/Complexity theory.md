@@ -13,7 +13,7 @@ Includes classifications such as:
 - NP 
 	- [[nondeterministic polynomial time]]
 	- Exp problems solvable in P time given a nondeterministic algorithm 
-- NP-Complete
+- [[NP-Complete]]
 	- [[decision problem]]s classifiable in NP
 	- most decision problems are NP-complete
 - NP-Hard
