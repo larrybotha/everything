@@ -6,7 +6,7 @@
 		- git
 		- nnn
 		- lazygit
-		- openssl
+		- openssh
 	3. Configure `~/.gitconfig` with user details
 	4. Clone Obsidian repos to `~/storage/shared/Obsidian Vaults`
 	5. Add sync script to `~/.shortcuts/tasks/git_push`:
