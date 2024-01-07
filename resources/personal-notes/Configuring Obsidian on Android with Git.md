@@ -9,7 +9,8 @@
 		- openssh
 	3. Configure `~/.gitconfig` with user details
 	4. Clone Obsidian repos to `~/storage/shared/Obsidian Vaults`
-	5. Add sync script to `~/.shortcuts/tasks/git_push`:
+	5. Configure `Termux:Widget` folders as per instructions on GitHub ye 5
+	6. Add sync script to `~/.shortcuts/tasks/git_sync`:
 
 		```bash
 		#!/bin/bash
@@ -35,7 +36,7 @@
 		# e.g. filename is 'sync_some_vault'
 		repo="${HOME}/storage/shared/Obsidian Vaults/[vault-folder]"
 		
-		source "${HOME}/.shortcuts/tasks/git_push" "${repo}"
+		source "${HOME}/.shortcuts/tasks/git_sync" "${repo}"
 		```
 	1. Run each sync script from inside Termux, following any instructions provided by Git - Git doesn't trust the repos by default
 1. In Android:
