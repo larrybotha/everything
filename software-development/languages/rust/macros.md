@@ -1,6 +1,6 @@
 ---
 aliases:
-- macro
+  - macro
 ---
 
 parent: [[+ rust]]
@@ -21,36 +21,36 @@ parent: [[+ rust]]
 - custom macros defined inside modules need to be explictly marked as being
   exported from the module:
 
-    ```rust
-      mod macros {
-          macro_rules! my_macro {
-              () => {
-                  println!("Check out my macro!");
-              };
-          }
-          // make this macro available outside of the module
-          pub(crate) use my_macro;
+  ```rust
+  mod macros {
+      macro_rules! my_macro {
+          () => {
+              println!("Check out my macro!");
+          };
       }
+      // make this macro available outside of the module
+      pub(crate) use my_macro;
+  }
 
-      fn main() {
-          use macros::my_macro;
+  fn main() {
+      use macros::my_macro;
 
-          my_macro!();
-      }
-      ```
+      my_macro!();
+  }
+  ```
 
 - macros may be defined with overrides, e.g. to allow for variadic arguments:
 
   ```rust
   // https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=5dc32bce5fe4701f1382c5a6aaea982d
   macro_rules! thinger {
-            () => { println!("no arguments!") };
-            ($val:expr) => { println!("got this value: {}", $val) };
-            ($val:expr, $($vals:expr ),+) => {{
-              thinger! { $val }
-              thinger! { $($vals),+ }
-            }}
-          }
+      () => { println!("no arguments!") };
+      ($val:expr) => { println!("got this value: {}", $val) };
+      ($val:expr, $($vals:expr ),+) => {{
+          thinger! { $val }
+          thinger! { $($vals),+ }
+      }}
+  }
 
   fn main() {
       thinger!();
@@ -58,6 +58,8 @@ parent: [[+ rust]]
       thinger!(1, 2, 3);
   }
   ```
+- the code generated from macros can be inspected using the `cargo expand`
+    library
 
 ## Related
 
@@ -65,3 +67,7 @@ parent: [[+ rust]]
 - https://veykril.github.io/tlborm/
 - https://doc.rust-lang.org/rust-by-example/macros/variadics.html
 - Decorators using macros: https://dev.to/sbalasa/reimagining-python-decorators-with-rust-macros-a-powerhouse-combination-19aj
+
+## links and resources
+
+- [cargo-expand](https://lib.rs/crates/cargo-expand)
