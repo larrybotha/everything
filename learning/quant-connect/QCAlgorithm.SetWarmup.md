@@ -19,11 +19,11 @@ class Algo(QCAlgorithm):
 ```
 
 - will run the algorithm for x units of the specified resolution before the
-    start date
+  start date
 - useful for populating indicators with data before the algorithm begins
-    executing trades
+  executing trades
 - a `IsWarmingUp` attribute is available on the instance - don't place trades
-    until warm
+  until warm
 
 ## links and resources
 

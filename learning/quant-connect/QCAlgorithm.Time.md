@@ -13,7 +13,7 @@ class Algo(QCAlgorithm):
 
 - `self.Time` is a datetime object for the current date and time of the event
 - trades placed using `Resolution.Daily` are only evaluated after the market is
-    closed, and will be available to be filled the next day
+  closed, and will be available to be filled the next day
 
 ## links and resources
 

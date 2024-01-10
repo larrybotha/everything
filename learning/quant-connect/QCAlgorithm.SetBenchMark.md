@@ -10,9 +10,9 @@ class Algo(QCAlgorithm):
 ```
 
 - sets the benchmark for statistics of the algorithm against the given ticker or
-    symbol
+  symbol
 - has a number of other overrides, beyond providing only the ticker, including a
-    callback
+  callback
 
 ## links and resources
 

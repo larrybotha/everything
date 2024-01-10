@@ -15,7 +15,6 @@ class Algo(QCAlgorithm):
 - liquidates all holdings and cancels any open orders for a given symbol
 - used in tandem with [[QCAlgorithm.Liquidate]]
 
-
 ## links and resources
 
 - https://www.quantconnect.com/learning/task/130/Using-our-Signal-to-Flip

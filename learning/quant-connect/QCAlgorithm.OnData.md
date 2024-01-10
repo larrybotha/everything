@@ -11,24 +11,25 @@ subscribed to for an equity at [[QCAlgorithm.Initialize]].
 
 - buy shares of a given symbol:
 
-    ```python
-    self.MarketOrder(
-      symbol: Symbol,
-      quantity: int,
-    )
-    ```
+  ```python
+  self.MarketOrder(
+    symbol: Symbol,
+    quantity: int,
+  )
+  ```
 
-    This function executes synchronously - no need to evaluate order events
+  This function executes synchronously - no need to evaluate order events
+
 - set a stop order to exit a position at a given market price:
 
-    ```python
-    self.StopMarketOrder(
-      symbol: Symbol,
-      quantity: int,
-      price: int,
-    )
-    ```
+  ```python
+  self.StopMarketOrder(
+    symbol: Symbol,
+    quantity: int,
+    price: int,
+  )
+  ```
 
 ## links and resources
 
--
+- https://www.quantconnect.com/docs/v2/writing-algorithms/api-reference#OnData-header

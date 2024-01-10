@@ -22,9 +22,9 @@ class Algo(QCAlgorithm):
 ```
 
 - sets a stop market order for a given symbol, number of shares, and market
-    price
+  price
 - the returned object has an `OrderId` attribute that can be compared against the
-    object the event handler receives
+  object the event handler receives
 
 ## related
 
