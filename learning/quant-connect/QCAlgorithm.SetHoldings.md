@@ -14,6 +14,12 @@ class Algo(QCAlgorithm):
 
 - liquidates all holdings and cancels any open orders for a given symbol
 - used in tandem with [[QCAlgorithm.Liquidate]]
+- placing long or [[short trade]]s is done by specifying a positive or negative
+  amount
+
+  e.g. `SetHoldings("SPY", 1)` - allocate 100% of the portfolio to SPY
+
+  `SetHoldings("SPY", -1)` - go short 100% of the portfolio on SPY
 
 ## links and resources
 
