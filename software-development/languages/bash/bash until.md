@@ -2,7 +2,8 @@ Parent: [[+ bash]]
 
 ```bash
 until foo_process_is_exiting_true; do
-	echo "foo is not yet ready" && sleep 1
+	# redirect to stderr
+	>&2 echo "foo is not yet ready" && sleep 1
 done
 
 echo "foo is ready!"
