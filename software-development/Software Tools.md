@@ -4,6 +4,8 @@
 
 - [Programming Idioms](https://www.programming-idioms.org/)
     * polyglot search for common programming problems
+* [Big List Of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+	* User input strings that have a high probability of causing issues
 
 ### Rust
 
