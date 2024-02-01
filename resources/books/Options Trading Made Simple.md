@@ -15,3 +15,7 @@ Link: https://www.goodreads.com/book/show/24940130-options-trading-made-simple
 
 > the more you enter and exit the market, the more risk you are exposed to
 
+## 6. The secret to bear market profits
+
+> Stocks fall more rapidly than they rise
+
