@@ -24,3 +24,4 @@
   - show how pleasant Svelte is to work with
 - investigate [SurrealDB](https://docs.surrealdb.com/docs/integration/sdks/rust/)
   for interacting programmatically with databases using Rust
+- demonstrate how to derive `map` from `for` in Python and JavaScript
