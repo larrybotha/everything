@@ -8,6 +8,8 @@
 	- User input strings that have a high probability of causing issues
 - [TLC Model Checker](https://lamport.azurewebsites.net/tla/toolbox.html)
 	- a tool in the TLA+ suite for analysing specs, used by AWS as described in [[Use of formal methods at AWS]]
+- [Automating Stacked PRs on GitHub](https://graphite.dev/blog/stacked-prs)
+    - Service that integrates with GitHub for creating stacked PRs
 
 ### Rust
 
