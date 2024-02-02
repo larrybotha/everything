@@ -3,9 +3,11 @@
 ### General programming
 
 - [Programming Idioms](https://www.programming-idioms.org/)
-  - polyglot search for common programming problems
+	- polyglot search for common programming problems
 - [Big List Of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
-  - User input strings that have a high probability of causing issues
+	- User input strings that have a high probability of causing issues
+- [TLC Model Checker](https://lamport.azurewebsites.net/tla/toolbox.html)
+	- a tool in the TLA+ suite for analysing specs, used by AWS as described in [[Use of formal methods at AWS]]
 
 ### Rust
 
