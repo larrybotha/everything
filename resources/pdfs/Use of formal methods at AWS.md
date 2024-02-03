@@ -8,8 +8,27 @@
 - AWS developers use TLA+ as their language of choice for designing complex systems
 	- the [TLC Model Checker](https://lamport.azurewebsites.net/tla/toolbox.html) automates much of the work that would be tedious using maths alone
 	- PlusCal is a more C-like language variant of TLA+ which developers often find easier to read, but can sometimes lack expressiveness that TLA+ offers
+-  a formal specification is precise, short, and can be explored and experimented upon with tools
+- *the investment he made in writing and checking the formal TLA+ specifications was both more reliable, and also less time consuming than the work he put into writing and checking his informal proofs. Therefore, using TLA+ in place of traditional proof writing would likely have improved time-to-market in addition to achieving higher confidence on system correctness* - pg 7-8
+- *We have adopted the practice of first writing a conventional prose design document, then incrementally refining parts of it into PlusCal or TLA+. Often this gives important insights without ever going as far as a full specification or model checking*
+- a verified design doesn't guarantee a correct implementation in code - humans still need to write it. Nonetheless, TLA+ helps in the following ways:
+	- formal methods help get the design right
+		- the design is the first step to getting the code right
+		- a broken design is likely going to lead to broken code 
+		- implementing a broken design may deceive a developer into thinking they've got a correct implementation
+		- developers are unlikely to realise a design is broken while writing code
+	- formal methods help devs gain a better understanding of the design, which leads to better implementations 
+	- formal methods help devs write better "self-diagnosing code"
+		- AWS has found that pervasive use of assertions is a good way to reduce system errors 
+		- assertions check small system [[invariant]]s - finding good invariants is not easy, but formal methods help find these invariants
 
 ## links and resources
+
+- https://www.infoq.com/presentations/aws-testing-tla
+- https://awsmaniac.com/how-formal-methods-helped-aws-to-design-amazing-services/
+- https://medium.com/software-safety/using-tla-to-model-cascading-failures-5d1ebc5e4c4f
+
+### From the PDF
 
 [1] Barr, J. Amazon S3-The First Trillion Objects. Amazon Web Services Blog. June 2012; http://aws.typepad.com/aws/2012/06/amazon-s3-the-first-trillion-objects.html
 
