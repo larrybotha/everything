@@ -17,6 +17,9 @@ strace -f ls some-dir
 
 # trace a running process
 strace -p PID_ID
+
+# add timestamp to strace
+strace -t ls some-dir
 ```
 
 Tips:
