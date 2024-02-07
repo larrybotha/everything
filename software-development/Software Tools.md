@@ -3,13 +3,13 @@
 ### General programming
 
 - [Programming Idioms](https://www.programming-idioms.org/)
-	- polyglot search for common programming problems
+  - polyglot search for common programming problems
 - [Big List Of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
-	- User input strings that have a high probability of causing issues
+  - User input strings that have a high probability of causing issues
 - [TLC Model Checker](https://lamport.azurewebsites.net/tla/toolbox.html)
-	- a tool in the TLA+ suite for analysing specs, used by AWS as described in [[Use of formal methods at AWS]]
+  - a tool in the TLA+ suite for analysing specs, used by AWS as described in [[Use of formal methods at AWS]]
 - [Automating Stacked PRs on GitHub](https://graphite.dev/blog/stacked-prs)
-    - Service that integrates with GitHub for creating stacked PRs
+  - Service that integrates with GitHub for creating stacked PRs
 
 ### Rust
 
@@ -17,6 +17,13 @@
   - Travis CI template for building Rust binaries for multiple OSes
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
   - idiomatic solutions for common Rust tasks
+- Writing web apps in Rust with webassembly:
+  - [Leptos](https://leptos.dev/)
+    - uses Signals for reactivity
+    - Svelte/JSX-like syntax for components written in Rust
+    - relies on a server implementation, such as actix
+  - [Sycamore](https://sycamore-rs.netlify.app/)
+    - uses Signals for reactivity
 
 ### HTML
 
