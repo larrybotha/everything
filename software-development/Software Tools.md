@@ -36,3 +36,6 @@
   - JSFiddle for databases
 - [SurrealDB](https://docs.surrealdb.com/docs/integration/sdks/rust/)
   - a multiplatform open-source database, written in Rust
+- [Turso](https://turso.tech)
+  - embedded SQLite dbs at scale
+  - see [[theprimeagen]]'s interview: https://www.youtube.com/watch?v=fq2PUpgfCi4
