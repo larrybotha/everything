@@ -39,3 +39,13 @@
 - [Turso](https://turso.tech)
   - embedded SQLite dbs at scale
   - see [[theprimeagen]]'s interview: https://www.youtube.com/watch?v=fq2PUpgfCi4
+- [Atlas](https://atlasgo.io/getting-started/)
+	- Terraform-like configs for database migrations
+	- see https://blog.turso.tech/database-migrations-made-easy-with-atlas-df2b259862db
+
+## ETL
+
+- [Airbyte](https://airbyte.com/tutorials/mysql-change-data-capture-cdc)
+	- open-source ETL platform
+- [Debezium](https://debezium.io/)
+	- Extraction library
