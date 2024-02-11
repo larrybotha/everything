@@ -10,6 +10,8 @@
   - a tool in the TLA+ suite for analysing specs, used by AWS as described in [[Use of formal methods at AWS]]
 - [Automating Stacked PRs on GitHub](https://graphite.dev/blog/stacked-prs)
   - Service that integrates with GitHub for creating stacked PRs
+- [10-minute mail](https://10minutemail.com/)
+  - service that provides short-lived email addresses
 
 ### Rust
 
@@ -40,12 +42,12 @@
   - embedded SQLite dbs at scale
   - see [[theprimeagen]]'s interview: https://www.youtube.com/watch?v=fq2PUpgfCi4
 - [Atlas](https://atlasgo.io/getting-started/)
-	- Terraform-like configs for database migrations
-	- see https://blog.turso.tech/database-migrations-made-easy-with-atlas-df2b259862db
+  - Terraform-like configs for database migrations
+  - see https://blog.turso.tech/database-migrations-made-easy-with-atlas-df2b259862db
 
 ## ETL
 
 - [Airbyte](https://airbyte.com/tutorials/mysql-change-data-capture-cdc)
-	- open-source ETL platform
+  - open-source ETL platform
 - [Debezium](https://debezium.io/)
-	- Extraction library
+  - Extraction library
