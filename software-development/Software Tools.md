@@ -12,6 +12,8 @@
   - Service that integrates with GitHub for creating stacked PRs
 - [10-minute mail](https://10minutemail.com/)
   - service that provides short-lived email addresses
+- [Will Reed Top 100](https://www.willreedtop100.com/top-100-list)
+	- Top 100 startups based on company culture
 
 ### Rust
 
