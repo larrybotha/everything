@@ -13,7 +13,7 @@
 - [10-minute mail](https://10minutemail.com/)
   - service that provides short-lived email addresses
 - [Will Reed Top 100](https://www.willreedtop100.com/top-100-list)
-	- Top 100 startups based on company culture
+  - Top 100 startups based on company culture
 
 ### Rust
 
@@ -46,6 +46,8 @@
 - [Atlas](https://atlasgo.io/getting-started/)
   - Terraform-like configs for database migrations
   - see https://blog.turso.tech/database-migrations-made-easy-with-atlas-df2b259862db
+- [dbdiagram](https://dbdiagram.io)
+  - mermaidjs-like web interface specifically for ERDs
 
 ## ETL
 
