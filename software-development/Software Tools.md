@@ -14,6 +14,8 @@
   - service that provides short-lived email addresses
 - [Will Reed Top 100](https://www.willreedtop100.com/top-100-list)
   - Top 100 startups based on company culture
+- [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/)
+	- guides for implementing accessible UI patterns
 
 ### Rust
 

@@ -27,3 +27,4 @@
 - demonstrate how to derive `map` from `for` in Python and JavaScript
 - build a Chrome extension that enables `hx-boost="true"` on the site you're
   currently visiting
+- building accessible components in javascript using the [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/)
