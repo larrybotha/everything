@@ -8,3 +8,6 @@ Author: [[Dan Luu]]
 ## links and resources
 
 - https://github.com/danluu/post-mortems
+- https://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/
+- https://en.wikipedia.org/wiki/Reliability-centered_maintenance
+- 
