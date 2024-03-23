@@ -19,6 +19,7 @@ Some reasons people continue to make mistakes:
 ## related
 
 - [[Some reasons to work on productivity and velocity]]
+- [[How I Hit Top 1 percent In Any Game - Its NOT Talent]]
 ## links and resources
 
 - https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/
