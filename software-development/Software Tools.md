@@ -15,7 +15,7 @@
 - [Will Reed Top 100](https://www.willreedtop100.com/top-100-list)
   - Top 100 startups based on company culture
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/)
-	- guides for implementing accessible UI patterns
+  - guides for implementing accessible UI patterns
 
 ### Rust
 
@@ -30,6 +30,8 @@
     - relies on a server implementation, such as actix
   - [Sycamore](https://sycamore-rs.netlify.app/)
     - uses Signals for reactivity
+- [Shuttle.rs](https://shuttle.rs/)
+  - quickly deploy Rust apps with infrastructure as code
 
 ### HTML
 
