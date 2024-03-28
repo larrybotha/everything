@@ -52,6 +52,8 @@
   - see https://blog.turso.tech/database-migrations-made-easy-with-atlas-df2b259862db
 - [dbdiagram](https://dbdiagram.io)
   - mermaidjs-like web interface specifically for ERDs
+- [litestream.io](https://litestream.io/)
+	- continuous backup of SQLite db's
 
 ## ETL
 
