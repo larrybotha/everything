@@ -61,3 +61,10 @@
   - open-source ETL platform
 - [Debezium](https://debezium.io/)
   - Extraction library
+
+## AI / ML
+
+- [LM Studio](https://lmstudio.ai/)
+	- resource for running OSS LLMs locally
+- [Hugging Face](https://huggingface.co)
+	- OSS for computation tools used to building applications using machine learning
