@@ -12,3 +12,4 @@ Course with a roadmap for learning how to build and deploy LLMs.
 - https://roadmap.sh/guides/free-resources-to-learn-llms
 - Roadmap on [[developer-roadmaps]] for AI and Data scientist:
     https://roadmap.sh/ai-data-scientist
+- https://docs.cohere.com/docs/llmu
