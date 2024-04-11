@@ -38,7 +38,9 @@
 - [HTMLHell](https://htmlhell.com/)
   - common bad practices in HTML
 
-### Database
+### Data
+
+#### Database
 
 - [DB Fiddle](https://www.db-fiddle.com/f/2hU2nuUrSiujYtn9eBtuXV/0)
   - JSFiddle for databases
@@ -53,18 +55,23 @@
 - [dbdiagram](https://dbdiagram.io)
   - mermaidjs-like web interface specifically for ERDs
 - [litestream.io](https://litestream.io/)
-	- continuous backup of SQLite db's
+  - continuous backup of SQLite db's
 
-## ETL
+#### ETL
 
 - [Airbyte](https://airbyte.com/tutorials/mysql-change-data-capture-cdc)
   - open-source ETL platform
 - [Debezium](https://debezium.io/)
   - Extraction library
 
+#### Visualisation
+
+- [streamlit.io](https://streamlit.io/)
+  - open source app framework for creating visualisations
+
 ## AI / ML
 
 - [LM Studio](https://lmstudio.ai/)
-	- resource for running OSS LLMs locally
+  - resource for running OSS LLMs locally
 - [Hugging Face](https://huggingface.co)
-	- OSS for computation tools used to building applications using machine learning
+  - OSS for computation tools used to building applications using machine learning
