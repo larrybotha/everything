@@ -17,6 +17,14 @@
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/)
   - guides for implementing accessible UI patterns
 
+### Testing
+
+- [Testcontainers](https://testcontainers.com/getting-started/)
+  * library for making it easy to bootstrap development and test dependencies
+      with real services wrapped in Docker containers - e.g. bootstrapping a test
+      database to run concurrently with a dev database
+  * see https://www.youtube.com/watch?v=sNg0bnMF_qY
+
 ### Rust
 
 - [trust](https://github.com/japaric/trust)
