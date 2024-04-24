@@ -33,6 +33,11 @@
 - [Shuttle.rs](https://shuttle.rs/)
   - quickly deploy Rust apps with infrastructure as code
 
+### Golang
+
+- [List of recommended libraries](https://threedots.tech/post/list-of-recommended-libraries/)
+  * list of libraries recommended by experienced Go developers
+
 ### HTML
 
 - [HTMLHell](https://htmlhell.com/)
