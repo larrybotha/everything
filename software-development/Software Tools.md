@@ -45,6 +45,8 @@
 
 - [List of recommended libraries](https://threedots.tech/post/list-of-recommended-libraries/)
   * list of libraries recommended by experienced Go developers
+- [air](https://github.com/cosmtrek/air)
+  * live-reload for Go applications
 
 ### HTML
 
