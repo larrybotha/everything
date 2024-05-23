@@ -1,9 +1,9 @@
 ---
 aliases:
-	- Python
+	- Golang
 ---
 
-Notes on the Python language
+Notes on the Golang programming language
 
 ```dataview
 LIST
