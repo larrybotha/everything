@@ -16,3 +16,9 @@
 	- practice typing by typing novels
 - [ngram type](https://ranelpadon.github.io/ngram-type/)
 	- inspired by [[Josh Kaufman]] wanting to learn Dvorak in 20 hours
+- [QMK basics](https://thomasbaart.nl/category/mechanical-keyboards/firmware/qmk/qmk-basics/)
+	- tutorials for learning how to use features of QMK
+- [Miryoku](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)
+	- layout designed for even left and right hand use
+- https://precondition.github.io/home-row-mods
+	- advice on the nuances of QMK and Kmonad settings and home row mods
