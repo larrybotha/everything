@@ -7,3 +7,7 @@ Link: https://preslav.me/2023/04/14/golang-error-handling-is-a-form-of-storytell
 ## related
 
 - [[+ golang|Golang]]
+
+## links and resources
+
+- https://preslav.me/2024/06/06/error-flows-in-golang/
