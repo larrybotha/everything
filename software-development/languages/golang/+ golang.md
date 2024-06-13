@@ -1,6 +1,6 @@
 ---
 aliases:
-	- Golang
+- Golang
 ---
 
 Notes on the Golang programming language
