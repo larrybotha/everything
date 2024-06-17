@@ -1,0 +1,1 @@
+the phenomenon where the arithmetic mean return of an investment portfolio is higher than the geometric mean return, resulting in a loss of returns over time

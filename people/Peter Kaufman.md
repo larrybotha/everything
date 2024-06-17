@@ -1,0 +1,1 @@
+CEO of Glenair editor of Poor Charlie's Almanack
