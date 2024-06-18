@@ -48,6 +48,7 @@ Link: https://jamesclear.com/great-speeches/the-multidisciplinary-approach-to-th
 ## related
 
 - [[mirrored reciprocation]] is related to [[Smile when you enter a room...]]
+- [[Charlie Munger - Wit and Wisdom From The World’s Most Irreverent Billionaire]]
 ## links and resources
 
 - https://fs.blog/great-talks/multidisciplinary-approach-thinking-peter-kaufman/
