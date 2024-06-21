@@ -90,3 +90,8 @@
   - resource for running OSS LLMs locally
 - [Hugging Face](https://huggingface.co)
   - OSS for computation tools used to building applications using machine learning
+
+## Drawing
+
+- [tldraw.com](https://tldraw.com)
+    * similar to Excalidraw, but with a simpler interface
