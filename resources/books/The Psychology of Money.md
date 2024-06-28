@@ -19,7 +19,7 @@ Link: https://www.goodreads.com/book/show/41881472-the-psychology-of-money
 
 ## 3. Never enough
 
-- not being able to recognise when you have enough puts you at risk for having nothing
+- not being able to recognise when you have enough puts you at risk of having nothing
 
 ## 4. Confounding compounding
 
