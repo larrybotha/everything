@@ -8,6 +8,8 @@
 	- keyboard layout for 34 keys
 	- uses RSTHK layout, also with "e" on the thumb
 	- includes concepts like combos (similar to vim's operator pending mode), use of a leader, automatic layer exits, CAPSWORD
+- [callum oakley 34 keys](https://github.com/callum-oakley/qmk_firmware/tree/master/users/callum)
+	- A keymap for 34 keys with 4 layers and no mod-tap
 - https://www.reddit.com/r/ErgoMechKeyboards/s/Bq9vIRFItD
 	- reddit post containing a number of links to resources that inspired the user's layout
 - https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/#symbols
