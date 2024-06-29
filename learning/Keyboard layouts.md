@@ -1,4 +1,4 @@
-## links and resources 
+## links and resources
 
 - https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/
 	- RSTHD layout
@@ -10,6 +10,8 @@
 	- includes concepts like combos (similar to vim's operator pending mode), use of a leader, automatic layer exits, CAPSWORD
 - [callum oakley 34 keys](https://github.com/callum-oakley/qmk_firmware/tree/master/users/callum)
 	- A keymap for 34 keys with 4 layers and no mod-tap
+- [Ben Vallack - You Won’t Believe How Effective This Keyboard Layout Is](https://www.youtube.com/watch?v=8wZ8FRwOzhU)
+ - dedicated `ctrl` and `shift` keys
 - https://www.reddit.com/r/ErgoMechKeyboards/s/Bq9vIRFItD
 	- reddit post containing a number of links to resources that inspired the user's layout
 - https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/#symbols
