@@ -15,6 +15,8 @@ GitLab's approach to rapidly releasing features to users by deploying the smalle
 - [[Feedback]]
 - [[Pareto Principle]] - focus on *good enough* for 80% of users
 
+![[No plan survives first contact...]]
+
 
 
 ## Links and resources
