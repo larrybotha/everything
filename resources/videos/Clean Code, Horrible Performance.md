@@ -4,6 +4,7 @@ tags:
 ---
 
 
+Author: Casey Muratori
 Link: https://www.youtube.com/watch?v=tD5NrevFtbU
 
 ## takeaways
@@ -16,5 +17,5 @@ Link: https://www.youtube.com/watch?v=tD5NrevFtbU
 
 - [[ThePrimeagen]] chatted with the author of this video
     here: https://www.youtube.com/watch?v=OtozASk68Os
-    * The author's course on optimisation, mentioned in this video:
+    * Casey's course on optimisation, mentioned in this video:
         https://www.computerenhance.com/
