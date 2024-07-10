@@ -1,3 +1,8 @@
+---
+tags:
+  - resource/video
+---
+
 Link: https://youtu.be/J8VX9YmyLKg?si=ck4fzRa-91RexgKl
 
 ## takeaways
