@@ -23,18 +23,16 @@ Author: [[Skyline]]
   - e.g. learning how to solve a Rubik's cube - it's a learned sequence of
     steps, and that's it
   - watching someone solves a Rubik's cube may appear haphazard, but if the
-    person knows what they're doing, what appears to be chaos to unknowing
-    onlookers will suddenly resolve to the solution
+    person knows what they're doing, what appears to be chaos to unknowing onlookers will suddenly resolve to the solution
   - the most optimal way to a goal is not always the prettiest
-- reaching a goal quickly is like learning to drive - start by looking to the
-  horizon
+- reaching a goal quickly is like learning to drive - start by looking to the horizon
 - almost every well-designed has [[noob trap]]s
   - noob traps are designed to:
     - make the game fun for new players
     - make players feel like they're playing way above their skill level
 - the most important thing for developing any skill is to avoid falling into a
   noob trap
-  - noob traps will not benefit you at all later one - these skills only waste
+  - noob traps will not benefit you at all later on - these skills only waste
     your time if you're attempting to become good at a skill
   - e.g. in Ana, there's a technique that will level players up rapidly, but at
     higher skill levels this technique is easy to counter. Players who level

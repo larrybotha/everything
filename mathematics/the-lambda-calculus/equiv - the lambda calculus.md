@@ -5,11 +5,11 @@ aliases:
 parent: [[+ The Lambda Calculus]]
 
 ```
-def equiv = λx.λy.((x (and x y)) (not y))
+def equiv = λx.λy.((x y) (not y))
 # or
 def equiv x y = 
 	if x
-	then and x y
+	then y
 	else not y
 ```
 
@@ -24,22 +24,22 @@ For `equiv` we have
 |F|T|F|
 |F|F|T|
 
-i.e. `x ? x and y : not y`
+i.e. `x ? y : not y`
 
-- if the left is `true`, then `x` and `y` need to both be `true` for a `true` outcome
+- if the left is `true`, then `y`
 - otherwise select the inverse of `y`
 
 Therefore, using [[cond - the lambda calculus|cond]], we have:
 
 ```
-λx.λy.(((cond (x and y)) (not y)) x)
+λx.λy.(((cond y) (not y)) x)
 ```
 
 Simplifying and reducing:
 
 ```
-   (λx.λy.(((cond (and x y)) (not y)) x))
-=> (λx.λy.((x (and x y)) (not y)))
+   λx.λy.(((cond y) (not y)) x)
+=> λx.λy.((x y) (not y))
 ```
 
 ## assertions
@@ -48,8 +48,8 @@ Simplifying and reducing:
 
 ```
    equiv true true
-=> ((x (and x y)) (not y)) true true
-=> true (and true true) (not true)
+=> ((x y) (not y)) true true
+=> (true true) (not true)
 => first true false
 => true
 ```
@@ -59,8 +59,8 @@ Simplifying and reducing:
 
 ```
    equiv true false
-=> ((x (and x y)) (not y)) true false
-=> true (and true false) (not false)
+=> ((x y) (not y)) true false
+=> (true false) (not false)
 => first false true
 => false
 ```
@@ -70,8 +70,8 @@ Simplifying and reducing:
 
 ```
    equiv false true
-=> ((x (and x y)) (not y)) false true
-=> false (and false true) (not true)
+=> ((x y) (not y)) false true
+=> (false true) (not true)
 => second false false
 => false
 ```
@@ -81,8 +81,8 @@ Simplifying and reducing:
 
 ```
    equiv false false
-=> ((x (and x y)) (not y)) false false
-=> false (and false false) (not false)
+=> ((x y) (not y)) false false
+=> (false false) (not false)
 => second false true
 => true
 ```

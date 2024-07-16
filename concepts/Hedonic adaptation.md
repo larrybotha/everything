@@ -1,7 +1,7 @@
 ---
 aliases:
-	- Hedonic adaptation
-	- Hedonic treadmill
+  - Hedonic adaptation
+  - Hedonic treadmill
 ---
 
  People’s general tendency to return to a set level of happiness despite life’s ups and downs
