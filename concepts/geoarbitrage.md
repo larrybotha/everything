@@ -1,0 +1,1 @@
+Geoarbitrage is the act of exploiting differences in the cost of living between two locations

@@ -35,3 +35,13 @@
 	- rent out others, learning how to be a landlord
 	- do it 2 more times
 	- done - you're financially indepedent
+
+### ch 6
+
+- the first dollars you earn are taxed favourably, but the last dollars you earn are taxed more heavily
+
+### ch 7
+
+- [[geoarbitrage]] is the act of exploiting differences in the cost of living between two locations
+- domestic geoarbitrage is moving somewhere cheaper to live within your own country
+- dual geoarbitrage combines earning more with spending less, e.g. a doctor living in a cost-effective town with low competition
