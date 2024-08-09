@@ -47,6 +47,8 @@
   * list of libraries recommended by experienced Go developers
 - [air](https://github.com/cosmtrek/air)
   * live-reload for Go applications
+- [Stream: Go 10 week backend eng onboarding](https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a)
+  - stream.io's engineering onboarding guide
 
 ### HTML
 
