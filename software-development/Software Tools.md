@@ -16,6 +16,8 @@
   - Top 100 startups based on company culture
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/)
   - guides for implementing accessible UI patterns
+- [Instruments](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
+  * article by [[Thorsten Ball]] on using an XCode tool for profiling locally running processes
 
 ### Testing
 
@@ -49,6 +51,13 @@
   * live-reload for Go applications
 - [Stream: Go 10 week backend eng onboarding](https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a)
   - stream.io's engineering onboarding guide
+- Golang University
+  - [101](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
+    - introduces fundamental Go concepts and shows you how to use the Go tools to create and manage Go code
+  - [201](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_5m_JaMXmGEFgduH8EsuTs)
+    - steps it up a notch, explaining important techniques like testing, web services, and APIs
+  - [301](https://www.youtube.com/playlist?list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf)
+    * dives into more advanced topics like the Go scheduler, implementation of maps and channels, and optimisation techniques
 
 ### HTML
 
