@@ -1,4 +1,6 @@
-Computer scientist
+Go developer
+
+Website: https://registerspill.thorstenball.com
 
 ```dataview
 LIST rows.file.link
