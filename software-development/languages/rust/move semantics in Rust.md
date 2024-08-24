@@ -13,4 +13,4 @@ let ys = xs; // xs is moved here
 
 Variables have *move semantics* by default, unless their type is [[std..marker..Copy|Copy]]
 
-In contrast to [[copy semantics]].
+In contrast to [[copy semantics in Rust]].
