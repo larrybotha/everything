@@ -45,3 +45,13 @@
 - [[geoarbitrage]] is the act of exploiting differences in the cost of living between two locations
 - domestic geoarbitrage is moving somewhere cheaper to live within your own country
 - dual geoarbitrage combines earning more with spending less, e.g. a doctor living in a cost-effective town with low competition
+
+
+## ch 10
+
+- you should have a running list of three people that you’re always watching:
+	- someone senior to you that you want to emulate
+		- can take you under their wing, share past experience, and guide you
+	- a peer who you think is better at the job than you are and who you respect
+	- 
+	- someone subordinate who’s doing the job you did . . . better than you did it
