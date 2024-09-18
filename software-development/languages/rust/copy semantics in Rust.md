@@ -11,4 +11,4 @@ let y = x; // xs is copied here
 // x has not been dropped
 ```
 
-In contrast to [[move semantics]].
+In contrast to [[move semantics in Rust]].
