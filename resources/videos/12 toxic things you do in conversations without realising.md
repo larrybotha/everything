@@ -86,10 +86,15 @@ As an alternative to ordering and threating:
 - instead, allow people to vent, acknowledge that situations are more complicated
     than we often appreciate, and that people don't always want a solution
 
+> Not knowing the question, it was easy for him to give an answer
+
+- Dag Hammerskold
+
 
 ## links and resources
 
 - [People Skills by Robert Bolton](https://www.goodreads.com/book/show/65327.People_Skills)
+
 
 
 
