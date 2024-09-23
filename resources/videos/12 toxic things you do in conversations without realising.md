@@ -72,24 +72,40 @@ As an alternative to ordering and threating:
 ### advising
 
 > Advice is often a basic insult to the intelligence of the other person. It implies
-> a lack of confidence in the capacity of the person with the problem to understand
-> or cope with his or her problem.
+> a lack of confidence in the capacity of the person with the problem to understand or cope with his or her problem.
 > As Norman Keagan puts it, "in essence, we implicitly say to someone 'you've been
-> making a big deal out of a problem whose solution is immediately apparent to -
-> how stupid you are'"
+> making a big deal out of a problem whose solution is immediately apparent to - how stupid you are'"
 
 [_Robert Bolton_](#links-and-resources)
 
 - giving advice is something that people do to make themselves feel better
 - giving advice is ignoring the complexity of other people's lives - guilt, shame,
     issues, past, emotions, etc.
-- instead, allow people to vent, acknowledge that situations are more complicated
-    than we often appreciate, and that people don't always want a solution
+- instead, allow people to vent, acknowledge that situations are more complicated than we often appreciate, and that people don't always want a solution
 
 > Not knowing the question, it was easy for him to give an answer
 
 - Dag Hammerskold
 
+## avoiding the others concerns
+
+### diverting
+
+- pushing what the other person is saying aside
+- e.g.
+	- "you think you've got it bad? Well..."
+	- "speaking of... [derails conversation]"
+- people divert because:
+	- they are unskilled at listening or paying attention
+	- want the attention directed at themselves
+	- feel uncomfortable with the emotions presented
+- if sharing a similar experience, do so to allow them to know there's a similarity, while ensuring not to hijack where they're going
+
+### logical argument
+
+- trying to appeal to logic or reason
+	- [[Charlie Munger]] says one should appeal to emotion, instead
+- 
 
 ## links and resources
 
