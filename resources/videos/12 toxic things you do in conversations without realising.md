@@ -1,6 +1,8 @@
 Link: https://youtu.be/PkRk834-Txg
 
-## criticising
+## judging
+
+### criticising
 
 - most people harbour self-hatred
 - don't point things out about other people that they already don't like
@@ -103,13 +105,36 @@ As an alternative to ordering and threating:
 
 ### logical argument
 
-- trying to appeal to logic or reason
-	- [[Charlie Munger]] says one should appeal to emotion, instead
-- 
+- trying to appeal to logic or facts as opposed to what the person is actually saying
+	- [[Charlie Munger]] says one should appeal to emotion, rather than rationale
+- when someone is leading with what they're saying with emotion, then emotion must be the focus
+
+### reassuring
+
+- reassuring someone is a form of emotionally withdrawing from the conversation
+- e.g.
+    * "this too shall pass"
+    * "don't worry, it'll all be ok"
+- in reality, these responses signal to the person "stop feeling what you're feeling"
+
+> reassurance is often used by people who like the idea of being helpful, but who don't want to experience the emotional demand that goes with it
+
+[_Robert Bolton_](#links-and-resources)
+
+- instead of reassuring people, label their emotions, reflect them to the person
+    * "it sounds like you're feeling X, I'm here to listen, I won't give advice"
 
 ## links and resources
 
 - [People Skills by Robert Bolton](https://www.goodreads.com/book/show/65327.People_Skills)
+
+
+
+
+
+
+
+
 
 
 
