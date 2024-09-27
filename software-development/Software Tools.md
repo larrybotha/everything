@@ -18,6 +18,10 @@
   - guides for implementing accessible UI patterns
 - [Instruments](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
   * article by [[Thorsten Ball]] on using an XCode tool for profiling locally running processes
+- [Cheatography](https://cheatography.com)
+    * cheat sheets for various tools and languages
+- [Awesome Open Source](https://awesomeopensource.com/)
+    * an index of open source tools and services
 
 ### Security
 
@@ -110,4 +114,6 @@
 
 - [tldraw.com](https://tldraw.com)
     * similar to Excalidraw, but with a simpler interface
+
+
 
