@@ -55,3 +55,33 @@
 	- a peer who you think is better at the job than you are and who you respect
 	- 
 	- someone subordinate who’s doing the job you did . . . better than you did it
+## ch 12
+
+> In life, people get excited by sales, which make them eager to buy. With the stock market, however, people become afraid and stop investing when things go on sale. On the flip side, most of the time people get turned off and buy less when things get expensive in the retail world. With the stock market, many people getting caught up in the hype of big stock market returns and actually buy more when the market is doing well. They buy stocks at exactly the wrong time after prices have already been run up
+
+- origin of 4% rule:
+	- you spend $40k per year
+	- assumption that inflation is lower than 4%
+	- 40 000 / .04 = $1m, or $1m = $40k x 25
+	- $1m with a 4% annual drawdown lasts indefinitely
+- similarly, for the 3% rule:
+	- $1m = $30 303 x 33
+
+- the 4% rule is subject to account fees - a managed portfolio costing 1% would leave only 3% available for drawdown
+- index funds are usually much cheaper, being as low as .1% of a portfolio's value in annual fees
+- every $1000 dollars spent per year requires saving $25k per year in savings to support a 4% annual drawdown
+	- more generally, every $1 spent per month requires $300 to be saved to allow for a 4% drawdown
+	- i.e. 
+		- 4% rule: $1 x 25 x 12 = $300
+		- 3% rule: $1 x 33 x 12 = $396
+
+### ch 13
+
+- build a business system that can operate without you - don't build a job that requires you to exchange your time for money
+
+> You can manage risk so tightly in business, even when I fail, I usually profit.” He explained that by controlling risk so tightly, “you can fail ninety-nine times and on the one-hundredth try, be financially independent. Or you can get it right the first time. There’s no compound wealth equation involved.” He added that it’s not rare to become financially independent quickly by building a business. “It happens all the time.”
+
+- start with getting a sale, not the business plan stuff
+- if you build it, no one will come until you market and sell it. Even then, no one may buy it - start with sales
+- most people don't start businesses because they think you need money, and they lack confidence. If you start with as little money as possible, then failing doesn't matter as much financially or for one's self-esteem
+- build trust first, and you can get sales before having a product
