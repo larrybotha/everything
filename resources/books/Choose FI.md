@@ -85,3 +85,13 @@
 - if you build it, no one will come until you market and sell it. Even then, no one may buy it - start with sales
 - most people don't start businesses because they think you need money, and they lack confidence. If you start with as little money as possible, then failing doesn't matter as much financially or for one's self-esteem
 - build trust first, and you can get sales before having a product
+
+### ch 14
+
+- buying a duplex, living in one of the units, and then renting the other out is beginning of a blueprint for making consistent rental income from real estate
+
+### ch 15
+
+> You are the sum total of everything you’ve ever seen, heard, eaten, smelled, been told, forgot—it’s all there. Everything influences each of us, and because of that I try to make sure that my experiences are positive
+
+_Maya Angelou_
