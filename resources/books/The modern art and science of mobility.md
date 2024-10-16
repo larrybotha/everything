@@ -39,3 +39,48 @@
 	- alternate between moving the body, and moving the massage tool
 		- For increased fascial movement, the body should move on the tool
 		- For areas of tension, the tool should move on (over) the body
+- massage everywhere, even the least likely areas. The more you massage the areas that you never touch, the more you increase your chances of finding areas that are experiencing muscle memory. Common areas:
+	- The bottom of the feet (the arch of the foot, the ball of the foot, and the heel)
+	- The front of the shins
+	- The back of the knees
+	- Under the armpits
+	- The inner part of the quadriceps
+	- The hip rotators
+	- The top of the hips
+	- The upper neck muscles, just under the head
+- passive stretching reduces muscle responsiveness, whereas self-massage promotes it
+- the effects of self-massage only appear for 10 minutes - do it just before engaging in the exercise it will benefit
+- massaging the opposite limb has a benefit on the other
+- self-massage warm-up recommendations:
+	- arch of foot: 1 to 2 times, 60s per foot
+	- everywhere else: 2 to 3 times, 30s per muscle
+- the more one performs self-massage during warmups, the quicker the benefits during workouts will be seen
+- massaging the arch of the foot has a number of outsized benefits:
+	- relieves tension in the foot
+	- optimises support
+	- wakes up nervous system
+	- improves flexibility in posterior chain, especially hamstrings amnd spine
+- everyone should always have a massage ball for their feet
+
+### ch 1.4
+
+- pain is not inevitable
+- 4 rules to restore functional mechanics of movement and posture:
+	- fix your posture
+	- move things that don't want to move but should
+	- mobilise areas of localised pain
+	- work areas above and below where you experience pain, whether painful or not
+- self-massage is only one aspect of healing - moving, and regaining range and motor control are also critical
+
+#### lumbar pain scan
+
+- sphinx
+- Woolsey test
+	- lie on stomach
+	- cross arms under chin
+	- attempt to flex heel towards buttock
+	- should be able to bend knee past 120 degrees
+- ball between ribs and pelvis
+	- lie on back
+	- bend legs 90 degrees
+	- move ball between fleshy part of lumbar and floor, looking for painful spots
