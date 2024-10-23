@@ -84,3 +84,25 @@
 	- lie on back
 	- bend legs 90 degrees
 	- move ball between fleshy part of lumbar and floor, looking for painful spots
+
+#### roller massage on the back
+
+- starting with roller massage is a good idea for massage sessions
+- cross arms and hold shoulders for more effective massage
+- 1 to 3 reps of 1 minute
+- alternate between light and hard pressure for 5s intervals on trigger points
+
+#### roller massage on glutes
+
+- fold ankle over knee of other leg, and massage large butt muscle, and outer butt muscle
+- 10 reps front to back, then 10 reps side to side, then switch leg, up to 3 times
+- alternate between strong and weak pressure with 5s intervals on trigger points
+
+#### lower back roller stretches
+
+- place roller under lower lumbar, extending arms and legs out and relaxing
+- alternate with bringing knees to chest with roller still supporting lower lumbar
+- perform 3 sets of 20 seconds of each position without rest - i.e. 2 minutes
+
+#### stretch the functional chain
+
