@@ -115,5 +115,8 @@
 - [tldraw.com](https://tldraw.com)
     * similar to Excalidraw, but with a simpler interface
 
+## Video / Streaming
 
+- [WebRTC for the curious](https://webrtcforthecurious.com/)
+    - book for learning about WebRTC by the implementers
 
