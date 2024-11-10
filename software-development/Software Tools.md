@@ -90,6 +90,8 @@
   - mermaidjs-like web interface specifically for ERDs
 - [litestream.io](https://litestream.io/)
   - continuous backup of SQLite db's
+- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+  - tutorials to learn SQL
 
 #### ETL
 
@@ -119,4 +121,6 @@
 
 - [WebRTC for the curious](https://webrtcforthecurious.com/)
     - book for learning about WebRTC by the implementers
+
+
 
