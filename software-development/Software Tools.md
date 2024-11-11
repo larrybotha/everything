@@ -22,6 +22,8 @@
     * cheat sheets for various tools and languages
 - [Awesome Open Source](https://awesomeopensource.com/)
     * an index of open source tools and services
+- [Build your own x](https://github.com/codecrafters-io/build-your-own-x)
+    * resources for building services such as Git, Redis, SQLite, etc.
 
 ### Security
 
@@ -121,6 +123,7 @@
 
 - [WebRTC for the curious](https://webrtcforthecurious.com/)
     - book for learning about WebRTC by the implementers
+
 
 
 
