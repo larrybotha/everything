@@ -6,3 +6,9 @@ Author: [[ThePrimeagen]]
 	- build Git
 	- write a database
 	- implement the HTTP protocol
+
+## links and resources
+
+- [Build your own x](https://github.com/codecrafters-io/build-your-own-x)
+- [CodeCrafters.io](https://codecrafters.io/)
+

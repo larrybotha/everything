@@ -2,7 +2,7 @@ Author: [[ThePrimeagen]]
 Link: https://youtu.be/_2cbf1ixygk?si=G7TBpsGv2Jo5za48
 Original: https://youtu.be/alAKsj8gKJI?si=eWx5YjJVu2V1vW-J
 
-- Prime lives Zig
+- Prime loves Zig
 	- good for learning low-level concepts
 	- almost as safe as Rust with a fraction of the difficulty to write
 	- people use Zig to compile C because it's easier in Zig than it is in C
@@ -16,3 +16,4 @@ Original: https://youtu.be/alAKsj8gKJI?si=eWx5YjJVu2V1vW-J
 
 - https://sso.teachable.com/secure/1481007/checkout/5340588/build-scalable-web-applications-with-go-htmx-and-templ?coupon_code=33OFF - Go, HTMX, Templ course
 - https://github.com/a-h/templ
+
