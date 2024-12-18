@@ -62,6 +62,8 @@
   * live-reload for Go applications
 - [Stream: Go 10 week backend eng onboarding](https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a)
   - stream.io's engineering onboarding guide
+- [Learning Golang - junior to senior](https://www.bytesizego.com/blog/learning-golang-2024)
+  - resources for learning Go for all levels, and across a variety of skills
 - Golang University
   - [101](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
     - introduces fundamental Go concepts and shows you how to use the Go tools to create and manage Go code
@@ -124,6 +126,7 @@
 
 - [WebRTC for the curious](https://webrtcforthecurious.com/)
     - book for learning about WebRTC by the implementers
+
 
 
 
