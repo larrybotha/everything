@@ -30,3 +30,5 @@ A detailed article covering misinformation and bias in the spreading of media
 ## links and resources
 
 - https://www.allsides.com/media-bias/how-to-spot-types-of-media-bias: How to spot media bias
+- https://www.allsides.com/misinformation
+- https://ordinary-times.com/2015/05/22/misinformation-media-bias-and-worldviews/
