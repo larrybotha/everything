@@ -71,3 +71,32 @@ Author: [[Stephan Schmidt]]
 
 - people have opinions, which may be anywhere on the spectrum of rightness or wrongness
 - be open to opinions, weighing validity and criticisms of the opinion
+
+### talks about expectations
+
+- people don't end up doing what managers expect because many do not express what that is
+- i.e.
+	- how people should work together
+	- what is expected from different roles
+	- expectations of delegated tasks
+	- agreed metrics
+	- expectations when onboarding of new team members
+	- what is expected for team members to be successful
+	- tells superiors what is expected foe their role
+
+### has passion
+
+- do not delegate everything that you are passionate about, otherwise the role will simply become a job
+- people lose passion when they work on too many things that they are not passionate about
+- keep looking for nee things to be passionate about
+
+### sets people up for success
+
+- a common mistake is hiring for or delegating work where the person is set up to fail
+- the primary approach should be "what can I do to prepare this person to succeed?"
+- e.g. do they require
+	- clarity on their role
+	- authority
+	- autonomy
+	- budget
+	- introductions
