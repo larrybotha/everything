@@ -25,6 +25,8 @@
 - [Build your own x](https://github.com/codecrafters-io/build-your-own-x)
     * resources for building services such as Git, Redis, SQLite, etc.
     * see also https://build-your-own.org/
+- [godbolt.org](https://godbolt.org/)
+    * online compiler and evaluator for C, C++, and assembly
 
 ### Security
 
@@ -126,6 +128,8 @@
 
 - [WebRTC for the curious](https://webrtcforthecurious.com/)
     - book for learning about WebRTC by the implementers
+
+
 
 
 
