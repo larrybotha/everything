@@ -11,4 +11,5 @@ Author: [[ThePrimeagen]]
 
 - [Build your own x](https://github.com/codecrafters-io/build-your-own-x)
 - [CodeCrafters.io](https://codecrafters.io/)
+- [Autobahn/websockets](https://github.com/crossbario/autobahn-testsuite)
 
