@@ -1,0 +1,1 @@
+Everything you read in the newspapers is absolutely true except for the rare story of which you happen to have firsthand knowledge
