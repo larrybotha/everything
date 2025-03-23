@@ -26,6 +26,20 @@ Ask the question
 - a theory may be strongly or weakly supported by evidence, strongly or weakly
     contradicted by evidence, or have no correlation with evidence
 
+According to probability theory, **this is the only question that can accurately
+evaluate the strength of evidence**
+
+The degree to which the evidence supports or contradicts the theory is important -
+one should take with a pinch of salt evidence that only mildly supports or
+contradicts a theory, whereas one should pay attention to evidence that strongly
+supports or contradicts a theory
+
+### incorrect phrasings
+
+- How likely is this evidence given that my theory is true?
+    - assumption that the theory is true - no place to consider that the theory
+        is false
+
 ### example
 
 - let's assume we have a sample of 15 people, 5 of which exhibit symptom X
@@ -58,7 +72,22 @@ Ask the question
     1/(20% / 90%) = 4.5 => the test is 4.5 times more likely to produce a true
     negative than a false negative
 - a patient comes in for a screening - we don't know whether they have the symptom
-    or not, but we know this:
+    or not, but based on our existing patients, we expect a 1:2 odds that they
+    have the symptom
+    - the patient is then screened, and the test returns positive for the symptom
+    - this information can now update our expectation:
+        * the test is 8 times more likely to produce a true positive for someone
+            having the symptom
+        * the odds that an untested person has the symptom is 1 in 2, or 50%
+        * (80% / 10%) * (33% / 66^) = 8 * (1/2) = 4 => our expectation should be
+            that it is 4 times more likely that the person _does_ have the
+            symptom as per the test result than being falsely identified
+- similarly, for a patient who has received a negative result:
+    * (20% / 90%) * (33% / 66%) = (2/9) * (1/2) = 1/9 => our original expectation
+        that they are twice as likely _not_ to have the symptom can be updated to
+        being 9 times more likely they _do not_ have the symptom than being
+        falsely identified
+- this process is known as Bayesian inference, or Bayesian updating
 
 ## related
 
@@ -71,5 +100,14 @@ Ask the question
 - https://www.bayesrulesbook.com/
 - https://www.mathsisfun.com/data/bayes-theorem.html
 - https://www2.math.upenn.edu/~mmerling/math107%20docs/practice%20on%20Bayes%20solutions.pdf
+
+
+
+
+
+
+
+
+
 
 
