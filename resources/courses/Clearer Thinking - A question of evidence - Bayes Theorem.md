@@ -48,7 +48,7 @@ supports or contradicts a theory
 	- the probability of the evidence given your theory is true
 	- the probability of the evidence given your theory is false
 - make your best guess for probabilities
-	- guage the relative strength of the evidence - is it strong, moderate, or weak?
+	- gauge the relative strength of the evidence - is it strong, moderate, or weak?
 - adjusting your confidence doesn't necessarily mean changing your mind
 	- a 10% increase in confidence on 5% confidence is still a low confidence
 - consider alternate possibilities
@@ -114,6 +114,7 @@ supports or contradicts a theory
 - https://www.bayesrulesbook.com/
 - https://www.mathsisfun.com/data/bayes-theorem.html
 - https://www2.math.upenn.edu/~mmerling/math107%20docs/practice%20on%20Bayes%20solutions.pdf
+
 
 
 
