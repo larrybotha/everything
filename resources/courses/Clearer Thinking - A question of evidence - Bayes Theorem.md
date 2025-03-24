@@ -36,9 +36,23 @@ supports or contradicts a theory
 
 ### incorrect phrasings
 
+- Is the evidence consistent with my theory?
+	- false dichotomy - evidence contradicts or supports theories across a spectrum
 - How likely is this evidence given that my theory is true?
-    - assumption that the theory is true - no place to consider that the theory
-        is false
+    - assumption that the theory is true - no place to consider that the theory is false
+    - the likelihood of the evidence under alternate hypotheses is not considered
+
+### tips
+
+- think of the question of evidence as a scale
+	- the probability of the evidence given your theory is true
+	- the probability of the evidence given your theory is false
+- make your best guess for probabilities
+	- guage the relative strength of the evidence - is it strong, moderate, or weak?
+- adjusting your confidence doesn't necessarily mean changing your mind
+	- a 10% increase in confidence on 5% confidence is still a low confidence
+- consider alternate possibilities
+	- are there any other possible explanations for the piece of evidence? If so, what are they?
 
 ### example
 
