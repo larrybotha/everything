@@ -8,6 +8,8 @@ Link: https://programs.clearerthinking.org/question_of_evidence.html
 - evidence doesn't confirm theories with absolute certainty
     * evidence only suggests whether a theory is more or less likely to be true
 - it's more accurate to consider the _relative_ strength of evidence
+- evidence that supports a theory should result in one adjusting their view that the theory _is more likely_, not that the theory is necessarily _true_
+	- alternative theories may also be supported be the evidence, and those theories may or may not be true - the likelihood of theories being true is what should be adjusted
 
 ## The question of evidence
 
@@ -34,6 +36,8 @@ one should take with a pinch of salt evidence that only mildly supports or
 contradicts a theory, whereas one should pay attention to evidence that strongly
 supports or contradicts a theory
 
+Additionally, it's important to consider the evidence with respect to the specific theory. Evidence that strongly supports a theory should increase the confidence one has in a theory, but it doesn't necessarily make the theory _true_. There may be other theories that the evidence strongly supports, and those theories may actually be true.
+
 ### incorrect phrasings
 
 - Is the evidence consistent with my theory?
@@ -44,9 +48,10 @@ supports or contradicts a theory
 
 ### tips
 
-- think of the question of evidence as a scale
-	- the probability of the evidence given your theory is true
-	- the probability of the evidence given your theory is false
+- think of the question of evidence as a scale with two sides
+	- the likelihood of the evidence given your theory is true
+	- the likelihood of the evidence given your theory is false
+	- which side of the scale has more weight?
 - make your best guess for probabilities
 	- gauge the relative strength of the evidence - is it strong, moderate, or weak?
 - adjusting your confidence doesn't necessarily mean changing your mind
@@ -114,10 +119,8 @@ supports or contradicts a theory
 - https://www.bayesrulesbook.com/
 - https://www.mathsisfun.com/data/bayes-theorem.html
 - https://www2.math.upenn.edu/~mmerling/math107%20docs/practice%20on%20Bayes%20solutions.pdf
-
-
-
-
+- https://arbital.com/p/bayes_rule/
+- https://www.askamathematician.com/2011/10/q-what-is-bayes-rule-and-how-do-i-use-it-in-daily-life/
 
 
 
