@@ -172,8 +172,9 @@ Personal results:
     the test
 - care more about Secular-Rational intrinsic values than 93% of people who took
     the test
-- compared to the US, my values are liket those of people in Sweden
+- compared to the US, my values are like those of people in Sweden
 
+![[IMG-20250329-WA0007 1.jpg]]
 ## my most important values
 
 1. That we do not destroy the natural environment
@@ -190,4 +191,3 @@ Personal results:
 - https://programs.clearerthinking.org/intrinsic_values_graphic/graphic.html
 - https://www.clearerthinking.org/post/2019/05/23/do-progressives-and-conservatives-hold-opposing-values-let-s-look-at-the-data
 - http://www.worldvaluessurvey.org/wvs.jsp
-
