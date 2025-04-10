@@ -26,3 +26,4 @@ facts or characteristics that must be true in the real world for your offering t
 ## Links and resources
 
 https://personalmba.com/critical-assumptions/
+
