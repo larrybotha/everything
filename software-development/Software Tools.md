@@ -27,6 +27,8 @@
     * see also https://build-your-own.org/
 - [godbolt.org](https://godbolt.org/)
     * online compiler and evaluator for C, C++, and assembly
+- [Advanced search operators list](https://github.com/cipher387/Advanced-search-operators-list)
+    * list of advanced search operators for various OSes, services, applications, etc.
 
 ### Security
 
