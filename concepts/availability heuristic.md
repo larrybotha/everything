@@ -1,0 +1,1 @@
+The tendency to judge the frequency or probability of an event by the ease by which examples of the event come to mind

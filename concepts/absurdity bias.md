@@ -1,0 +1,1 @@
+The tendency to attribute a zero probability to events that have never happened or are not recalled, even when they are calculable
