@@ -32,3 +32,7 @@ Link: https://www.clearerthinking.org/post/how-to-begin-living-more-rationally
 ## links and resources
 
 - [Nuanced thinking techniques exercise on Clearer Thinking](https://programs.clearerthinking.org/nuanced_thinking_techniques.html)
+- https://www.clearerthinking.org/post/the-list-of-common-cognitive-bias-with-examples
+- https://programs.clearerthinking.org/rhetorical_fallacies.html
+- https://programs.clearerthinking.org/challenge_your_deepest_beliefs.html
+- https://outsmartingimplicitbias.org/module/can-you-guess-the-rule/
