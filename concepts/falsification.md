@@ -1,0 +1,1 @@
+Seeking evidence against a theory, as opposed to seeking evidence that supports it

@@ -79,3 +79,13 @@ Author: Eliezer Yudkowsky
 
 ### planning fallacy
 
+- in a study of the [[planning fallacy]], only 45% of participants were able to complete their projects in the time they said they were 99% confident they would have completed it in
+- predictions from people where they are asked for "realistic best guesses" vs "hopeful best case" are indistinguishable
+- people fail to consider unforeseen delays or unexpected catastrophies when asked about realistic outcomes
+- reality tends to deliver results worse than the worst case
+- the more detailed a plan becomes, the more optimistic, and the less accurate predictions become
+- experienced outsiders, who have less information about the details, but more memory to draw from, tend to be less optimistic and more accurate than planners and implementers
+
+### illusion of transparency: why no one understands you
+
+- 
