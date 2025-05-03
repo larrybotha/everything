@@ -1,0 +1,1 @@
+The tendency to divide the world into fixed "either-or" categories

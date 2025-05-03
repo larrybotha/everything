@@ -14,9 +14,9 @@ Link: https://www.clearerthinking.org/post/how-to-begin-living-more-rationally
 - nuanced thinking
 	- rejecting false dichotomies
 	- various types of dichotomies:
-		- truth binary - things are either true or false
-		- goodness binary - things are either good or bad
-		- identification binary - the rigid placement of things into categories
+		- [[truth binary]] - things are either true or false
+		- [[goodness binary]] - things are either good or bad
+		- [[identification binary]] - the rigid placement of things into categories
 	- notice false dichotomies, and attempt to determine where nuanced alternatives may have been overlooked
 - falsification
 	- seeking to disprove one's beliefs, instead of reinforce them

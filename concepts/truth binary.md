@@ -1,0 +1,1 @@
+A false dichotomy where one has absolute certainty in whether something is true or not
