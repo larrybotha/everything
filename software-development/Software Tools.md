@@ -120,6 +120,8 @@
   - resource for running OSS LLMs locally
 - [Hugging Face](https://huggingface.co)
   - OSS for computation tools used to building applications using machine learning
+- [Future Tools](https://www.futuretools.io)
+  - a list of AI-related tools
 
 ## Drawing
 
@@ -130,6 +132,7 @@
 
 - [WebRTC for the curious](https://webrtcforthecurious.com/)
     - book for learning about WebRTC by the implementers
+
 
 
 
