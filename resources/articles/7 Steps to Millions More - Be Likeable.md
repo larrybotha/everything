@@ -1,3 +1,8 @@
+---
+tags:
+  - resource/article
+---
+
 Link: https://esimoney.com/7-steps-to-millions-more-be-likeable/
 
 ## takeaways
