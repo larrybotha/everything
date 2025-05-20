@@ -4,7 +4,7 @@ tags:
 ---
 Link: https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-020-00289-0
 
-## taekaways
+## takeaways
 
 ![[17477083695223592300030378295744.jpg]]
 
