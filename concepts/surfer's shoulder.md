@@ -1,0 +1,1 @@
+A common injury that surfers experience, related to an imbalance in the use of internal and external rotator cuffs
