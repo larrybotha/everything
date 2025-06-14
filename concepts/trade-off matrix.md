@@ -1,0 +1,1 @@
+In business analysis, a table that shows trade-offs, particularly useful when evaluating [[non-functional requirements]]
