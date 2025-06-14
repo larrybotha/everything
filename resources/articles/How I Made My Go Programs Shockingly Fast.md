@@ -32,7 +32,7 @@ Link: https://archive.is/43FoV
 - use `pprof` to profile Go code:
 
     ```go
-        import _ "net/http/pprof"
+    import _ "net/http/pprof"
     import "net/http"
 
     func main() {
@@ -54,4 +54,5 @@ Link: https://archive.is/43FoV
     strings
 - `defer` has overhead - if you looping over a ton of items, such as
     opening files, it can improve performance to call `f.Close`
+
 
