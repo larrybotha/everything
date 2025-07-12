@@ -77,3 +77,101 @@ Author: [[Sarah Drasner]]
 - values need to be identified and protected
 - misalignment leads to burnout, and it happens incrementally
 - living incongruently with your values is unsustainable; the same applies if your team is expected to operate incongruently with the team's values or their own
+- one needs to pay attention:
+	- one's own values and inconsistencies with work
+	- make sure on a daily basis not to violate the values of team members
+- when conducting team values exercises:
+	- take notes for yourself about what team members identify as important for themselves
+	- when they set bundaries, attempt to identify the underlying value driving the boundary
+	- find values that overlap, intersect, or have gaps
+- values exercises are importanrt for:
+	- feedback
+	- managing conflicts
+	- 1:1s
+	- prioritisation
+- good managers care for and appreciate people's values, and respect boundaries
+
+## ch 3
+
+### our jobs as managers
+
+- a manager's job is to enable the people around you to do the best work together
+	- meet people where they are, support them, nurture their development
+	- consider the people adjacent to your team, and those adjacent to them
+	- people are ideally operating in the intersection of what they're good at, enjoy, and what is good for the company
+
+### trust and vulnerability
+
+- mission-driven and high trust teams have the lowest number of outages and highest performance
+- required for:
+	- debating approaches openly
+	- acknowledging and being accountable for mistakes
+	- freedom to be creative
+	- job happiness
+
+### modeling vulnerability
+
+- lead by example - it's easier for others to trust and show vulnerability if it comes from higher up first
+	- admit when you're having a bad day, own up to mistakes, acknowledge not knowing something
+### individual trust
+
+- when you force yourself out of small talk and into subjects that matter to you, people tend to build trust faster
+	- from a study by Matthias R. Mehl, et al., titled “Eavesdropping on Happiness: Well-Being is Related to Having Less Small Talk and More Substantive Conversations"
+- humour is a good way to build trust and allow for mutual vulnerability
+- someone who has been mistreated on teams previously may have greater trust issues
+	- you may need to show vulnerability first to help them open up
+	- find out what's important to them - their values
+	- watch their interactions with others on the team
+	- if issues arise, try to adjust processes around the team, rather than imposing them when trust is still being built
+		- overworked, working on stuff that's not meaningful, lacking clarity on what needs to be done - alleviate these issues for them
+- show that you can be trusted by taking action, rather than trying to convince through words
+- think of what the person enjoys doing and what is beneficial to the companies as a venn diagram, where most of the effort should lie in the intersection
+- as a manager, building trust needs to matter 
+	- understanding values and boundaries is always the first step
+		- where are they coming from?
+		- what can be done to support their boundaries?
+		- does the team support their values, or is there misalignment?
+
+### team trust
+
+- a trusting team has the following qualities:
+	- easily bring up issues directly with each other
+	- easily share personal details with each other, e.g. having a bad day
+	- can debate with each other to find good outcomes
+	- flexible with each others needs
+- a more positive environment can be created by nudging team members to bring up issues in team meetings or in 1:1s with each other rather than with you directly
+
+### weekly team time
+
+- it's a mistake for managers not to meet with teams
+- teams need to meet regularly to:
+	- talk through work
+	- discuss issues
+	- just hang out
+- in a study on living in apartments, proximity was shown to be a critical component of building trust
+	- Social Pressures in Informal Groups: A Study of Human Factors in Housing by authors Festinger, Schachter, and Back
+
+### building trust across the team
+
+- team members may want to build trust with you, but not the team - this may feel good, but the goal is for everyone to build trust together
+- issues between team members should be brought into the open in a safe environment with the goal of the team being able to build trust together
+- recommendations for team meetings:
+	- recommended 2 meetings per week
+		- potentially one for talking through issues, and another for triage
+	- let people chat
+	- teams that joke are often better at admitting mistakes and disagreeing without taking offence
+
+### team-only spaces
+
+- people need to be able to speak amongst each other without being forced to talk out in the open
+- without this freedom, the most shy people can become silent, resulting in the team losing critical input
+- dedicated spaces for teams to chat without input from people in other teams is critical for team members not to feel like they're being watched by the entire organisation
+- for a new private chat space, be the one sharing memes, wins, and well-wishes to encourage others to feel comfortable to do so
+
+## ch 4
+
+
+## links and resources
+
+- [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate)
+	- recommended in ch3 for research into how the teams with the least outages are those with the highest levels of trust
