@@ -170,8 +170,21 @@ Author: [[Sarah Drasner]]
 
 ## ch 4
 
+### your team is 'we', not 'them'
+
+- when giving credit for work, exclude yourself, when taking responsibility for failures, exclude everyone else and take full responsibility
+
+### the wider organisation
+
+- your team is part of a system - it is not an entity in isolation
+- as within a team, groups must collaborate in order to meet the company's goals together
+- Patrick Lencioni’s book "The Advantage" describes this
+
+
 
 ## links and resources
 
 - [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate)
 	- recommended in ch3 for research into how the teams with the least outages are those with the highest levels of trust
+- [The Advantage](https://www.goodreads.com/book/show/12975375-the-advantage)
+	- mentioned in ch4 on how organisational health is more important than smarts in building successful companies
