@@ -180,7 +180,69 @@ Author: [[Sarah Drasner]]
 - as within a team, groups must collaborate in order to meet the company's goals together
 - Patrick Lencioni’s book "The Advantage" describes this
 
+### Yes, the Leadership Team as
 
+- the leadership team is also a team, should be treated as your team, and how you speak about them is important
+- when talking about leadership decisions, always refer to the decisions as though you're part of that team
+	- teams need balance and clarity, and alignment with those senior to them is critical
+- demonising other teams is ultimately unhealthy for the organisation
+- decisions that violate your core values, however, are an exception. If this happens frequently, it may be time to find work elsewhere
+- pressure from leadership should be translated motivationally, with the intent to collaborate both within and outside the team to meet the objectives
+
+## ch5
+
+### happiness and drive
+
+- the culture and morale of your team is a large part of your responsibility
+
+### flow and purpose
+
+- being in flow changes one's perception of frustrating tasks, allowing them to push through more easily than when not in a flow state
+- the following conditions need to be met in order to create an environment where flow can be achieved:
+	- there is alignment on the work
+	- the work is challenging, but not impossible
+	- the team feels they're building something towards a common goal - that they have each others backs
+	- team members feel respected
+	- there is timely and fair feedback, both from humans, and in DX - i.e. compilation success, tests, PRs, etc.
+	- fair pay, bonuses, and promotions for hard work
+	- caring more for continuous improvement than ego
+	- people believe in the team members and what they're working on
+- celebrate team members when they do well, as soon as possible
+
+### achievements and rewards
+- intrinsic vs extrinsic motivation - are team members intrinsically motivated to produce good work
+- intrinsic motivation is only achievable and maintainable if the person is being fairly compensated
+- those motivated by intrinsic rewards have been found to be more productive, according to the book "Drive"
+- part of a manager's job is ensuring team members' basic needs are met via fair compensation, requiring one to work with HR or stakeholders who have influence over payroll
+
+#### social connection
+
+- team members who are socially connected to each other:
+	- feel that work feels less like work
+	- are less affected by stress
+	- are happier
+- it's important to encourage bonds between team mates
+- if there are signs that trust in the team is lacking, then work must be done to improve trust
+	- have members do a short 5-minute presentation on something that interests them, non-work related
+	- escape room, or some kind of game
+	- eat the same food together - if remote, schedule food to be delivered at the same time
+	- have everyone talk about something personal
+		- what they wanted to be growing up
+		- greatest challenges growing up
+		- what superpower did they wish for
+		- etc.
+
+#### peer and mob programming
+
+- can be useful for team building, but detrimental if done wrong
+- person with the most knowledge has to remain patient
+	- good candidates to lead are those who derive value from supporting others, not boosting their own self-esteem
+- useful exercise for thinking through a 0-1 project, i.e. something that has no implementation
+	- good for architectural choices
+	- good for code review as team has a mutual understanding
+- helps remote teams feel connected - people get to do hard thinking together, which builds connection
+
+#### negative bias
 
 ## links and resources
 
@@ -188,3 +250,5 @@ Author: [[Sarah Drasner]]
 	- recommended in ch3 for research into how the teams with the least outages are those with the highest levels of trust
 - [The Advantage](https://www.goodreads.com/book/show/12975375-the-advantage)
 	- mentioned in ch4 on how organisational health is more important than smarts in building successful companies
+- [Drive](https://www.goodreads.com/book/show/6452796-drive) and [The Happiness Advantage](https://www.goodreads.com/book/show/9484114-the-happiness-advantage)
+	- mentioned in ch5 about how teams with a sense of humour are generally more productive
