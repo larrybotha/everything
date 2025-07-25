@@ -244,6 +244,19 @@ Author: [[Sarah Drasner]]
 
 #### negative bias
 
+- people have a tendency for a negative bias, which served us well for survival
+- negative bias makes one tend to perceive a greater threat than their usually is
+- positive emotions have a countering effect to negative emotions, so it can take work reframe the tendency towards the negative
+- some techniques to respond to knee-jerk negative reactions:
+	- check the facts - a circumstance may elicit a negative reaction, but evaluating the facts can provide a more balanced view of the circumstances
+	- actively seek the positive - one generally positive team member has a measurable impact on a team's productivity
+	- reject negativity - as a manager you may sometimes need to flat-out reject negative viewpoints
+	- review negative consequences - are the outcomes of an action really as bad as perceived?
+	- step away - if volatile people are stuck in a bad loop, let everyone step away to cool down and do a 1:1 with the volatile person
+- people who generally think more positively, or deliberately think about happy times before stressful tasks outperform those with neutral or negative outlooks for the same tasks
+- good culture and team morale are critical for a healthy team to work well together
+- 
+
 ## links and resources
 
 - [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate)

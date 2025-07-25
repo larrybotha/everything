@@ -135,7 +135,10 @@
 - [WebRTC for the curious](https://webrtcforthecurious.com/)
     - book for learning about WebRTC by the implementers
 
+## UX
 
+- [106 cognitive biases & principles](https://growth.design/psychology#super-thinking)
+	- list of cognitive biases, explanations, case studies, and how they pertain to UX
 
 
 
