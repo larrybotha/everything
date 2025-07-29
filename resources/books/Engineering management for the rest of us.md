@@ -255,7 +255,14 @@ Author: [[Sarah Drasner]]
 	- step away - if volatile people are stuck in a bad loop, let everyone step away to cool down and do a 1:1 with the volatile person
 - people who generally think more positively, or deliberately think about happy times before stressful tasks outperform those with neutral or negative outlooks for the same tasks
 - good culture and team morale are critical for a healthy team to work well together
-- 
+
+## ch6
+
+- team members are never more demoralised as when they're unsure where their careers are headed, or if their title or compensation is fair
+- team members need to know their work is valued, and that they have direction
+
+### doing everything yourself does not help
+- team members need to be given the skills for them to develop their own careers, whether its teaching them to advocate for themselves, or helping them develop
 
 ## links and resources
 
