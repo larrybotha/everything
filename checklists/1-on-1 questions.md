@@ -1,0 +1,26 @@
+From [[Amazing CTO]]
+
+- How’s life (+)
+- How do you feel?
+- What are you worried about right now?
+- Is there anything I need to address to the team? 
+- What are your biggest time wasters? (+) 
+- Do you need more or less guidance from me? 
+- What is the most important thing to talk about? 
+- How can I support you better?
+- Is there something we are missing? (+)
+- How can I help you grow?
+- How do you see your career?
+- Does our strategy make sense? (+)
+- Does our vision make sense? (+)
+- What would you do if you would be me? (+) 
+- Is there something that frustrates you? (+) 
+- Did you learn something new lately? (+) 
+- Do you know what is expected of you? (+) 
+- Do you have the materials and equipment you need to do your work right?
+- Do you think your opinions count
+- What do you think about …?
+- What do you want to do next?
+- What do you want to learn?
+- Do you feel everyone is committed to doing quality work?
+- Did you have opportunities to learn and grow recently?
