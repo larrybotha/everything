@@ -119,11 +119,14 @@
 ## AI / ML
 
 - [LM Studio](https://lmstudio.ai/)
-  - resource for running OSS LLMs locally
+	- resource for running OSS LLMs locally
 - [Hugging Face](https://huggingface.co)
-  - OSS for computation tools used to building applications using machine learning
+	- OSS for computation tools used to building applications using machine learning
 - [Future Tools](https://www.futuretools.io)
-  - a list of AI-related tools
+	- a list of AI-related tools
+  - [LiveBench](https://livebench.ai/#/)
+	  - benchmarks for LLMs
+	  - see https://www.oreilly.com/radar/llm-system-design-and-model-selection/ on model selection
 
 ## Drawing
 
