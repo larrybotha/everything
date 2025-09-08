@@ -1,4 +1,3 @@
-# NVC Practice Roles for Different LLMs
 
 ## The NVC Coach
 **Best for:** Foundation learning, feedback, and guidance

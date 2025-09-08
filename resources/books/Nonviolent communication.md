@@ -76,3 +76,49 @@ The other part of this communication is receiving these 4 things from the other,
 	- e.g. he's a terrible goalie, vs he's conceded many goals this season
 - using verbs and adjectives in ways that do not indicate an evaluation was made
 	- e.g. Sam is unattractive, vs I am not attracted to Sam
+
+## identifying and expressing feelings
+
+### the heavy cost of unexpressed feelings
+
+- silence can indicate fear or anxiety
+- breaking silence by expressing the associated feeling helps open up communication
+- criticisms of others are often self-fulfilling - telling someone it's like speaking to a wall is likely to elicit more silence; the person being criticised is likely going to feel hurt and discouraged
+- expressing vulnerability can help resolve conflicts
+
+### feelings vs non-feelings
+
+- if "I feel" can be replaced with "I think", then a thought is being expressed, not a feeling
+- Words such as 'that', 'like', as 'if': 
+	- “I feel that you should know better.”
+	- “I feel like a failure.”
+	- “I feel as if I’m living with a wall.”
+- The pronouns I, you, he, she, they, it: 
+	- “I feel I am constantly on call.”
+	- “I feel it is useless.”
+- Names or nouns referring to people: 
+	- “I feel Amy has been pretty responsible.”
+	- “I feel my boss is being manipulative.”
+- feelings can be expressed without using the word 'feel'
+	- e.g. "I'm annoyed"
+- we need to distinguish between feelings and what we think we are
+	- "I feel like I'm not a good musician" vs "I feel disappointed in my skills as a musician"
+- words like 'ignored', 'cornered', 'trapped' are interpretations of others actions
+	- we feel 'hurt' or 'angry' when ignored
+	- we feel 'anxious' or 'fearful' when cornered
+	- we feel 'powerless' when we are trapped
+
+### building a vocabulary for feelings
+
+- 'good' or 'bad' to describe how one feels is vague and ambiguous, and prevent the listener from connecting
+- different feelings are evoked depending on whether our needs are being met or not
+
+## taking responsibility for our feelings
+
+![[People are disturbed not by things, but by the...]]
+
+
+
+## related
+
+- [[NVC LLM learning plan]]
