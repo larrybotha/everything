@@ -117,8 +117,26 @@ The other part of this communication is receiving these 4 things from the other,
 
 ![[People are disturbed not by things, but by the...]]
 
+### hearing a negative message: 4 options
 
+- what others say and do is the stimulus, but not the cause of our feelings
+- our feelings come from how we choose to receive what others say and do, in addition to our needs
+- there are 4 ways we can respond:
+	- take it personally by hearing blame and criticism
+		- choosing this option and taking the blame comes at a cost to self-esteem, inclining one towards guilt, shame, and depression
+	- blame others
+		- a defensive or accusatory response is often accompanied by feeling anger
+	- sense our own feelings or needs
+		- when receiving a negative message, one may be inclined to reveal how the message makes one feel, and how it is associated to one's own needs
+	- sense other's feelings or needs
+		- shining a light on the other person's needs by asking if they are feeling emotion X because of need Y
+- accept responsibility for one's own feelings, rather than blaming others
+	- e.g. "You disappointed me when X," as opposed to, "I was disappointed when X, because I wanted to Y and Z"
+- one can deepen their own sense of responsibility by making a habit of using the pattern "I feel [ some emotion ] when [ X happens ] because [ some need is not met ]"
+- the mechanism of 'motivation by guilt' is to make the other person responsible for ones own emotions
+	- complying here is an avoidance of guilt, not an act of the heart
 
+### the needs at the root of feelings
 ## related
 
 - [[NVC LLM learning plan]]
