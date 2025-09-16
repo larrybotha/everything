@@ -26,7 +26,49 @@ the ability to deliver quality software at high tempo with stability is a key va
 
 ## capabilities to drive improvement
 
-- 
+- **continuous delivery**
+	- use version control for all production assets
+	- automate your deployment process
+	- implement continuous integration
+		- check-in code regularly
+		- check-ins trigger tests
+		- deployable artifacts are created
+	- use trunk-based development methods
+		- branches have short lifetimes, usually less than a day
+		- no code locks
+	- implement test automation
+		- tests are run automatically throughout the development process
+	- support test data management
+	- shift left on security
+		- conduct security reviews of changes
+		- include infosec team in design
+		- use pre-approved security libs and packages
+		- automated testing of security features
+	- implement continuous delivery
+		- production artifacts are deployable at any time
+- **architecture capabilities**
+	- use a loosely coupled architecture
+		- i.e. teams can deploy and test applications without orchestration from other services
+		- teams can work independently without relying on other teams
+	- architect for empowered teams
+		- allow teams to choose their own tools
+- **product and process capabilities**
+	- gather and implement user feedback
+	- make the flow of work visible through the value stream
+		- teams should be able to understand and see the flow of work from the business to the users, including status of products and features
+	- work in small batches
+		- short lead times and fast feedback loops
+	- foster and enable team experimentation
+- **lean management and monitoring capabilities**
+	- a lightweight change approval process
+		- at least one of pair programming or internal code review
+	- monitor across application and infrastructure to inform business decisions
+	- check system health proactively
+	- improve processes and manage work with WIP limits
+	- visualise work to monitor quality and communicate through the team
+		- dashboards, internal websites, etc. improve software delivery performance
+- **cultural capabilities**
+	- support a generative culture
 ## links and resources
 
 - [High-performance team, management, and leadership behaviours and practices](https://itrevolution.com/wp-content/uploads/2022/06/transformation_practices.pdf)
