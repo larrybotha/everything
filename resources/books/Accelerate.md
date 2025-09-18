@@ -24,7 +24,10 @@
 
 the ability to deliver quality software at high tempo with stability is a key value driver and differentiator for all organizations, regardless of size or industry vertical
 
-## capabilities to drive improvement
+## Appendix A
+### capabilities to drive improvement
+
+![[page238 (1).jpg]]
 
 - **continuous delivery**
 	- use version control for all production assets
@@ -69,7 +72,41 @@ the ability to deliver quality software at high tempo with stability is a key va
 		- dashboards, internal websites, etc. improve software delivery performance
 - **cultural capabilities**
 	- support a generative culture
+		- good information flow
+		- high cooperation and trust
+		- bridging between teams
+		- conscious inquiry
+	- encourage and support learning
+		- is learning considered essential for continued progress?
+		- is learning thought of as a cost or investment?
+	- support and facilitate collaboration amongst teams
+		- how well do dev, ops, and infosec interact?
+	- provide resources and tools that make work meaningful
+		- doing work that is challenging and meaningful
+		- being empowered to exercise your skills and judgement
+		- being given the resources to do your job well
+	- support or embody transformational leadership
+		- support and amplify technical and process work that is essential for devops
+		- five factors to embody:
+			- vision
+			- intellectual stimulation
+			- inspirational communication
+			- supportive leadership
+			- personal recognition
+## appendix B
+
+### organisational performance
+
+- high performers are 2x more likely to exceed organisational goals than are low performers
+- high performers are 2x more likely to exceed non-commercial performance goals than are low performers: 
+	- quantity and quality of products/services
+	- operating efficiency
+	- customer satisfaction
+	- achieving org goals/mission
+
+
 ## links and resources
 
 - [High-performance team, management, and leadership behaviours and practices](https://itrevolution.com/wp-content/uploads/2022/06/transformation_practices.pdf)
+
 
