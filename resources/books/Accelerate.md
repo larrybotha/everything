@@ -104,7 +104,99 @@ the ability to deliver quality software at high tempo with stability is a key va
 	- customer satisfaction
 	- achieving org goals/mission
 
+### software delivery performance
 
+- there are 4 measures:
+	- deploy frequency
+		- highly correlated with continuous delivery and comprehensive use f version control
+	- lead time
+		- highly correlates with version control and automated testing
+	- mean time to restore
+		- highly correlated with version control and monitoring
+	- change fail percentage
+- there are no trade-offs between improving performance and achieving higher levels of tempo and and stability
+- software delivery performance predicts organisational performance and non-commercial performance
+- software delivery performance is negatively correlated with deployment pain. The poorer deployments are, the poorer the delivery performance and the culture
+
+### quality
+
+- unplanned work and rework
+	- high performers report spending the least amount of time compared to medium and low performers doing this work
+- manual work
+	- high performers report the lowest amount of manual work across config management, testing, deployments, and change approval
+
+### burnout and deployment pain
+
+- deployment pain is negatively correlated with delivery performance and Westrum organisational culture
+- the five factors most highly correlated with burnout are 
+	- Westrum organizational culture (negative)
+	- leaders (negative)
+	- organisational investment (negative)
+	- organisational performance (negative)
+	- deployment pain (positive)
+
+### technical capabilities
+
+- i.e. test automation, deployment automation, trunk-based development, shift left on security, loosely coupled architecture, empowered teams, continuous integration
+- trunk-based development
+	- short-lived branches, usually a few hours or a day
+- high performers spend 50% less time on resolving security issues than do low performers
+
+### architecture capabilities
+
+- on teams who deploy at least once per day, high performers deploy at significantly increased velocity as their team grows
+- high-performing teams were more likely to respond positively to the following statements:
+	- we can do most of our testing without requiring an integrated environment
+	- we can and do deploy/release our applications independently of other applications/services they depend on
+	- it is custom software that uses a microservices architecture
+
+### lean management capabilities
+
+- lean management capabilities predict 
+	- Westrum organizational culture
+	- job satisfaction
+	- software delivery performance
+	- less burnout
+- Change approvals
+	- approval only for high-risk changes was not correlated with software delivery performance
+	- no approval process or peer review achieve higher software delivery performance
+	- a lightweight change approval process predicts software delivery performance
+
+### lean product management capabilities
+
+- i.e. working in small batches, team experimentation, gathering and implementing customer feedback
+- an experimental approach to product development is highly correlated with the technical practices that contribute to continuous delivery
+
+### organisational culture capabilities
+
+- the following are strongly correlated with culture
+	- organizational investment in DevOps
+	- the experience and effectiveness of team leaders
+	- continuous delivery capabilities
+	- the ability of development, operations, and infosec teams to achieve win-win outcomes
+	- organizational performance
+	- deployment pain
+	- lean management practices
+
+### identity, employee net promoter score, and job satisfaction
+
+- identity predicts organisational performance
+- high performers have better employee loyalty
+- eNPS is significantly correlated with: 
+	- the extent that user feedback is gathered and used to inform product decisions
+	- the ability for team members to visualise and understand the flow of products and features through development all the way to customers
+	- the extent to which employees identify with the organisation's values
+- job satisfaction predicts organisational performance
+
+### leadership
+
+- high performing teams report having leaders with the strongest behaviours across these dimensions:
+	- vision
+	- inspirational communication
+	- intellectual stimulation
+	- supportive leadership
+	- personal recognition
+- characteristics of transformational leadership are highly correlated with software delivery performance
 ## links and resources
 
 - [High-performance team, management, and leadership behaviours and practices](https://itrevolution.com/wp-content/uploads/2022/06/transformation_practices.pdf)
