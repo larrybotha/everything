@@ -137,6 +137,38 @@ The other part of this communication is receiving these 4 things from the other,
 	- complying here is an avoidance of guilt, not an act of the heart
 
 ### the needs at the root of feelings
+
+- judgments, criticisms, diagnoses, and interpretations of others are all alienated expressions of our needs
+- expressing one's needs via judgements often leads to the other interpreting it criticism
+- criticism leads to defense or attack in order to protect one's self
+- expressing one's needs is more effective in having them met than is passing judgement on another
+
+### the pain of expressing our needs vs the pain of not expressing our needs
+
+- if we don't value our needs, others are unlikely to, too
+
+### from emotional slavery to emotional liberation
+
+- in developing emotional liberation many of us go through 3 stages
+	- emotional slavery, where we feel responsible for others' feelings
+	- the obnoxious stage, where we feel angry, and no longer want to be responsible for others' feelings
+	- emotional liberation; taking responsibility of both our intentions and actions
+- at the 3rd stage is awareness that we cannot meet our own needs at the expense of others - stating clearly what we need communicates we are equally concerned that the needs of others' are fulfilled
+
+### summary
+
+- we have four options as to how to receive the message: 
+	- blame ourselves
+	- blame others
+	- sense our own feelings and needs
+	- sense the feelings and needs hidden in the other person’s negative message
+- we generally move through stages in becoming emotionally liberated
+	- emotional slavery
+		- taking responsibility for others feelings
+	- obnoxious
+		- refusing to acknowledge what others feel or need
+	- liberation
+		- accepting responsibility for our own feelings, but not of others, while acknowledging that we cannot meet our own needs at the expense of others
 ## related
 
 - [[NVC LLM learning plan]]
