@@ -30,7 +30,7 @@
 - [Advanced search operators list](https://github.com/cipher387/Advanced-search-operators-list)
     * list of advanced search operators for various OSes, services, applications, etc.
 * [System Design Handbook](https://www.systemdesignhandbook.com/)
-	* https://www.educative.io/courses/grokking-the-system-design-interview
+    * https://www.educative.io/courses/grokking-the-system-design-interview
 
 ### Security
 
@@ -103,6 +103,8 @@
   - continuous backup of SQLite db's
 - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
   - tutorials to learn SQL
+- [Use the index, Luke](https://use-the-index-luke.com/)
+  -  a guide to using indexes in SQL
 
 #### ETL
 
@@ -119,14 +121,14 @@
 ## AI / ML
 
 - [LM Studio](https://lmstudio.ai/)
-	- resource for running OSS LLMs locally
+    - resource for running OSS LLMs locally
 - [Hugging Face](https://huggingface.co)
-	- OSS for computation tools used to building applications using machine learning
+    - OSS for computation tools used to building applications using machine learning
 - [Future Tools](https://www.futuretools.io)
-	- a list of AI-related tools
+    - a list of AI-related tools
   - [LiveBench](https://livebench.ai/#/)
-	  - benchmarks for LLMs
-	  - see https://www.oreilly.com/radar/llm-system-design-and-model-selection/ on model selection
+      - benchmarks for LLMs
+      - see https://www.oreilly.com/radar/llm-system-design-and-model-selection/ on model selection
 
 ## Drawing
 
@@ -141,7 +143,12 @@
 ## UX
 
 - [106 cognitive biases & principles](https://growth.design/psychology#super-thinking)
-	- list of cognitive biases, explanations, case studies, and how they pertain to UX
+    - list of cognitive biases, explanations, case studies, and how they pertain to UX
+
+
+
+
+
 
 
 
