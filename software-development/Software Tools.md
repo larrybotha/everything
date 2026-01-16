@@ -130,6 +130,10 @@
   - [LiveBench](https://livebench.ai/#/)
     - benchmarks for LLMs
     - see https://www.oreilly.com/radar/llm-system-design-and-model-selection/ on model selection
+- [The 5 Techniques Separating Top Agentic Engineers Right Now](https://www.youtube.com/watch?v=ttdWPDmBN_4)
+  - example repo: https://github.com/coleam00/habit-tracker
+- [Exactly How Senior Backend Engineers Use AI to 3x Their Impact](https://www.youtube.com/watch?v=RivViRdBlII)
+  - agents and commands: https://github.com/Hodik/ai-setup
 
 ## Drawing
 
