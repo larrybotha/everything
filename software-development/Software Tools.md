@@ -17,20 +17,21 @@
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/)
   - guides for implementing accessible UI patterns
 - [Instruments](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
-  * article by [[Thorsten Ball]] on using an XCode tool for profiling locally running processes
+  - article by [[Thorsten Ball]] on using an XCode tool for profiling locally running processes
 - [Cheatography](https://cheatography.com)
-    * cheat sheets for various tools and languages
+  - cheat sheets for various tools and languages
 - [Awesome Open Source](https://awesomeopensource.com/)
-    * an index of open source tools and services
+  - an index of open source tools and services
 - [Build your own x](https://github.com/codecrafters-io/build-your-own-x)
-    * resources for building services such as Git, Redis, SQLite, etc.
-    * see also https://build-your-own.org/
+  - resources for building services such as Git, Redis, SQLite, etc.
+  - see also https://build-your-own.org/
 - [godbolt.org](https://godbolt.org/)
-    * online compiler and evaluator for C, C++, and assembly
+  - online compiler and evaluator for C, C++, and assembly
 - [Advanced search operators list](https://github.com/cipher387/Advanced-search-operators-list)
-    * list of advanced search operators for various OSes, services, applications, etc.
+  - list of advanced search operators for various OSes, services, applications, etc.
+
 * [System Design Handbook](https://www.systemdesignhandbook.com/)
-    * https://www.educative.io/courses/grokking-the-system-design-interview
+  - https://www.educative.io/courses/grokking-the-system-design-interview
 
 ### Security
 
@@ -39,10 +40,10 @@
 ### Testing
 
 - [Testcontainers](https://testcontainers.com/getting-started/)
-  * library for making it easy to bootstrap development and test dependencies
-      with real services wrapped in Docker containers - e.g. bootstrapping a test
-      database to run concurrently with a dev database
-  * see https://www.youtube.com/watch?v=sNg0bnMF_qY
+  - library for making it easy to bootstrap development and test dependencies
+    with real services wrapped in Docker containers - e.g. bootstrapping a test
+    database to run concurrently with a dev database
+  - see https://www.youtube.com/watch?v=sNg0bnMF_qY
 
 ### Rust
 
@@ -63,9 +64,9 @@
 ### Golang
 
 - [List of recommended libraries](https://threedots.tech/post/list-of-recommended-libraries/)
-  * list of libraries recommended by experienced Go developers
+  - list of libraries recommended by experienced Go developers
 - [air](https://github.com/cosmtrek/air)
-  * live-reload for Go applications
+  - live-reload for Go applications
 - [Stream: Go 10 week backend eng onboarding](https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a)
   - stream.io's engineering onboarding guide
 - [Learning Golang - junior to senior](https://www.bytesizego.com/blog/learning-golang-2024)
@@ -76,7 +77,7 @@
   - [201](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_5m_JaMXmGEFgduH8EsuTs)
     - steps it up a notch, explaining important techniques like testing, web services, and APIs
   - [301](https://www.youtube.com/playlist?list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf)
-    * dives into more advanced topics like the Go scheduler, implementation of maps and channels, and optimisation techniques
+    - dives into more advanced topics like the Go scheduler, implementation of maps and channels, and optimisation techniques
 
 ### HTML
 
@@ -104,7 +105,7 @@
 - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
   - tutorials to learn SQL
 - [Use the index, Luke](https://use-the-index-luke.com/)
-  -  a guide to using indexes in SQL
+  - a guide to using indexes in SQL
 
 #### ETL
 
@@ -121,38 +122,26 @@
 ## AI / ML
 
 - [LM Studio](https://lmstudio.ai/)
-    - resource for running OSS LLMs locally
+  - resource for running OSS LLMs locally
 - [Hugging Face](https://huggingface.co)
-    - OSS for computation tools used to building applications using machine learning
+  - OSS for computation tools used to building applications using machine learning
 - [Future Tools](https://www.futuretools.io)
-    - a list of AI-related tools
+  - a list of AI-related tools
   - [LiveBench](https://livebench.ai/#/)
-      - benchmarks for LLMs
-      - see https://www.oreilly.com/radar/llm-system-design-and-model-selection/ on model selection
+    - benchmarks for LLMs
+    - see https://www.oreilly.com/radar/llm-system-design-and-model-selection/ on model selection
 
 ## Drawing
 
 - [tldraw.com](https://tldraw.com)
-    * similar to Excalidraw, but with a simpler interface
+  - similar to Excalidraw, but with a simpler interface
 
 ## Video / Streaming
 
 - [WebRTC for the curious](https://webrtcforthecurious.com/)
-    - book for learning about WebRTC by the implementers
+  - book for learning about WebRTC by the implementers
 
 ## UX
 
 - [106 cognitive biases & principles](https://growth.design/psychology#super-thinking)
-    - list of cognitive biases, explanations, case studies, and how they pertain to UX
-
-
-
-
-
-
-
-
-
-
-
-
+  - list of cognitive biases, explanations, case studies, and how they pertain to UX
