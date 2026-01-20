@@ -149,3 +149,8 @@
 
 - [106 cognitive biases & principles](https://growth.design/psychology#super-thinking)
   - list of cognitive biases, explanations, case studies, and how they pertain to UX
+
+### Interviews
+
+- [Pramp](https://www.pramp.com/)
+  - interview practice
