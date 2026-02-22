@@ -4,7 +4,7 @@
 
 ```dataview
 LIST
-FROM [[./journal]]
+FROM [[learning/ai-pro/journal]]
 WHERE regextest("^\+", file.name) = false
 ```
 
