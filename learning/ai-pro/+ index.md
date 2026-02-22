@@ -5,7 +5,7 @@
 ```dataview
 LIST
 FROM [[]]
-WHERE file.folder = this.file.folder
+WHERE regextest("^\+", file.name) = false
 ```
 
 ## Links and resources
