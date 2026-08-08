@@ -2,6 +2,8 @@
 
 ### General programming
 
+- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+	- Build on the success of others' learning by evaluating open source software projects
 - [Programming Idioms](https://www.programming-idioms.org/)
   - polyglot search for common programming problems
 - [Big List Of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
@@ -36,6 +38,7 @@
 ### Security
 
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
+- [PortSwigger.net](https://portswigger.net/)
 
 ### Testing
 
